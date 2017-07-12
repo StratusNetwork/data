@@ -1,0 +1,237 @@
+name: Senior Moderators
+priority: 300
+html_color: "#AA0000"
+badge_color: "#AA0000"
+badge_link: "/staff"
+minecraft_permissions:
+  normal:
+  - bukkit.command.stop
+  - chat.admin
+  - chatmoderator.filters.exempt
+  - echocheat.alerts
+  - commandbook.broadcast
+  - commandbook.debug.clock
+  - commandbook.debug.info
+  - commandbook.gamemode.change
+  - commandbook.speed.flight
+  - commandbook.speed.walk
+  - commandbook.teleport
+  - commandbook.teleport.other
+  - commandbook.time
+  - commandbook.whereami
+  - commandbook.whois
+  - commandbook.whois.other
+  - commandbook.slap
+  - commandbook.slap.other
+  - commandbook.rocket
+  - commandbook.rocket.other
+  - commandbook.give
+  - commandbook.give.other
+  - commandbook.targets.everyone
+  - poll.veto
+  - database.queueinfo
+  - sudo
+  - lobby.disabled-permissions-exempt
+  - lobby.fly
+  - lobby.restricted.access
+  - nick.see-through-all
+  - nocheatplus.admin
+  - nocheatplus.checks.chat
+  - nocheatplus.checks.moving.boatsanywhere
+  - ocn.punishments
+  - ocn.punishments.ban
+  - ocn.punishments.kick
+  - ocn.punishments.warn
+  - ocn.punishments.punish
+  - ocn.punishments.lookup.stale
+  - ocn.punishments.punish.off_record
+  - ocn.punishments.punish.auto
+  - ocn.punishments.punish.silent
+  - ocn.punishments.punish.time
+  - overcast.premium
+  - pgm.cancel
+  - pgm.chat.admin
+  - pgm.chat.all.receive
+  - pgm.cycle
+  - pgm.defuse
+  - pgm.end
+  - pgm.fullserver
+  - pgm.join
+  - pgm.join.choose
+  - pgm.join.force
+  - pgm.join.full
+  - pgm.mapreload
+  - pgm.next.set
+  - pgm.rotation.reload
+  - pgm.rotation.append
+  - pgm.rotation.insert
+  - pgm.rotation.remove
+  - pgm.rotation.removeat
+  - pgm.rotation.set
+  - pgm.rotation.list
+  - pgm.skip
+  - pgm.start
+  - pgm.team.force
+  - pgm.team.size
+  - pgm.team.alias
+  - pgm.timelimit
+  - pgm.updatemap
+  - mutation.set
+  - projectares.appeals.alerts
+  - projectares.moderator
+  - projectares.staff
+  - projectares.freeze
+  - projectares.freeze.exempt
+  - projectares.reports.receive
+  - projectares.reports.view
+  - projectares.report.exempt
+  - projectares.report.override
+  - projectares.report.cooldown.exempt
+  - projectares.lookup
+  - projectares.lookup.type.ban
+  - projectares.lookup.type.forum_ban
+  - projectares.lookup.type.forum_warn.own
+  - projectares.lookup.type.kick
+  - projectares.lookup.type.tourney_ban
+  - projectares.lookup.type.warn.own
+  - pseudogroupnode.srstaff
+  - raindrops.multiplier.250
+  - server.cancelrestart
+  - server.cross-datacenter
+  - server.queuerestart
+  - server.restart
+  - setting.adminchat
+  - setting.nick
+  - setting.nick.any.get
+  - setting.nick.set
+  - setting.nick.immediate
+  - setting.adminchat
+  - whitelist.bypass
+  - whitelist.edit
+  - worldedit.analysis.*
+  - worldedit.clipboard.*
+  - worldedit.drain
+  - worldedit.extinguish
+  - worldedit.history.*
+  - worldedit.navigation.*
+  - worldedit.region.*
+  - worldedit.remove
+  - worldedit.selection.*
+  - worldedit.tool.info
+  - worldedit.wand
+  - worldedit.wand.toggle
+  - skin.change
+  - ocn.teleport.others
+staff: true
+web_permissions: 
+  appeal: 
+    manage: true
+    action_on_closed: 
+      escalate: all
+    action_on_escalated: 
+      comment: all
+    comment: all
+    create: true
+    index: all
+    view: all
+  forum: 
+    parent: 
+      manage: true
+      post: 
+        edit_parent: all
+        hide: all
+        view_parent: all
+      topic: 
+        create: true
+        hide: all
+        index: 
+          status: 
+            hidden: all
+            locked: all
+        index_parent: all
+        reply: all
+        view: 
+          status: 
+            hidden: all
+            locked: all
+        view_parent: all
+  map: 
+    download: own
+    phase: 
+      development: 
+        view: all
+      production: 
+        view: all
+    rating: 
+      view: 
+        private: all
+        public: all
+  misc: 
+    name_change: 
+      index: all
+    player: 
+      view_display_server: true
+      view_new_players: true
+      view_suspended: true
+    ipban:
+      edit: true
+    alt:
+      index: all
+  session:
+    admin: true
+  punishment:
+    manage: true 
+    create: 
+      ban: true
+      kick: true
+      warn: true
+      forum_ban: true
+      forum_warn: true
+    distinguish_status: 
+      automatic: all
+      contested: all
+      inactive: all
+      stale: all
+    index: 
+      status: 
+        automatic: all
+        contested: all
+        inactive: all
+        stale: all
+      type: 
+        ban: all
+        forum_ban: all
+        forum_warn: all
+        kick: all
+        tourney_ban: all
+        warn: all
+    view: 
+      status: 
+        automatic: all
+        contested: all
+        inactive: all
+        stale: all
+      type: 
+        ban: all
+        forum_ban: all
+        forum_warn: all
+        kick: all
+        tourney_ban: all
+        warn: all
+  report:
+    manage: true 
+    action_on_escalated: 
+      comment: all
+    close: all
+    comment: all
+    create: true
+    index: all
+    lock: all
+    open: all
+    unlock: all
+    view: all
+  site: 
+    login: true
+  tournament: 
+    participate: true
+

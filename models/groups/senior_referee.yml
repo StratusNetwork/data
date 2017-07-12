@@ -1,0 +1,91 @@
+name: Senior Referee
+priority: 209
+minecraft_flair:
+  tournament:
+    symbol: "❖"
+    color: dark_aqua
+  practice:
+    symbol: "❖"
+    color: dark_aqua
+minecraft_permissions:
+  global:
+  - whitelist.bypass
+  - whitelist.edit
+  tournament:
+  - op
+  - projectares.staff
+  - tourney.srreferee
+  - tourney.referee
+  - tourney.bypass-whitelist
+  practice:
+  - op
+  - projectares.staff
+  - tourney.srreferee
+  - tourney.referee
+  - tourney.bypass-whitelist
+web_permissions:
+  group: 
+    parent:
+      admin: true
+    tournament_winner:
+      admin: true
+      manage: true
+      edit:
+        members: true
+    referees:
+      admin: true
+      manage: true
+      edit:
+        members: true
+    co_streamer:
+      admin: true
+      manage: true
+      edit:
+        members: true
+    live_streamer:
+      admin: true
+      manage: true
+      edit:
+        members: true
+    participating_referee:
+      admin: true
+      manage: true
+      edit:
+        members: true
+    event_producer:
+      admin: true
+      manage: true
+      edit:
+        members: true
+  tournament: 
+    admin: true
+    manage: true
+  punishment:
+    create: 
+      tourney_ban: true
+    distinguish_status: 
+      automatic: all
+      contested: all
+      inactive: all
+      stale: all
+    index: 
+      status: 
+        automatic: all
+        contested: all
+        inactive: all
+        stale: all
+      type: 
+        ban: all
+        forum_ban: all
+        forum_warn: all
+        kick: all
+        tourney_ban: all
+        warn: all
+    view: 
+      status: 
+        automatic: all
+        contested: all
+        inactive: all
+        stale: all
+      type: 
+        tourney_ban: all

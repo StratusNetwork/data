@@ -1,0 +1,6 @@
+name: Tournament Op
+priority: 800
+minecraft_permissions:
+  practice:
+  - op
+

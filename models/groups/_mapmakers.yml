@@ -1,0 +1,9 @@
+name: _Mapmakers
+priority: 1000
+minecraft_permissions:
+  global:
+  - map.rating.view.live
+  - overcast.premium
+  - pgm.fullserver
+  - pgm.join.choose
+  - pgm.join.full

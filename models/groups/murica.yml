@@ -1,0 +1,5 @@
+name: "Gizmo: murica"
+minecraft_permissions:
+  global:
+  - lobby.gizmo.murica
+

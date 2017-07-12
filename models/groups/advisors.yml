@@ -1,0 +1,23 @@
+name: Advisors
+priority: 1000
+html_color: "#AA0000"
+badge_color: "#AA0000"
+badge_link: "/staff"
+staff: true
+minecraft_flair:
+  global:
+    symbol: ""
+    color: dark_red
+minecraft_permissions:
+  global:
+  - op
+  - sudo.others
+  - setting.nick
+  - setting.nick.get
+  - setting.nick.set
+  - setting.nick.immediate
+  - setting.nick.any
+  - setting.nick.any.get
+  - setting.nick.any.set
+  - ocn.developer
+

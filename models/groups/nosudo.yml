@@ -1,0 +1,7 @@
+name: nosudo
+priority: 1
+minecraft_permissions:
+  global:
+  - "-sudo"
+  - "-sudo.others"
+

@@ -1,0 +1,18 @@
+name: Donators
+priority: 900
+html_color: "#85ED4E"
+badge_color: "#85ED4E"
+badge_link: "/shop"
+minecraft_permissions:
+  global:
+  - flair.donator
+  - raindrops.multiplier.150
+  - pgm.fullserver
+  - pgm.join.full
+  - pgm.join.choose
+  - overcast.premium
+  - lobby.fly
+minecraft_flair:
+  global:
+    symbol: "*"
+    color: green

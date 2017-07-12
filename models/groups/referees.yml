@@ -1,0 +1,40 @@
+name: Referees
+priority: 701
+html_color: "#00FFFF"
+badge_color: "#00FFFF"
+minecraft_permissions:
+  global: []
+  tournament:
+  - whitelist.bypass
+  - whitelist.edit
+  - pgm.cycle
+  - pgm.skip
+  - pgm.timelimit
+  - pgm.destroyable.edit
+  - pgm.start
+  - commandbook.gamemode.change
+  - server.restart
+  - pgm.cycle
+  - flair.ref
+  - channels.global.send
+  - flair.asterisk.dark_aqua
+  - flair.asterisk_dark_aqua
+  - tourney.referee
+  - pgm.join.force
+  - pgm.fullserver
+  - chat.admin
+  - pgm.chat.all.receive
+  - whitelist.bypass
+  - projectares.staff
+  - commandbook.time.player
+  - projectares.reports.receive
+  - projectares.reports.view
+  - projectares.reports.view.other
+  - pgm.next.set
+  - commandbook.broadcast
+  - pgm.chat.all.receive
+  - flair.ref
+minecraft_flair: 
+  tournament: 
+    color: aqua
+    symbol: '❖'

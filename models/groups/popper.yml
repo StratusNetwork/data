@@ -1,0 +1,5 @@
+name: "Gizmo: popper"
+minecraft_permissions:
+  global:
+  - lobby.gizmo.popper
+

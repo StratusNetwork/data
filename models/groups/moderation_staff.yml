@@ -1,0 +1,6 @@
+name: Moderation Staff
+priority: 101
+minecraft_flair: 
+  normal: 
+    color: red
+    symbol: '❖'

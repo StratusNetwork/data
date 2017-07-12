@@ -1,0 +1,50 @@
+name: Senior Senior Referee
+priority: 700
+web_permissions:
+  group: 
+    parent:
+      admin: true
+    referees:
+      admin: true
+      manage: true
+      edit:
+        members: true
+    tournament_op:
+      admin: true
+      manage: true
+      edit:
+        members: true
+    co_streamer:
+      admin: true
+      manage: true
+      edit:
+        members: true
+    live_streamer:
+      admin: true
+      manage: true
+      edit:
+        members: true
+    participating_referee:
+      admin: true
+      manage: true
+      edit:
+        members: true
+    event_producer:
+      admin: true
+      manage: true
+      edit:
+        members: true
+    senior_referee:
+      admin: true
+      manage: true
+      edit:
+        members: true
+  tournament: 
+    admin: true
+    manage: true
+  misc:
+    alt:
+      index: all
+  session:
+    admin: true
+

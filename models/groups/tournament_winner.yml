@@ -1,0 +1,17 @@
+name: Tournament Winner
+priority: 901
+html_color: "#85ED4E"
+badge_color: "#85ED4E"
+minecraft_permissions:
+  normal:
+  - flair.donator
+  - raindrops.multiplier.150
+  - pgm.fullserver
+  - pgm.join.full
+  - pgm.join.choose
+  - overcast.premium
+  - lobby.fly
+minecraft_flair:
+  normal:
+    symbol: "*"
+    color: dark_aqua

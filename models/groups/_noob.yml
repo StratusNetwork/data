@@ -1,0 +1,5 @@
+name: _Noob
+priority: 1000
+minecraft_permissions:
+  global:
+  - pgm.join.full

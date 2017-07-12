@@ -1,0 +1,19 @@
+name: Internet Famous
+priority: 819
+html_color: "#0000FF"
+badge_color: "#0000FF"
+minecraft_permissions:
+  normal:
+  - setting.nick
+  - setting.nick.set
+  - pgm.join
+  - pgm.join.choose
+  - pgm.join.full
+  - pgm.fullserver
+  - raindrops.multiplier.250
+  - lobby.fly
+  - overcast.premium
+minecraft_flair:
+  normal:
+    symbol: "§l▲"
+    color: blue

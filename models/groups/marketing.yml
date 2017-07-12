@@ -1,0 +1,13 @@
+name: Marketing
+priority: 700
+html_color: "#00008B"
+badge_color: "#00008B"
+minecraft_permissions:
+  global:
+  - pgm.fullserver
+  - pgm.join.choose
+  - pgm.join.full
+  - lobby.fly
+  - lobby.disabled-permissions-exempt
+  - overcast.premium
+  - raindrops.multiplier.250

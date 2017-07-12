@@ -1,0 +1,5 @@
+name: "Gizmo: chickenifier5000"
+minecraft_permissions:
+  global:
+  - lobby.gizmo.chickenifier5000
+

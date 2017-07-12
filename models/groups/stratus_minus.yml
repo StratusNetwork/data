@@ -1,0 +1,12 @@
+name: Stratus-
+priority: 901
+html_color: "#0000FF"
+badge_color: "#0000FF"
+minecraft_flair:
+  normal:
+    symbol: "-"
+    color: dark_aqua
+minecraft_permissions:
+  cloudy:
+  - cloudy.ranks.minus
+

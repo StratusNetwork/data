@@ -1,0 +1,5 @@
+name: "Gizmo: raindropgun"
+minecraft_permissions:
+  global:
+  - lobby.gizmo.raindropgun
+

@@ -1,0 +1,21 @@
+name: Alto
+priority: 899
+html_color: "#85ED4E"
+badge_color: "#85ED4E"
+badge_link: "/shop"
+minecraft_permissions:
+  normal:
+  - flair.donator
+  - raindrops.multiplier.200
+  - pgm.fullserver
+  - pgm.join.full
+  - pgm.join.choose
+  - overcast.premium
+  - lobby.fly
+  cloudy:
+  - cloudy.ranks.strato
+  - cloudy.ranks.alto
+minecraft_flair:
+  normal:
+    symbol: "*"
+    color: gray

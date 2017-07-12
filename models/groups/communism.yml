@@ -1,0 +1,6 @@
+name: Communism
+priority: 10
+minecraft_flair:
+  normal:
+    symbol: "☭"
+    color: dark_red

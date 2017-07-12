@@ -1,0 +1,58 @@
+name: Administrators
+priority: 100
+html_color: "#f89406"
+badge_color: "#f89406"
+badge_link: "/staff"
+minecraft_permissions:
+  global:
+  - "-nocheatplus.checks"
+  - "-nocheatplus.mods.rei"
+  - bukkit.command.gamemode
+  - bukkit.command.gamerule
+  - chat.admin
+  - projectares.freeze
+  - chatmoderator.filters.exempt
+  - database.disconnect
+  - database.edit
+  - database.flush
+  - database.info
+  - database.reconnect
+  - database.reload
+  - flair.administrator
+  - gizmo.immunity
+  - lobby.disabled-permissions-exempt
+  - lobby.fly
+  - lobby.restricted.access
+  - nocheatplus.checks.chat
+  - nocheatplus.checks.moving.boatsanywhere
+  - ocn.developer
+  - ocn.teleport.others
+  - ocn.login
+  - op
+  - pgm.mapdev
+  - pgm.next.set
+  - pgm.updatemap
+  - projectares.appeals.alerts
+  - projectares.moderator
+  - projectares.staff
+  - pseudogroupnode.admins
+  - raindrops.multiplier.200
+  - server.cross-datacenter
+  - server.visibility
+  - whitelist.bypass
+  - whitelist.edit
+  - worldedit.*
+  - skin.change
+  - setting.nick
+  - setting.nick.set
+  - setting.nick.get
+  - setting.nick.immediate
+  - setting.nick.any.get
+  - setting.nick.any.set
+  - sudo.others
+  - tokens.give
+staff: true
+minecraft_flair:
+  global:
+    symbol: "❖"
+    color: gold

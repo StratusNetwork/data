@@ -1,0 +1,5 @@
+name: _trial
+priority: 1000
+minecraft_permissions:
+  global:
+  - nothing.nothing

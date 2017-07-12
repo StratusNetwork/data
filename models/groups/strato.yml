@@ -1,0 +1,19 @@
+name: Strato
+priority: 900
+html_color: "#85ED4E"
+badge_color: "#85ED4E"
+badge_link: "/shop"
+minecraft_permissions:
+  normal:
+  - flair.donator
+  - raindrops.multiplier.150
+  - pgm.fullserver
+  - pgm.join.full
+  - overcast.premium
+  - lobby.fly
+  cloudy:
+  - cloudy.ranks.strato
+minecraft_flair:
+  normal:
+    symbol: "*"
+    color: dark_gray

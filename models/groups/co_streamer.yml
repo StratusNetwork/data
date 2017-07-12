@@ -1,0 +1,12 @@
+name: Co Streamer
+priority: 810
+minecraft_permissions:
+  tournament:
+  - commandbook.gamemode
+  - "-channels.global.send"
+  - pgm.chat.all.receive
+  - whitelist.bypass
+minecraft_flair:
+  tournament:
+    symbol: "*"
+    color: green

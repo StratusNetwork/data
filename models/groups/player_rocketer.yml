@@ -1,0 +1,5 @@
+name: "Gizmo: playerrocketer"
+minecraft_permissions:
+  global:
+  - lobby.gizmo.playerrocketer
+

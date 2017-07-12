@@ -1,0 +1,76 @@
+name: Map Developers
+priority: 600
+html_color: "#008000"
+badge_color: "#008000"
+badge_link: "/staff"
+staff: true
+minecraft_permissions:
+  mapdev:
+  - op
+  normal:
+  - nick.see-through-all
+  - projectares.freeze.exempt
+  - commandbook.broadcast
+  - bukkit.command.gamemode
+  - bukkit.command.gamerule
+  - raindrops.multiplier.250
+  - chat.admin
+  - flair.mapdev
+  - map.rating.view.live
+  - mutation.set
+  - sudo
+  - poll.custom
+  - pgm.cancel
+  - pgm.cycle
+  - pgm.destroyable.edit
+  - pgm.end
+  - pgm.join
+  - pgm.join.choose
+  - pgm.join.force
+  - pgm.join.full
+  - pgm.loadnewmaps
+  - pgm.mapdev
+  - pgm.maperrors
+  - pgm.modes.push
+  - pgm.next.set
+  - pgm.skip
+  - pgm.start
+  - pgm.team.force
+  - pgm.team.size
+  - pgm.team.alias
+  - pgm.timelimit
+  - pgm.updatemap
+  - pgm.blitz
+  - server.cancelrestart
+  - server.queuerestart
+  - server.restart
+  - setting.adminchat
+  - setting.nick
+  - setting.nick.set
+  - whitelist.bypass
+  - whitelist.edit
+  - commandbook.rocket
+  - commandbook.give
+  - commandbook.give.other
+  - commandbook.targets.everyone
+  - commandbook.gamemode.change
+  - worldedit.*
+  - worldedit.analysis.*
+  - worldedit.clipboard.*
+  - worldedit.drain
+  - worldedit.extinguish
+  - worldedit.history.*
+  - worldedit.navigation.*
+  - worldedit.region.*
+  - worldedit.remove
+  - worldedit.selection.*
+  - worldedit.tool.info
+  - worldedit.wand
+  - worldedit.wand.toggle
+  - setting.nick
+  - setting.nick.set
+  - setting.nick.view
+minecraft_flair: 
+  normal:
+    color: dark_green
+    symbol: '፠'

@@ -1,0 +1,61 @@
+name: Junior Moderators
+priority: 500
+html_color: "#FF8888"
+badge_color: "#FF8888"
+badge_link: "/staff"
+minecraft_permissions:
+  global:
+    - chat.admin
+    - worldedit.drain
+    - worldedit.extinguish
+    - chatmoderator.filters.exempt
+    - commandbook.gamemode.change
+    - commandbook.teleport
+    - commandbook.teleport.other
+    - commandbook.whereami
+    - commandbook.whois
+    - commandbook.whois.other
+    - flair.juniormod
+    - lobby.disabled-permissions-exempt
+    - lobby.fly
+    - nick.see-through-all
+    - ocn.punishments
+    - ocn.punishments.ban
+    - ocn.punishments.kick
+    - ocn.punishments.lookup.stale
+    - projectares.lookup
+    - projectares.lookup.type.ban
+    - projectares.lookup.type.forum_ban
+    - projectares.lookup.type.forum_warn.own
+    - projectares.lookup.type.kick
+    - projectares.lookup.type.tourney_ban
+    - projectares.lookup.type.warn.own
+    - ocn.punishments.punish
+    - ocn.punishments.warn
+    - ocn.punishments.punish.off_record
+    - overcast.premium
+    - pgm.chat.all.receive
+    - pgm.defuse
+    - pgm.end
+    - pgm.fullserver
+    - pgm.join
+    - pgm.join.choose
+    - pgm.join.force
+    - pgm.join.full
+    - projectares.appeals.alerts
+    - projectares.freeze
+    - projectares.freeze.exempt
+    - projectares.moderator
+    - projectares.reports.receive
+    - projectares.reports.view
+    - projectares.staff
+    - pseudogroupnode.staff
+    - raindrops.multiplier.250
+    - server.cross-datacenter
+    - setting.adminchat
+    - setting.nick
+    - setting.nick.any.get
+    - setting.nick.immediate
+    - setting.nick.set
+staff: true
+

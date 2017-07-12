@@ -1,0 +1,22 @@
+name: Cirro
+priority: 898
+html_color: "#85ED4E"
+badge_color: "#85ED4E"
+badge_link: "/shop"
+minecraft_permissions:
+  normal:
+  - flair.donator
+  - raindrops.multiplier.250
+  - pgm.fullserver
+  - pgm.join.full
+  - pgm.join.choose
+  - overcast.premium
+  - lobby.fly
+  cloudy:
+  - cloudy.ranks.strato
+  - cloudy.ranks.alto
+  - cloudy.ranks.cirro
+minecraft_flair:
+  normal:
+    symbol: "*"
+    color: white

@@ -1,0 +1,45 @@
+name: _Observers
+priority: 1000
+minecraft_permissions:
+  global:
+  - "-bukkit.command.kill"
+  - "-bukkit.command.me"
+  - "-bukkit.command.tell"
+  - "-commandbook.pong"
+  - "-worldedit.navigation.ceiling"
+  - "-worldedit.navigation.up"
+  - commandbook.motd
+  - commandbook.msg
+  - commandbook.rules
+  - commandbook.teleport
+  - commandbook.time.check
+  - commandbook.who
+  - nocheatplus.checks.blockbreak
+  - nocheatplus.checks.blockinteract
+  - nocheatplus.checks.blockplace
+  - nocheatplus.checks.combined
+  - nocheatplus.checks.fight
+  - nocheatplus.checks.inventory
+  - nocheatplus.checks.moving
+  - nocheatplus.mods.zombe
+  - ocn.teleport
+  - ocn.punishments.lookup
+  - pgm.class
+  - pgm.class.list
+  - pgm.class.select
+  - pgm.inventory
+  - pgm.join
+  - pgm.myteam
+  - projectares.lookup
+  - projectares.lookup.type.ban
+  - projectares.lookup.type.forum_ban
+  - projectares.lookup.type.forum_warn.own
+  - projectares.lookup.type.kick
+  - projectares.lookup.type.tourney_ban
+  - projectares.lookup.type.warn.own
+  - projectares.rate
+  - projectares.rating
+  - projectares.register
+  - projectares.report
+  - projectares.seen
+  - worldedit.navigation.*
