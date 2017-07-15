@@ -72,5 +72,5 @@ minecraft_permissions:
   - setting.nick.view
 minecraft_flair: 
   normal:
-    color: dark_blue
+    color: blue
     symbol: '፠'
