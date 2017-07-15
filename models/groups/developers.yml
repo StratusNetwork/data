@@ -74,7 +74,4 @@ minecraft_permissions:
   - commandbook.teleport.other
   - commandbook.broadcast
 staff: true
-minecraft_flair: 
-  global:
-    symbol: '፠'
-    color: dark_purple
+
