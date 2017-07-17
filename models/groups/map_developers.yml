@@ -50,6 +50,7 @@ minecraft_permissions:
   - whitelist.bypass
   - whitelist.edit
   - commandbook.rocket
+  - commandbook.rocket.other
   - commandbook.give
   - commandbook.give.other
   - commandbook.targets.everyone
