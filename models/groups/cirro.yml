@@ -20,3 +20,6 @@ minecraft_flair:
   normal:
     symbol: "*"
     color: white
+  test:
+    symbol: "[Cirro]"
+    color: white

@@ -58,4 +58,8 @@ minecraft_permissions:
     - setting.nick.immediate
     - setting.nick.set
 staff: true
+minecraft_flair:
+  test:
+    symbol: "[Jr. Mod]"
+    color: red
 

@@ -19,3 +19,6 @@ minecraft_flair:
   normal:
     symbol: "*"
     color: gray
+  test:
+    symbol: "[Alto]"
+    color: gray

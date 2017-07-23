@@ -4,6 +4,10 @@ staff: true
 badge_color: "#FF2200"
 badge_link: /staff
 html_color: "#FF2200"
+minecraft_flair:
+  test:
+    symbol: "[Mod]"
+    color: red
 minecraft_permissions: 
   normal: 
     - skin.change

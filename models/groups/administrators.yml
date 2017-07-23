@@ -56,3 +56,6 @@ minecraft_flair:
   global:
     symbol: "❖"
     color: gold
+  test:
+    symbol: "[Admin]"
+    color: gold
