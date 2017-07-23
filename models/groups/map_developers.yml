@@ -74,4 +74,7 @@ minecraft_permissions:
 minecraft_flair: 
   normal:
     color: blue
+    symbol: "፠"
+  test:
+    color: blue
     symbol: "[Map Dev]"

@@ -76,6 +76,6 @@ minecraft_permissions:
 staff: true
 minecraft_flair:
   test:
-    symbol: "[Dev]"
+    symbol: "[Dev] "
     color: dark_purple
 

@@ -18,5 +18,5 @@ minecraft_flair:
     symbol: "*"
     color: dark_gray
   test:
-    symbol: "[Strato]"
+    symbol: "[Strato] "
     color: dark_gray

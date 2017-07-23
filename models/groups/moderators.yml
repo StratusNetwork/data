@@ -6,7 +6,7 @@ badge_link: /staff
 html_color: "#FF2200"
 minecraft_flair:
   test:
-    symbol: "[Mod]"
+    symbol: "[Mod] "
     color: red
 minecraft_permissions: 
   normal: 

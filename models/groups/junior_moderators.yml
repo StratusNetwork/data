@@ -60,6 +60,6 @@ minecraft_permissions:
 staff: true
 minecraft_flair:
   test:
-    symbol: "[Jr. Mod]"
+    symbol: "[Jr. Mod] "
     color: red
 
