@@ -4,10 +4,6 @@ html_color: "#AA0000"
 badge_color: "#AA0000"
 badge_link: "/staff"
 staff: true
-minecraft_flair:
-  global:
-    symbol: ""
-    color: dark_red
 minecraft_permissions:
   global:
   - op

@@ -17,3 +17,6 @@ minecraft_flair:
   normal:
     symbol: "§l►"
     color: blue
+  test:
+    symbol: "[CC]"
+    color: blue

@@ -15,3 +15,6 @@ minecraft_flair:
   normal:
     symbol: "*"
     color: dark_aqua
+  test:
+    symbol: "[TW]"
+    color: dark_aqua

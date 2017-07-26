@@ -5,7 +5,7 @@ badge_color: "#AA0000"
 badge_link: "/staff"
 minecraft_flair:
   test:
-    symbol: "[Sr. Mod]"
+    symbol: "[SrMod]"
     color: dark_red
 minecraft_permissions:
   normal:
