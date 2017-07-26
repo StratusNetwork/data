@@ -1,5 +1,5 @@
 name: Live Streamer
-priority: 800
+priority: 550
 minecraft_permissions:
   tournament:
   - commandbook.gamemode

@@ -1,5 +1,5 @@
 name: Co Streamer
-priority: 810
+priority: 575
 minecraft_permissions:
   tournament:
   - commandbook.gamemode
