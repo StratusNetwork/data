@@ -61,6 +61,7 @@ minecraft_permissions:
   - setting.sounds.set
   - setting.stats.view
   - setting.stats.set
+  - server.cross-datacenter
 web_permissions:
   site:
     login: true
