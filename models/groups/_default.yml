@@ -13,6 +13,7 @@ minecraft_permissions:
   - "-commandbook.slay"
   - "-minecraft.command.me"
   - "-minecraft.command.tell"
+  - pgm.rotation.list
   - projectares.lookup
   - projectares.lookup.type.ban
   - projectares.lookup.type.forum_ban
