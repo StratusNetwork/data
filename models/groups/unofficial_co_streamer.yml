@@ -1,0 +1,12 @@
+name: Unofficial Co Streamer
+priority: 870
+minecraft_permissions:
+  unofficial:
+  - commandbook.gamemode
+  - "-channels.global.send"
+  - pgm.chat.all.receive
+  - whitelist.bypass
+minecraft_flair:
+  unofficial:
+    symbol: "*"
+    color: green

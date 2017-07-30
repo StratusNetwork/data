@@ -1,0 +1,12 @@
+name: Unofficial Live Streamer
+priority: 860
+minecraft_permissions:
+  unofficial:
+  - commandbook.gamemode
+  - "-channels.global.send"
+  - pgm.chat.all.receive
+  - whitelist.bypass
+minecraft_flair:
+  unofficial:
+    symbol: "❖"
+    color: green

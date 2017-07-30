@@ -7,6 +7,10 @@ minecraft_permissions:
   - tourney.ready
   - "-pgm.join"
   - "-pgm.join.choose.observing"
+  unofficial:
+  - tourney.ready
+  - "-pgm.join"
+  - "-pgm.join.choose.observing"
   normal:
   - pgm.join
   global:
