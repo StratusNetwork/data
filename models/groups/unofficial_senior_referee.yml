@@ -43,7 +43,6 @@ minecraft_permissions:
   - commandbook.teleport
   - commandbook.teleport.other
   - commandbook.time
-  - nick.see-through-all
   - overcast.premium
   - pgm.cancel
   - pgm.chat.admin
