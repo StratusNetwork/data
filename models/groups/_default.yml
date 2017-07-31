@@ -90,6 +90,25 @@ web_permissions:
         view_parent: all
         hide: own
         edit_parent: own
+    announcements:
+      topic:
+        view:
+          status:
+            locked: all
+            hidden: own
+        index_parent: all
+        index:
+          status:
+            locked: all
+            hidden: own
+        view_parent: all
+        create: false
+        reply: all
+        hide: own
+      post:
+        view_parent: all
+        hide: own
+        edit_parent: own
   punishment:
     view:
       type:
