@@ -1,7 +1,7 @@
 name: Referees
 priority: 525
-html_color: "#00FFFF"
-badge_color: "#00FFFF"
+html_color: "#0EBCBC"
+badge_color: "#0EBCBC"
 minecraft_permissions:
   global: []
   tournament:
