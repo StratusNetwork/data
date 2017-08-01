@@ -1,12 +1,5 @@
 name: Senior Referee
 priority: 250
-minecraft_flair:
-  tournament:
-    symbol: "❖"
-    color: dark_aqua
-  practice:
-    symbol: "❖"
-    color: dark_aqua
 minecraft_permissions:
   global:
   - whitelist.bypass
@@ -23,8 +16,15 @@ minecraft_permissions:
   - tourney.srreferee
   - tourney.referee
   - tourney.bypass-whitelist
+minecraft_flair:
+  tournament:
+    symbol: "❖"
+    color: dark_aqua
+  practice:
+    symbol: "❖"
+    color: dark_aqua
 web_permissions:
-  group: 
+  group:
     parent:
       admin: true
     tournament_winner:
@@ -57,35 +57,35 @@ web_permissions:
       manage: true
       edit:
         members: true
-  tournament: 
+  tournament:
     admin: true
     manage: true
   punishment:
-    create: 
+    create:
       tourney_ban: true
-    distinguish_status: 
+    distinguish_status:
       automatic: all
       contested: all
       inactive: all
       stale: all
-    index: 
-      status: 
+    index:
+      status:
         automatic: all
         contested: all
         inactive: all
         stale: all
-      type: 
+      type:
         ban: all
         forum_ban: all
         forum_warn: all
         kick: all
         tourney_ban: all
         warn: all
-    view: 
-      status: 
+    view:
+      status:
         automatic: all
         contested: all
         inactive: all
         stale: all
-      type: 
+      type:
         tourney_ban: all

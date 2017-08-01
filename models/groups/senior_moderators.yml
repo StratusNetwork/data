@@ -1,12 +1,8 @@
 name: Senior Moderators
 priority: 225
-html_color: "#AA0000"
-badge_color: "#AA0000"
+html_color: "#b71c1c"
+badge_color: "#b71c1c"
 badge_link: "/staff"
-minecraft_flair:
-  test:
-    symbol: "[SrMod]"
-    color: dark_red
 minecraft_permissions:
   normal:
   - bukkit.command.stop
@@ -127,53 +123,57 @@ minecraft_permissions:
   - skin.change
   - ocn.teleport.others
 staff: true
-web_permissions: 
-  appeal: 
+minecraft_flair:
+  test:
+    symbol: "[SrMod]"
+    color: dark_red
+web_permissions:
+  appeal:
     manage: true
-    action_on_closed: 
+    action_on_closed:
       escalate: all
-    action_on_escalated: 
+    action_on_escalated:
       comment: all
     comment: all
     create: true
     index: all
     view: all
-  forum: 
-    parent: 
+  forum:
+    parent:
       manage: true
-      post: 
+      post:
         edit_parent: all
         hide: all
         view_parent: all
-      topic: 
+      topic:
         create: true
         hide: all
-        index: 
-          status: 
+        index:
+          status:
             hidden: all
             locked: all
         index_parent: all
         reply: all
-        view: 
-          status: 
+        view:
+          status:
             hidden: all
             locked: all
         view_parent: all
-  map: 
+  map:
     download: own
-    phase: 
-      development: 
+    phase:
+      development:
         view: all
-      production: 
+      production:
         view: all
-    rating: 
-      view: 
+    rating:
+      view:
         private: all
         public: all
-  misc: 
-    name_change: 
+  misc:
+    name_change:
       index: all
-    player: 
+    player:
       view_display_server: true
       view_new_players: true
       view_suspended: true
@@ -184,38 +184,38 @@ web_permissions:
   session:
     admin: true
   punishment:
-    manage: true 
-    create: 
+    manage: true
+    create:
       ban: true
       kick: true
       warn: true
       forum_ban: true
       forum_warn: true
-    distinguish_status: 
+    distinguish_status:
       automatic: all
       contested: all
       inactive: all
       stale: all
-    index: 
-      status: 
+    index:
+      status:
         automatic: all
         contested: all
         inactive: all
         stale: all
-      type: 
+      type:
         ban: all
         forum_ban: all
         forum_warn: all
         kick: all
         tourney_ban: all
         warn: all
-    view: 
-      status: 
+    view:
+      status:
         automatic: all
         contested: all
         inactive: all
         stale: all
-      type: 
+      type:
         ban: all
         forum_ban: all
         forum_warn: all
@@ -223,8 +223,8 @@ web_permissions:
         tourney_ban: all
         warn: all
   report:
-    manage: true 
-    action_on_escalated: 
+    manage: true
+    action_on_escalated:
       comment: all
     close: all
     comment: all
@@ -234,8 +234,7 @@ web_permissions:
     open: all
     unlock: all
     view: all
-  site: 
+  site:
     login: true
-  tournament: 
+  tournament:
     participate: true
-

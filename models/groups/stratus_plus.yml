@@ -1,7 +1,7 @@
 name: Stratus+
 priority: 999
-html_color: "#0000FF"
-badge_color: "#0000FF"
+html_color: "#64dd17"
+badge_color: "#64dd17"
 minecraft_flair:
   normal:
     symbol: "+"
@@ -9,5 +9,3 @@ minecraft_flair:
 minecraft_permissions:
   cloudy:
   - cloudy.ranks.plus
-
-

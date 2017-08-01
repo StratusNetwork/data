@@ -1,7 +1,7 @@
 name: Unofficial Referees
 priority: 840
-html_color: "#00FFFF"
-badge_color: "#00FFFF"
+html_color: "#4dd0e1"
+badge_color: "#4dd0e1"
 minecraft_permissions:
   unofficial:
   - whitelist.bypass
@@ -30,7 +30,7 @@ minecraft_permissions:
   - commandbook.broadcast
   - pgm.chat.all.receive
   - flair.ref
-minecraft_flair: 
+minecraft_flair:
   unofficial:
     color: aqua
     symbol: '❖'

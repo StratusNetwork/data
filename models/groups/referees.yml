@@ -1,7 +1,7 @@
 name: Referees
 priority: 525
-html_color: "#00FFFF"
-badge_color: "#00FFFF"
+html_color: "#4dd0e1"
+badge_color: "#4dd0e1"
 minecraft_permissions:
   global: []
   tournament:
@@ -34,7 +34,7 @@ minecraft_permissions:
   - commandbook.broadcast
   - pgm.chat.all.receive
   - flair.ref
-minecraft_flair: 
-  tournament: 
+minecraft_flair:
+  tournament:
     color: aqua
     symbol: '❖'

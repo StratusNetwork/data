@@ -1,7 +1,7 @@
 name: Alto
 priority: 950
-html_color: "#85ED4E"
-badge_color: "#85ED4E"
+html_color: "#64dd17"
+badge_color: "#64dd17"
 badge_link: "/shop"
 minecraft_permissions:
   normal:
