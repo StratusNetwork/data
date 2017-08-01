@@ -1,7 +1,7 @@
 name: Advisors
 priority: 499
-html_color: "#AA0000"
-badge_color: "#AA0000"
+html_color: "#b71c1c"
+badge_color: "#b71c1c"
 badge_link: "/staff"
 staff: true
 minecraft_permissions:
@@ -16,4 +16,3 @@ minecraft_permissions:
   - setting.nick.any.get
   - setting.nick.any.set
   - ocn.developer
-
