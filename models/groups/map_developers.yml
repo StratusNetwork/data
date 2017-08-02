@@ -4,6 +4,26 @@ html_color: "#008000"
 badge_color: "#008000"
 badge_link: "/staff"
 staff: true
+web_permissions:
+  forum:
+    58e16d72f6e8a83410000047:
+      manage: true
+    58e16e6bf6e8a8341000004f:
+      manage: true
+    58e16ea8f6e8a83410000050:
+      manage: true
+  map:
+    rating:
+      view:
+        public: all
+        private: all
+    phase:
+      development:
+        view: all
+    download: all
+  misc:
+    player:
+      view_new_players: true
 minecraft_permissions:
   mapdev:
   - op

@@ -127,115 +127,41 @@ minecraft_permissions:
   - skin.change
   - ocn.teleport.others
 staff: true
-web_permissions: 
-  appeal: 
+web_permissions:
+  punishment:
     manage: true
-    action_on_closed: 
-      escalate: all
-    action_on_escalated: 
-      comment: all
-    comment: all
-    create: true
-    index: all
-    view: all
-  forum: 
-    parent: 
+    create:
+      warn: true
+      kick: true
+      ban: true
+  forum:
+    58e16cb1f6e8a83410000043:
       manage: true
-      post: 
-        edit_parent: all
-        hide: all
-        view_parent: all
-      topic: 
-        create: true
-        hide: all
-        index: 
-          status: 
-            hidden: all
-            locked: all
-        index_parent: all
-        reply: all
-        view: 
-          status: 
-            hidden: all
-            locked: all
-        view_parent: all
-  map: 
-    download: own
-    phase: 
-      development: 
-        view: all
-      production: 
-        view: all
-    rating: 
-      view: 
-        private: all
-        public: all
-  misc: 
-    name_change: 
-      index: all
-    player: 
+    58cdb02ef6e8a8525b00000d:
+      manage: true
+    58e16cd7f6e8a83410000044:
+      manage: true
+    58e16ce2f6e8a83410000046:
+      manage: true
+    58e16d72f6e8a83410000047:
+      manage: true
+  misc:
+    player:
       view_display_server: true
-      view_new_players: true
       view_suspended: true
-    ipban:
-      edit: true
+      view_new_players: true
+      view_posts: true
+      view_topics: true
     alt:
       index: all
+    name_change:
+      index: all
+    ipban:
+      edit: true
+  report:
+    manage: true
+  appeal:
+    manage: true
   session:
     admin: true
-  punishment:
-    manage: true 
-    create: 
-      ban: true
-      kick: true
-      warn: true
-      forum_ban: true
-      forum_warn: true
-    distinguish_status: 
-      automatic: all
-      contested: all
-      inactive: all
-      stale: all
-    index: 
-      status: 
-        automatic: all
-        contested: all
-        inactive: all
-        stale: all
-      type: 
-        ban: all
-        forum_ban: all
-        forum_warn: all
-        kick: all
-        tourney_ban: all
-        warn: all
-    view: 
-      status: 
-        automatic: all
-        contested: all
-        inactive: all
-        stale: all
-      type: 
-        ban: all
-        forum_ban: all
-        forum_warn: all
-        kick: all
-        tourney_ban: all
-        warn: all
-  report:
-    manage: true 
-    action_on_escalated: 
-      comment: all
-    close: all
-    comment: all
-    create: true
-    index: all
-    lock: all
-    open: all
-    unlock: all
-    view: all
-  site: 
-    login: true
-  tournament: 
-    participate: true
 

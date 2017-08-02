@@ -62,4 +62,48 @@ minecraft_flair:
   test:
     symbol: "[JrMod] "
     color: red
-
+web_permissions:
+  appeal:
+    comment: all
+    close: all
+    index: involved
+    action_on_closed:
+      comment: all
+      escalate: all
+      open: all
+      appeal: all
+      unappeal: all
+      expire: all
+    action_on_escalated:
+      comment: all
+    view: all
+    open: all
+    escalate:
+      immediately: involved
+  punishment:
+    index:
+      status:
+        inactive: all
+        stale: all
+      type:
+        warn: all
+        forum_warn: all
+    distinguish_status:
+      stale: all
+    edit:
+      active: own
+      expire: own
+      evidence: own
+    view:
+      type:
+        warn: all
+        forum_warn: all
+  report:
+    view: all
+    index: all
+  misc:
+    player:
+      view_display_server: true
+      view_new_players: true
+    name_change:
+      index: all

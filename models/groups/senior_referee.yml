@@ -24,6 +24,11 @@ minecraft_permissions:
   - tourney.referee
   - tourney.bypass-whitelist
 web_permissions:
+  forum:
+    58e16ed6f6e8a83410000051:
+      manage: true
+    58e16ef6f6e8a83410000052:
+      manage: true
   group: 
     parent:
       admin: true

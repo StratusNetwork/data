@@ -4,16 +4,20 @@ html_color: "#0000FF"
 badge_color: "#0000FF"
 minecraft_permissions:
   normal:
-  - setting.nick
-  - setting.nick.set
-  - setting.nick.immediate
-  - pgm.join
-  - pgm.join.choose
-  - pgm.join.full
-  - pgm.fullserver
-  - raindrops.multiplier.250
+  - lobby.disabled-permissions-exempt
   - lobby.fly
   - overcast.premium
+  - pgm.fullserver
+  - pgm.join
+  - pgm.join.choose
+  - pgm.join.force
+  - pgm.join.full
+  - raindrops.multiplier.250
+  - setting.nick
+  - setting.nick.get
+  - setting.nick.immediate
+  - setting.nick.set
+  - setting.nick.view
 minecraft_flair:
   normal:
     symbol: "§l▲"

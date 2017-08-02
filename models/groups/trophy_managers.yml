@@ -1,0 +1,5 @@
+name: Trophy Managers
+priority: 1000
+web_permissions:
+  trophy:
+    admin: true
