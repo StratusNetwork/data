@@ -1,7 +1,5 @@
 name: Unofficial Event Producer
 priority: 850
-html_color: "#009E9E"
-badge_color: "#009E9E"
 minecraft_flair:
   unofficial:
     symbol: "*"
