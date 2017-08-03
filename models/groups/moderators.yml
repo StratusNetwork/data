@@ -3,6 +3,11 @@ priority: 325
 html_color: "#e53935"
 badge_color: "#e53935"
 badge_link: "/staff"
+staff: true
+minecraft_flair:
+  test:
+    symbol: "[Mod] "
+    color: red
 minecraft_permissions:
   normal:
     - skin.change
@@ -100,11 +105,6 @@ minecraft_permissions:
     - worldedit.tool.info
     - worldedit.wand
     - worldedit.wand.toggle
-staff: true
-minecraft_flair:
-  test:
-    symbol: "[Mod] "
-    color: red
 web_permissions:
   appeal:
     action_on_closed:
@@ -178,30 +178,70 @@ web_permissions:
       status:
         automatic: all
         contested: all
+web_permissions:
+  misc:
+    player:
+      view_display_server: true
+      view_new_players: true
+    name_change:
+      index: all
+  punishment:
+    create:
+      warn: true
+      kick: true
+      ban: true
+    index:
+      status:
         inactive: all
+        contested: all
         stale: all
       type:
-        ban: all
-        forum_ban: all
-        forum_warn: all
-        kick: all
-        tourney_ban: all
         warn: all
+        forum_warn: all
+    distinguish_status:
+      stale: all
+      inactive: all
+      automatic: all
+      contested: all
+    edit:
+      reason: own
+      type: own
+      active: own
+      expire: own
+      evidence: own
+    view:
+      status:
+        stale: all
+      type:
+        warn: all
+        forum_warn: all
   report:
-    action_on_escalated:
-      comment: involved
-    close: involved
-    comment: all
-    create: true
     index: all
-    lock: involved
+    view: all
+    comment: all
+    close: all
+    action_on_closed:
+      comment: all
+      open: all
+    action_on_escalated:
+      comment: all
     open: all
     escalate:
       immediately: all
-      delayed: all
-    unlock: involved
+  appeal:
     view: all
-  site:
-    login: true
-  tournament:
-    participate: true
+    comment: all
+    close: involved
+    index: involved
+    action_on_closed:
+      comment: all
+      escalate: all
+      open: involved
+      appeal: involved
+      unappeal: involved
+      expire: involved
+    action_on_escalated:
+      comment: all
+    open: all
+    escalate:
+      immediately: involved

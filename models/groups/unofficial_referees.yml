@@ -1,7 +1,5 @@
 name: Unofficial Referees
 priority: 840
-html_color: "#4dd0e1"
-badge_color: "#4dd0e1"
 minecraft_permissions:
   unofficial:
   - whitelist.bypass
