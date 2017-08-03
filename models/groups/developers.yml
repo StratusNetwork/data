@@ -5,74 +5,22 @@ badge_color: "#800080"
 badge_link: "/staff"
 minecraft_permissions:
   global:
-  - protocolsupport.admin
   - ocn.developer
-  - bungeecord.command.send
-  - bungeecord.command.ip
-  - bukkit.command.gamemode
-  - lobby.fly
-  - setting.nick
-  - setting.nick.*
-  - nick.see-through-all
-  - skin.change
-  - chat.admin
-  - whitelist.bypass
-  - server.queuerestart
-  - server.cancelrestart
-  - server.restart
-  - sudo.others
-  - sudo
-  - pgm.mapdev
-  - pgm.cancel
-  - pgm.reload
-  - pgm.next.set
-  - pgm.fullserver
-  - pgm.map
-  - pgm.chat.all.receive
-  - pgm.start
-  - pgm.skip
-  - pgm.join.force
-  - pgm.timelimit
-  - pgm.cycle
-  - pgm.end
-  - pgm.next.set
-  - pgm.fullserver
-  - pgm.chat.all.receive
-  - pgm.team.force
-  - pgm.team.alias
-  - pgm.team.shuffle
-  - pgm.team.size
   - op
+  - protocolsupport.admin
+  - raindrops.multiplier.250
   - setting.nick
-  - setting.nick.get
-  - setting.nick.set
-  - setting.nick.immediate
   - setting.nick.any
   - setting.nick.any.get
   - setting.nick.any.set
-  - poll.veto
-  - poll.custom
-  - commandbook.locations.coords
-  - commandbook.debug.info
-  - commandbook.debug.clock
-  - commandbook.targets.everyone
-  - commandbook.gamemode
-  - commandbook.gamemode.change
-  - commandbook.gamemode.change.other
-  - commandbook.*
-  - bukkit.broadcast.scradmin
-  - bukkit.command.give
-  - minecraft.command.give
-  - worldedit.*
-  - worldedit.wand
-  - bukkit.command.tellraw
-  - bukkit.command.gamemode
+  - setting.nick.get
+  - setting.nick.immediate
+  - setting.nick.set
+  - skin.change
+  - sudo
+  - sudo.others
   - tokens.give
-  - mutation.set
-  - commandbook.time
-  - commandbook.teleport
-  - commandbook.teleport.other
-  - commandbook.broadcast
+  - whitelist.bypass
 staff: true
 minecraft_flair:
   test:
