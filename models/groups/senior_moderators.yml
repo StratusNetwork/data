@@ -80,6 +80,7 @@ minecraft_permissions:
   - pgm.team.alias
   - pgm.timelimit
   - pgm.updatemap
+  - minecraft.command.stop
   - mutation.set
   - projectares.appeals.alerts
   - projectares.moderator

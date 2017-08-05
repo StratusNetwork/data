@@ -57,12 +57,10 @@ minecraft_permissions:
   - commandbook.gamemode.change.other
   - commandbook.*
   - bukkit.broadcast.scradmin
-  - bukkit.command.give
   - minecraft.command.give
+  - minecraft.command.stop
   - worldedit.*
   - worldedit.wand
-  - bukkit.command.tellraw
-  - bukkit.command.gamemode
   - tokens.give
   - mutation.set
   - commandbook.time
