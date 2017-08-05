@@ -1,7 +1,7 @@
 name: Content Creators
 priority: 750
-html_color: "#0000FF"
-badge_color: "#0000FF"
+html_color: "#43a047"
+badge_color: "#43a047"
 minecraft_permissions:
   normal:
   - lobby.disabled-permissions-exempt

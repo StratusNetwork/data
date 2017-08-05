@@ -1,15 +1,15 @@
 name: Moderators
 priority: 325
+html_color: "#e53935"
+badge_color: "#e53935"
+badge_link: "/staff"
 staff: true
-badge_color: "#FF2200"
-badge_link: /staff
-html_color: "#FF2200"
 minecraft_flair:
   test:
     symbol: "[Mod] "
     color: red
-minecraft_permissions: 
-  normal: 
+minecraft_permissions:
+  normal:
     - skin.change
     - chat.admin
     - chatmoderator.filters.exempt
