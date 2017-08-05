@@ -37,6 +37,7 @@ minecraft_permissions:
     - flair.mod
     - lobby.disabled-permissions-exempt
     - lobby.fly
+    - minecraft.command.stop
     - mutation.list
     - mutation.set
     - nick.see-through-all

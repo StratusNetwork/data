@@ -37,6 +37,7 @@ minecraft_permissions:
   - chat.admin
   - flair.mapdev
   - map.rating.view.live
+  - minecraft.command.stop
   - mutation.set
   - sudo
   - poll.custom
