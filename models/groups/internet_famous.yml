@@ -21,7 +21,7 @@ minecraft_permissions:
 minecraft_flair:
   normal:
     symbol: "§l▲"
-    color: dark_green
+    color: blue
   test:
     symbol: "[IF]"
-    color: dark_green
+    color: blue
