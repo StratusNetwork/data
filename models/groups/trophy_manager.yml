@@ -1,4 +1,4 @@
-name: Trophy Managers
+name: Trophy Manager
 priority: 1000
 web_permissions:
   trophy:
