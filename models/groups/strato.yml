@@ -1,7 +1,7 @@
 name: Strato
 priority: 975
-html_color: "#64dd17"
-badge_color: "#64dd17"
+html_color: "#85ED4E"
+badge_color: "#85ED4E"
 badge_link: "/shop"
 minecraft_permissions:
   normal:

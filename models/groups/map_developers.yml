@@ -1,7 +1,7 @@
 name: Map Developers
 priority: 275
-html_color: "#283593"
-badge_color: "#283593"
+html_color: "#008000"
+badge_color: "#008000"
 badge_link: "/staff"
 staff: true
 web_permissions:
@@ -92,7 +92,7 @@ minecraft_permissions:
   - setting.nick
   - setting.nick.set
   - setting.nick.view
-minecraft_flair:
+minecraft_flair: 
   normal:
     color: blue
     symbol: "፠"

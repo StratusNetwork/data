@@ -28,7 +28,7 @@ minecraft_permissions:
   - commandbook.broadcast
   - pgm.chat.all.receive
   - flair.ref
-minecraft_flair:
+minecraft_flair: 
   unofficial:
     color: aqua
     symbol: '❖'

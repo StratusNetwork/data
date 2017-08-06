@@ -1,9 +1,8 @@
 name: Senior Moderators
 priority: 225
-html_color: "#b71c1c"
-badge_color: "#b71c1c"
+html_color: "#AA0000"
+badge_color: "#AA0000"
 badge_link: "/staff"
-staff: true
 minecraft_flair:
   test:
     symbol: "[SrMod]"
@@ -128,6 +127,7 @@ minecraft_permissions:
   - worldedit.wand.toggle
   - skin.change
   - ocn.teleport.others
+staff: true
 web_permissions:
   punishment:
     manage: true
@@ -165,3 +165,4 @@ web_permissions:
     manage: true
   session:
     admin: true
+

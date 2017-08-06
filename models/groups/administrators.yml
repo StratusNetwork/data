@@ -1,7 +1,7 @@
 name: Administrators
 priority: 100
-html_color: "#f9a825"
-badge_color: "#f9a825"
+html_color: "#f89406"
+badge_color: "#f89406"
 badge_link: "/staff"
 minecraft_permissions:
   global:

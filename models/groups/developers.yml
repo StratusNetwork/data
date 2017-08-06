@@ -1,7 +1,7 @@
 name: Developers
 priority: 200
-html_color: "#6a1b9a"
-badge_color: "#6a1b9a"
+html_color: "#800080"
+badge_color: "#800080"
 badge_link: "/staff"
 minecraft_permissions:
   global:
@@ -26,3 +26,4 @@ minecraft_flair:
   test:
     symbol: "[Dev] "
     color: dark_purple
+

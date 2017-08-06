@@ -1,5 +1,9 @@
 name: Unofficial Senior Referee
 priority: 810
+minecraft_flair:
+  unofficial:
+    symbol: "❖"
+    color: dark_aqua
 minecraft_permissions:
   unofficial:
   - minecraft.command.kick
@@ -83,7 +87,3 @@ minecraft_permissions:
   - tourney.srreferee
   - tourney.referee
   - tourney.bypass-whitelist
-minecraft_flair:
-  unofficial:
-    symbol: "❖"
-    color: dark_aqua

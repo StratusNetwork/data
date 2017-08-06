@@ -1,7 +1,7 @@
 name: Marketing
 priority: 700
-html_color: "#1b5e20"
-badge_color: "#1b5e20"
+html_color: "#00008B"
+badge_color: "#00008B"
 minecraft_permissions:
   global:
   - pgm.fullserver
