@@ -1,5 +1,7 @@
 name: Senior Referee
 priority: 250
+html_color: "#0097a7"
+badge_color: "#0097a7"
 minecraft_flair:
   tournament:
     symbol: "❖"

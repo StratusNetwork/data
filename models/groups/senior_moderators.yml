@@ -1,7 +1,7 @@
 name: Senior Moderators
 priority: 225
-html_color: "#AA0000"
-badge_color: "#AA0000"
+html_color: "#b71c1c"
+badge_color: "#b71c1c"
 badge_link: "/staff"
 minecraft_flair:
   test:

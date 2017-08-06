@@ -1,9 +1,9 @@
 name: Moderators
 priority: 325
 staff: true
-badge_color: "#FF2200"
+badge_color: "#e53935"
 badge_link: /staff
-html_color: "#FF2200"
+html_color: "#e53935"
 minecraft_flair:
   test:
     symbol: "[Mod] "
