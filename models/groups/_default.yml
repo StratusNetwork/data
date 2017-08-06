@@ -95,41 +95,80 @@ web_permissions:
         create: false
     59861798b4dd420001000229:
       topic:
-        reply: none
-        hide: none
-        create: false
         index_parent: none
         view_parent: none
-      post:
+        index:
+          status:
+            locked: none
+            hidden: none
+        view:
+          status:
+            locked: none
+            hidden: none
+        reply: none
         hide: none
+        create: false
+      post:
+        view_parent: none
         edit_parent: none
+        hide: none
     59861814b4dd42000100022a:
       topic:
+        index_parent: none
+        view_parent: none
+        index:
+          status:
+            locked: none
+            hidden: none
+        view:
+          status:
+            locked: none
+            hidden: none
         reply: none
         hide: none
         create: false
-        index_parent: none
       post:
-        hide: none
+        view_parent: none
         edit_parent: none
+        hide: none
     59861832b4dd42000100022c:
       topic:
+        index_parent: none
+        view_parent: none
+        index:
+          status:
+            locked: none
+            hidden: none
+        view:
+          status:
+            locked: none
+            hidden: none
         reply: none
         hide: none
         create: false
-        index_parent: none
       post:
-        hide: none
+        view_parent: none
         edit_parent: none
+        hide: none
     598618c5b4dd42000100022e:
       topic:
+        index_parent: none
+        view_parent: none
+        index:
+          status:
+            locked: none
+            hidden: none
+        view:
+          status:
+            locked: none
+            hidden: none
         reply: none
         hide: none
         create: false
-        index_parent: none
       post:
-        hide: none
+        view_parent: none
         edit_parent: none
+        hide: none
   punishment:
     view:
       type:
