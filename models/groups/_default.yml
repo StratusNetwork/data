@@ -93,6 +93,43 @@ web_permissions:
     58cdace8f6e8a8525b000002:
       topic:
         create: false
+    59861798b4dd420001000229:
+      topic:
+        reply: none
+        hide: none
+        create: false
+        index_parent: none
+        view_parent: none
+      post:
+        hide: none
+        edit_parent: none
+    59861814b4dd42000100022a:
+      topic:
+        reply: none
+        hide: none
+        create: false
+        index_parent: none
+      post:
+        hide: none
+        edit_parent: none
+    59861832b4dd42000100022c:
+      topic:
+        reply: none
+        hide: none
+        create: false
+        index_parent: none
+      post:
+        hide: none
+        edit_parent: none
+    598618c5b4dd42000100022e:
+      topic:
+        reply: none
+        hide: none
+        create: false
+        index_parent: none
+      post:
+        hide: none
+        edit_parent: none
   punishment:
     view:
       type:
