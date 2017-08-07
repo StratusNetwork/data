@@ -38,3 +38,25 @@ minecraft_flair:
   tournament: 
     color: aqua
     symbol: '❖'
+web_permissions:
+  forum:
+    598618c5b4dd42000100022e:
+      topic:
+        create: true
+        index_parent: all
+        reply: all
+        hide: own
+        modify_archived: all
+        view_parent: all
+        view:
+          status:
+            locked: all
+            hidden: own
+        index:
+          status:
+            locked: all
+            hidden: own
+      post:
+        view_parent: all
+        edit_parent: own
+        hide: own

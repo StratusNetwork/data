@@ -1,5 +1,5 @@
 name: Senior Senior Referee
-priority: 700
+priority: 245
 web_permissions:
   group: 
     parent:

@@ -21,3 +21,25 @@ minecraft_permissions:
   - commandbook.broadcast
   - chat.admin
   - whitelist.bypass
+web_permissions:
+  forum:
+    59861798b4dd420001000229:
+      topic:
+        create: true
+        index_parent: all
+        reply: all
+        hide: own
+        modify_archived: all
+        view_parent: all
+        view:
+          status:
+            locked: all
+            hidden: own
+        index:
+          status:
+            locked: all
+            hidden: own
+      post:
+        view_parent: all
+        edit_parent: own
+        hide: own
