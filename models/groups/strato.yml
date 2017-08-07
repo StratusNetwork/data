@@ -20,3 +20,25 @@ minecraft_flair:
   test:
     symbol: "[Strato] "
     color: dark_gray
+web_permissions:
+  forum:
+    5988e5b35bfeac00010001f2:
+      topic:
+        create: true
+        index_parent: all
+        reply: all
+        hide: own
+        modify_archived: all
+        view_parent: all
+        view:
+          status:
+            locked: all
+            hidden: own
+        index:
+          status:
+            locked: all
+            hidden: own
+      post:
+        view_parent: all
+        edit_parent: own
+        hide: own

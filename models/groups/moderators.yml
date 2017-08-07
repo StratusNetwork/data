@@ -108,7 +108,7 @@ minecraft_permissions:
     - worldedit.wand.toggle
 web_permissions:
   forum:
-    59861798b4dd420001000229:
+    5988e3fe5bfeac00010001ee:
       topic:
         create: true
         index_parent: all
@@ -128,7 +128,27 @@ web_permissions:
         view_parent: all
         edit_parent: own
         hide: own
-    59861832b4dd42000100022c:
+    5988e3615bfeac00010001ed:
+      topic:
+        create: true
+        index_parent: all
+        reply: all
+        hide: own
+        modify_archived: all
+        view_parent: all
+        view:
+          status:
+            locked: all
+            hidden: own
+        index:
+          status:
+            locked: all
+            hidden: own
+      post:
+        view_parent: all
+        edit_parent: own
+        hide: own
+    5988e5b35bfeac00010001f2:
       topic:
         create: true
         index_parent: all

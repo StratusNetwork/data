@@ -60,3 +60,23 @@ web_permissions:
         view_parent: all
         edit_parent: own
         hide: own
+    5988e41f5bfeac00010001ef:
+      topic:
+        create: true
+        index_parent: all
+        reply: all
+        hide: own
+        modify_archived: all
+        view_parent: all
+        view:
+          status:
+            locked: all
+            hidden: own
+        index:
+          status:
+            locked: all
+            hidden: own
+      post:
+        view_parent: all
+        edit_parent: own
+        hide: own

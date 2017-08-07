@@ -139,7 +139,7 @@ minecraft_permissions:
   - ocn.teleport.others
 web_permissions:
   forum:
-    59861798b4dd420001000229:
+    5988e3fe5bfeac00010001ee:
       topic:
         create: true
         index_parent: all
@@ -159,7 +159,7 @@ web_permissions:
         view_parent: all
         edit_parent: own
         hide: own
-    59861814b4dd42000100022a:
+    5988e41f5bfeac00010001ef:
       topic:
         create: true
         index_parent: all
@@ -179,7 +179,27 @@ web_permissions:
         view_parent: all
         edit_parent: own
         hide: own
-    598618c5b4dd42000100022e:
+    5988e46a5bfeac00010001f1:
+      topic:
+        create: true
+        index_parent: all
+        reply: all
+        hide: own
+        modify_archived: all
+        view_parent: all
+        view:
+          status:
+            locked: all
+            hidden: own
+        index:
+          status:
+            locked: all
+            hidden: own
+      post:
+        view_parent: all
+        edit_parent: own
+        hide: own
+    5988e5b35bfeac00010001f2:
       topic:
         create: true
         index_parent: all
