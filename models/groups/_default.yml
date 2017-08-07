@@ -93,7 +93,7 @@ web_permissions:
     58cdace8f6e8a8525b000002:
       topic:
         create: false
-    59861798b4dd420001000229:
+    5988e3fe5bfeac00010001ee:
       topic:
         index_parent: none
         view_parent: none
@@ -112,7 +112,7 @@ web_permissions:
         view_parent: none
         edit_parent: none
         hide: none
-    59861814b4dd42000100022a:
+    5988e3615bfeac00010001ed:
       topic:
         index_parent: none
         view_parent: none
@@ -131,7 +131,7 @@ web_permissions:
         view_parent: none
         edit_parent: none
         hide: none
-    59861832b4dd42000100022c:
+    5988e44d5bfeac00010001f0:
       topic:
         index_parent: none
         view_parent: none
@@ -150,7 +150,45 @@ web_permissions:
         view_parent: none
         edit_parent: none
         hide: none
-    598618c5b4dd42000100022e:
+    5988e41f5bfeac00010001ef:
+      topic:
+        index_parent: none
+        view_parent: none
+        index:
+          status:
+            locked: none
+            hidden: none
+        view:
+          status:
+            locked: none
+            hidden: none
+        reply: none
+        hide: none
+        create: false
+      post:
+        view_parent: none
+        edit_parent: none
+        hide: none
+    5988e46a5bfeac00010001f1:
+      topic:
+        index_parent: none
+        view_parent: none
+        index:
+          status:
+            locked: none
+            hidden: none
+        view:
+          status:
+            locked: none
+            hidden: none
+        reply: none
+        hide: none
+        create: false
+      post:
+        view_parent: none
+        edit_parent: none
+        hide: none
+    5988e5b35bfeac00010001f2:
       topic:
         index_parent: none
         view_parent: none
