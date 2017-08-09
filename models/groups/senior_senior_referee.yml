@@ -47,7 +47,6 @@ web_permissions:
       index: all
   session:
     admin: true
-web_permissions:
   forum:
     598a22f429274a00010001be: #Events/Information
       manage: true
