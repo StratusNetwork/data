@@ -48,5 +48,5 @@ web_permissions:
   session:
     admin: true
   forum:
-    598a22f429274a00010001be: #Events/Information
+    598a22f429274a00010001be: #Staff/Senior_Event_Staff
       manage: true
