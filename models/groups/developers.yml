@@ -21,7 +21,7 @@ minecraft_permissions:
   - sudo.others
   - tokens.give
   - whitelist.bypass
-  - commandbook.*
+  - commandbook.gamemode.*
 staff: true
 minecraft_flair:
   test:
