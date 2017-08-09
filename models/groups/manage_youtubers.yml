@@ -1,0 +1,16 @@
+name: Manage Youtubers
+priority: 1000
+web_permissions:
+  group:
+    parent:
+      admin: true
+    internet_famous:
+      admin: true
+      manage: true
+      edit:
+        members: true
+    content_creators:
+      admin: true
+      manage: true
+      edit:
+        members: true
