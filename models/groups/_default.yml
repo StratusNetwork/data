@@ -3,20 +3,8 @@ priority: 1000
 html_color: "#08c"
 badge_text_color: none
 minecraft_permissions:
-  private-server:
-  - "-projectares.reports.receive"
-  - "-projectares.reports.view"
-  - "-projectares.staff"
-  - "-projectares.moderator"
-  - "-ocn.punishments"
-  - "-ocn.punishments.lookup.stale"
-  - "-ocn.punishments.kick"
-  - "-ocn.punishments.ban"
-  - "-ocn.punishments.punish"
-  - "-ocn.punishments.warn"
-  - "-commandbook.whois"
-  - "-commandbook.whois.other"
-  - "-nick.see-through-all"
+  private:
+  - pgm.test
   tournament:
   - tourney.ready
   - "-pgm.join"
