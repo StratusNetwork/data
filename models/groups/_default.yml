@@ -3,7 +3,7 @@ priority: 1000
 html_color: "#08c"
 badge_text_color: none
 minecraft_permissions:
-  private:
+  private-server:
   - "-projectares.reports.receive"
   - "-projectares.reports.view"
   - "-projectares.staff"
