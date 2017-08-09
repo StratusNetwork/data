@@ -10,6 +10,7 @@ minecraft_permissions:
   - bukkit.command.gamemode
   - bukkit.command.gamerule
   - chat.admin
+  - commandbook.*
   - projectares.freeze
   - chatmoderator.filters.exempt
   - database.disconnect

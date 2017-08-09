@@ -16,6 +16,7 @@ minecraft_permissions:
   - setting.nick.any.get
   - setting.nick.any.set
   - ocn.developer
+  - commandbook.*
 web_permissions:
   forum:
     parent:
