@@ -4,7 +4,8 @@ html_color: "#08c"
 badge_text_color: none
 minecraft_permissions:
   private:
-  - pgm.test
+  - "-projectares.reports.receive"
+  - "-projectares.staff"
   tournament:
   - tourney.ready
   - "-pgm.join"
