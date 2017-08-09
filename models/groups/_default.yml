@@ -104,29 +104,19 @@ web_permissions:
         view_parent: all
         hide: own
         edit_parent: own
-    58cdace8f6e8a8525b000002:
+    58cdace8f6e8a8525b000002: #Stratus_Network/Announcements
       topic:
         create: false
-    5988e3fe5bfeac00010001ee:
+    58cdb02ef6e8a8525b00000d: #Stratus_Network/Stratus_Guides
       topic:
-        index_parent: none
-        view_parent: none
-        index:
-          status:
-            locked: none
-            hidden: none
-        view:
-          status:
-            locked: none
-            hidden: none
-        reply: none
-        hide: none
         create: false
-      post:
-        view_parent: none
-        edit_parent: none
-        hide: none
-    5988e3615bfeac00010001ed:
+    58e16d72f6e8a83410000047: #Mapmaking/Information
+      topic:
+        create: false
+    58e16ed6f6e8a83410000051: #Events/Information
+      topic:
+        create: false        
+    598a247729274a00010001c1: #Community/Lounge
       topic:
         index_parent: none
         view_parent: none
@@ -145,7 +135,7 @@ web_permissions:
         view_parent: none
         edit_parent: none
         hide: none
-    5988e44d5bfeac00010001f0:
+    598a225229274a00010001bc: #Staff/Discussion
       topic:
         index_parent: none
         view_parent: none
@@ -164,7 +154,7 @@ web_permissions:
         view_parent: none
         edit_parent: none
         hide: none
-    5988e41f5bfeac00010001ef:
+    598a22c629274a00010001bd: #Staff/Moderators
       topic:
         index_parent: none
         view_parent: none
@@ -183,7 +173,7 @@ web_permissions:
         view_parent: none
         edit_parent: none
         hide: none
-    5988e46a5bfeac00010001f1:
+    598a230f29274a00010001bf: #Staff/Map Developers
       topic:
         index_parent: none
         view_parent: none
@@ -202,7 +192,26 @@ web_permissions:
         view_parent: none
         edit_parent: none
         hide: none
-    5988e5b35bfeac00010001f2:
+    598a22f429274a00010001be: #Staff/Senior_Event_Staff
+      topic:
+        index_parent: none
+        view_parent: none
+        index:
+          status:
+            locked: none
+            hidden: none
+        view:
+          status:
+            locked: none
+            hidden: none
+        reply: none
+        hide: none
+        create: false
+      post:
+        view_parent: none
+        edit_parent: none
+        hide: none
+    598a233b29274a00010001c0: #Staff/Referees
       topic:
         index_parent: none
         view_parent: none

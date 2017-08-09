@@ -1,7 +1,7 @@
 name: Junior Moderators
 priority: 350
-html_color: "#ef9a9a"
-badge_color: "#ef9a9a"
+html_color: "#e7605d"
+badge_color: "#e7605d"
 badge_link: "/staff"
 minecraft_permissions:
   global:
@@ -64,7 +64,7 @@ minecraft_flair:
     color: red
 web_permissions:
   forum:
-    5988e3fe5bfeac00010001ee:
+    598a225229274a00010001bc: #Staff/Discussion
       topic:
         create: true
         index_parent: all
@@ -84,7 +84,7 @@ web_permissions:
         view_parent: all
         edit_parent: own
         hide: own
-    5988e3615bfeac00010001ed:
+    598a22c629274a00010001bd: #Staff/Moderators
       topic:
         create: true
         index_parent: all

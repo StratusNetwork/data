@@ -6,13 +6,15 @@ badge_link: "/staff"
 staff: true
 web_permissions:
   forum:
-    58e16d72f6e8a83410000047:
+    58e16d72f6e8a83410000047: #Mapmaking/Information
       manage: true
-    58e16e6bf6e8a8341000004f:
+    58e16e6bf6e8a8341000004f: #Mapmaking/Discussion
       manage: true
-    58e16ea8f6e8a83410000050:
+    58e16ea8f6e8a83410000050: #Mapmaking/Maps
       manage: true
-    5988e3fe5bfeac00010001ee:
+    58cdb02ef6e8a8525b00000d: #Stratus_Network/Stratus_Guides
+      manage: true      
+    598a225229274a00010001bc: #Staff/Moderators
       topic:
         create: true
         index_parent: all
@@ -32,7 +34,7 @@ web_permissions:
         view_parent: all
         edit_parent: own
         hide: own
-    5988e44d5bfeac00010001f0:
+    598a230f29274a00010001bf: #Staff/Map_Developers
       topic:
         create: true
         index_parent: all

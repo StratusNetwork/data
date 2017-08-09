@@ -27,30 +27,12 @@ minecraft_permissions:
   - tourney.bypass-whitelist
 web_permissions:
   forum:
-    58e16ed6f6e8a83410000051:
+    58e16ed6f6e8a83410000051: #Events/Information
       manage: true
-    58e16ef6f6e8a83410000052:
+    58e16ef6f6e8a83410000052: #Events/Discussion
       manage: true
-    59861798b4dd420001000229:
-      topic:
-        create: true
-        index_parent: all
-        reply: all
-        hide: own
-        modify_archived: all
-        view_parent: all
-        view:
-          status:
-            locked: all
-            hidden: own
-        index:
-          status:
-            locked: all
-            hidden: own
-      post:
-        view_parent: all
-        edit_parent: own
-        hide: own
+    598a233b29274a00010001c0: #Staff/Referees
+      manage: true
   group: 
     parent:
       admin: true

@@ -1,7 +1,7 @@
 name: Junior Developers
 priority: 300
-html_color: "#ce93d8"
-badge_color: "#ce93d8"
+html_color: "#8c29c7"
+badge_color: "#8c29c7"
 badge_link: "/staff"
 minecraft_permissions:
   global:
@@ -74,7 +74,7 @@ minecraft_flair:
     color: dark_purple
 web_permissions:
   forum:
-    5988e3fe5bfeac00010001ee:
+    598a225229274a00010001bc: #Staff/Discussion
       topic:
         create: true
         index_parent: all
