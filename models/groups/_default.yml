@@ -99,6 +99,16 @@ web_permissions:
     58e16d72f6e8a83410000047: #Mapmaking/Information
       topic:
         create: false
+    598b55b629274a0001000254: #Stratus_Network/Applications
+      topic:
+        create: true
+        index_parent: own
+        view_parent: own
+    598b549e29274a0001000253: #Stratus_Network/Map Submissions
+      topic:
+        create: true
+        index_parent: own
+        view_parent: own
     58e16ed6f6e8a83410000051: #Events/Information
       topic:
         create: false        

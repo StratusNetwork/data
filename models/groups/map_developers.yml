@@ -10,7 +10,9 @@ web_permissions:
       manage: true
     58e16e6bf6e8a8341000004f: #Mapmaking/Discussion
       manage: true
-    58e16ea8f6e8a83410000050: #Mapmaking/Maps
+    58e16ea8f6e8a83410000050: #Mapmaking/Map_Feedback
+      manage: true
+    598b549e29274a0001000253: #Mapmaking/Map_Submissions
       manage: true
     58cdb02ef6e8a8525b00000d: #Stratus_Network/Stratus_Guides
       manage: true      
