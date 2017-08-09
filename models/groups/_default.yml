@@ -3,9 +3,6 @@ priority: 1000
 html_color: "#08c"
 badge_text_color: none
 minecraft_permissions:
-  private:
-  - "-projectares.reports.receive"
-  - "-projectares.staff"
   tournament:
   - tourney.ready
   - "-pgm.join"
