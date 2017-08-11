@@ -110,6 +110,9 @@ minecraft_permissions:
   - setting.nick.any.get
   - setting.nick.set
   - setting.nick.immediate
+  - setting.nick.get
+  - setting.nick.any
+  - setting.nick.any.set
   - setting.adminchat
   - whitelist.bypass
   - whitelist.edit
@@ -135,7 +138,27 @@ web_permissions:
       warn: true
       kick: true
       ban: true
+  group:
+    parent:
+      admin: true
+    moderation_staff:
+      admin: true
+      manage: true
+      edit:
+        members: true
+    moderators:
+      admin: true
+      manage: true
+      edit:
+        members: true
+    junior_moderators:
+      admin: true
+      manage: true
+      edit:
+        members: true
   forum:
+    parent:
+      bypass_cooldown: true
     58e16cb1f6e8a83410000043: #Community/General_Discussion
       manage: true
     58cdb02ef6e8a8525b00000d: #Stratus_Network/Stratus_Guides
