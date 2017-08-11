@@ -57,6 +57,8 @@ minecraft_permissions:
     - setting.nick.any.get
     - setting.nick.immediate
     - setting.nick.set
+    - setting.nick.get
+    - setting.nick.any
 staff: true
 minecraft_flair:
   test:
