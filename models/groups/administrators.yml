@@ -7,6 +7,7 @@ minecraft_permissions:
   global:
   - "-nocheatplus.checks"
   - "-nocheatplus.mods.rei"
+  - "-projectares.report.exempt"
   - bukkit.command.gamemode
   - bukkit.command.gamerule
   - chat.admin
