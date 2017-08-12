@@ -89,7 +89,6 @@ minecraft_permissions:
   - projectares.freeze.exempt
   - projectares.reports.receive
   - projectares.reports.view
-  - projectares.report.exempt
   - projectares.report.override
   - projectares.report.cooldown.exempt
   - projectares.lookup
