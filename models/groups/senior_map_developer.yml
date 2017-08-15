@@ -1,0 +1,6 @@
+name: Senior Map Developers
+priority: 274
+web_permissions:
+  forum:
+    598a230f29274a00010001bf: #Staff/Map_Developers
+      manage: true

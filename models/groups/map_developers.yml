@@ -16,7 +16,7 @@ web_permissions:
       manage: true
     58cdb02ef6e8a8525b00000d: #Stratus_Network/Stratus_Guides
       manage: true      
-    598a225229274a00010001bc: #Staff/Moderators
+    598a225229274a00010001bc: #Staff/Discussion
       topic:
         create: true
         index_parent: all
