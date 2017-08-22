@@ -5,6 +5,8 @@ badge_color: "#e7605d"
 badge_link: "/staff"
 minecraft_permissions:
   global:
+    - nick.see-through-all
+  normal:
     - chat.admin
     - worldedit.drain
     - worldedit.extinguish

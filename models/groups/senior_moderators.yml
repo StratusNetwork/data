@@ -8,6 +8,8 @@ minecraft_flair:
     symbol: "[SrMod]"
     color: dark_red
 minecraft_permissions:
+  global:
+    - nick.see-through-all
   normal:
   - bukkit.command.stop
   - chat.admin

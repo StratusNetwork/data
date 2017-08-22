@@ -8,7 +8,9 @@ minecraft_flair:
   test:
     symbol: "[Mod] "
     color: red
-minecraft_permissions: 
+minecraft_permissions:
+  global:
+    - nick.see-through-all
   normal: 
     - skin.change
     - chat.admin
