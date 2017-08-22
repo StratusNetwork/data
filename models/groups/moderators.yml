@@ -9,7 +9,7 @@ minecraft_flair:
     symbol: "[Mod] "
     color: red
 minecraft_permissions: 
-  normal: 
+  global: 
     - skin.change
     - chat.admin
     - chatmoderator.filters.exempt
