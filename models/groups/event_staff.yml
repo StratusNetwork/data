@@ -1,6 +1,7 @@
 name: Event Staff
 priority: 375
 html_color: "#0097a7"
+badge_text_color: "#0097a7"
 staff: true
 minecraft_permissions:
   tournament:
