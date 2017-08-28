@@ -51,6 +51,7 @@ minecraft_permissions:
   - setting.nick.immediate
   - setting.nick.any.get
   - setting.nick.any.set
+  - nick.unlimited
   - sudo.others
   - tokens.give
 staff: true

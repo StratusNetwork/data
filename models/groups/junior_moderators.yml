@@ -21,6 +21,7 @@ minecraft_permissions:
     - lobby.disabled-permissions-exempt
     - lobby.fly
     - nick.see-through-all
+    - nick.unlimited
     - ocn.punishments
     - ocn.punishments.ban
     - ocn.punishments.kick
@@ -60,7 +61,6 @@ minecraft_permissions:
     - setting.nick.immediate
     - setting.nick.set
     - setting.nick.get
-    - setting.nick.any
 staff: true
 minecraft_flair:
   test:

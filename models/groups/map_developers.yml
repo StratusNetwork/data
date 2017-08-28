@@ -77,6 +77,7 @@ minecraft_permissions:
   - op
   normal:
   - nick.see-through-all
+  - nick.unlimited
   - projectares.freeze.exempt
   - commandbook.broadcast
   - bukkit.command.gamemode
@@ -115,7 +116,10 @@ minecraft_permissions:
   - server.restart
   - setting.adminchat
   - setting.nick
+  - setting.nick.any.get
+  - setting.nick.immediate
   - setting.nick.set
+  - setting.nick.view
   - whitelist.bypass
   - whitelist.edit
   - commandbook.rocket
@@ -137,9 +141,6 @@ minecraft_permissions:
   - worldedit.tool.info
   - worldedit.wand
   - worldedit.wand.toggle
-  - setting.nick
-  - setting.nick.set
-  - setting.nick.view
 minecraft_flair: 
   normal:
     color: blue
