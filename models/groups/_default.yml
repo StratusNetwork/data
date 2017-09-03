@@ -226,6 +226,25 @@ web_permissions:
         view_parent: none
         edit_parent: none
         hide: none
+    59ac6295a2e3a90001000064: #Staff/Archives
+      topic:
+        index_parent: none
+        view_parent: none
+        index:
+          status:
+            locked: none
+            hidden: none
+        view:
+          status:
+            locked: none
+            hidden: none
+        reply: none
+        hide: none
+        create: false
+      post:
+        view_parent: none
+        edit_parent: none
+        hide: none
   punishment:
     view:
       type:
