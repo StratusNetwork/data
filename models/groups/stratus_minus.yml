@@ -11,7 +11,7 @@ minecraft_permissions:
   - cloudy.ranks.minus
 web_permissions:
   forum:
-    598a247729274a00010001c1: #Community/Lounge
+    59ac443ea2e3a90001000047: #Community/Lounge
       topic:
         create: true
         index_parent: all

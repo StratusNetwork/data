@@ -140,7 +140,7 @@ minecraft_permissions:
   - ocn.teleport.others
 web_permissions:
   forum:
-    598a225229274a00010001bc: #Staff/Discussion
+    59ac4344a2e3a90001000045: #Staff/Discussion
       topic:
         create: true
         index_parent: all
@@ -160,7 +160,7 @@ web_permissions:
         view_parent: all
         edit_parent: own
         hide: own
-    598a22f429274a00010001be: #Staff/Senior_Event_Staff
+    59ac4476a2e3a90001000049: #Staff/Senior_Event_Staff
       topic:
         create: true
         index_parent: all
@@ -180,7 +180,7 @@ web_permissions:
         view_parent: all
         edit_parent: own
         hide: own
-    598a233b29274a00010001c0: #Staff/Referees
+    59ac4484a2e3a9000100004a: #Staff/Referees
       topic:
         create: true
         index_parent: all

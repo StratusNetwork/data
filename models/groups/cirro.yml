@@ -1,7 +1,7 @@
 name: Cirro
 priority: 925
-html_color: "#64dd17"
-badge_color: "#64dd17"
+html_color: "#e0e0e0"
+badge_color: "#e0e0e0"
 badge_link: "/shop"
 minecraft_permissions:
   normal:
@@ -25,7 +25,7 @@ minecraft_flair:
     color: white
 web_permissions:
   forum:
-    598a247729274a00010001c1: #Community/Lounge
+    59ac443ea2e3a90001000047: #Community/Lounge
       topic:
         create: true
         index_parent: all

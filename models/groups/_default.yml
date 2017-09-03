@@ -99,12 +99,12 @@ web_permissions:
     58e16d72f6e8a83410000047: #Mapmaking/Information
       topic:
         create: false
-    598b55b629274a0001000254: #Stratus_Network/Applications
+    59ac44fba2e3a9000100004c: #Stratus_Network/Applications
       topic:
         create: true
         index_parent: own
         view_parent: own
-    598b549e29274a0001000253: #Stratus_Network/Map Submissions
+    59ac44b7a2e3a9000100004b: #Stratus_Network/Map Submissions
       topic:
         create: true
         index_parent: own
@@ -112,7 +112,7 @@ web_permissions:
     58e16ed6f6e8a83410000051: #Events/Information
       topic:
         create: false        
-    598a247729274a00010001c1: #Community/Lounge
+    59ac443ea2e3a90001000047: #Community/Lounge
       topic:
         index_parent: none
         view_parent: none
@@ -131,7 +131,7 @@ web_permissions:
         view_parent: none
         edit_parent: none
         hide: none
-    598a225229274a00010001bc: #Staff/Discussion
+    59ac4344a2e3a90001000045: #Staff/Discussion
       topic:
         index_parent: none
         view_parent: none
@@ -150,7 +150,7 @@ web_permissions:
         view_parent: none
         edit_parent: none
         hide: none
-    598a22c629274a00010001bd: #Staff/Moderators
+    59ac4359a2e3a90001000046: #Staff/Moderators
       topic:
         index_parent: none
         view_parent: none
@@ -169,7 +169,7 @@ web_permissions:
         view_parent: none
         edit_parent: none
         hide: none
-    598a230f29274a00010001bf: #Staff/Map Developers
+    59ac445ca2e3a90001000048: #Staff/Map Developers
       topic:
         index_parent: none
         view_parent: none
@@ -188,7 +188,7 @@ web_permissions:
         view_parent: none
         edit_parent: none
         hide: none
-    598a22f429274a00010001be: #Staff/Senior_Event_Staff
+    59ac4476a2e3a90001000049: #Staff/Senior_Event_Staff
       topic:
         index_parent: none
         view_parent: none
@@ -207,7 +207,7 @@ web_permissions:
         view_parent: none
         edit_parent: none
         hide: none
-    598a233b29274a00010001c0: #Staff/Referees
+    59ac4484a2e3a9000100004a: #Staff/Referees
       topic:
         index_parent: none
         view_parent: none

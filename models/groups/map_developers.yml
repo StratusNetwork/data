@@ -15,12 +15,12 @@ web_permissions:
     58e16ea8f6e8a83410000050: #Mapmaking/Map_Feedback
       manage: true
       bypass_cooldown: true
-    598b549e29274a0001000253: #Mapmaking/Map_Submissions
+    59ac44b7a2e3a9000100004b: #Mapmaking/Map_Submissions
       manage: true
       bypass_cooldown: true
     58cdb02ef6e8a8525b00000d: #Stratus_Network/Stratus_Guides
       manage: true
-    598a225229274a00010001bc: #Staff/Discussion
+    59ac4344a2e3a90001000045: #Staff/Discussion
       topic:
         create: true
         index_parent: all
@@ -40,7 +40,7 @@ web_permissions:
         view_parent: all
         edit_parent: own
         hide: own
-    598a230f29274a00010001bf: #Staff/Map_Developers
+    59ac445ca2e3a90001000048: #Staff/Map_Developers
       topic:
         create: true
         index_parent: all

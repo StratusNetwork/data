@@ -1,7 +1,7 @@
 name: Strato
 priority: 975
-html_color: "#64dd17"
-badge_color: "#64dd17"
+html_color: "#616161"
+badge_color: "#616161"
 badge_link: "/shop"
 minecraft_permissions:
   normal:
@@ -22,7 +22,7 @@ minecraft_flair:
     color: dark_gray
 web_permissions:
   forum:
-    598a247729274a00010001c1: #Community/Lounge
+    59ac443ea2e3a90001000047: #Community/Lounge
       topic:
         create: true
         index_parent: all

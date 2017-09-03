@@ -111,7 +111,7 @@ minecraft_permissions:
     - worldedit.wand.toggle
 web_permissions:
   forum:
-    598a225229274a00010001bc: #Staff/Discussion
+    59ac4344a2e3a90001000045: #Staff/Discussion
       topic:
         create: true
         index_parent: all
@@ -131,7 +131,7 @@ web_permissions:
         view_parent: all
         edit_parent: own
         hide: own
-    598a22c629274a00010001bd: #Staff/Moderators
+    59ac4359a2e3a90001000046: #Staff/Moderators
       topic:
         create: true
         index_parent: all

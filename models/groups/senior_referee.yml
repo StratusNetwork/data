@@ -31,7 +31,7 @@ web_permissions:
       manage: true
     58e16ef6f6e8a83410000052: #Events/Discussion
       manage: true
-    598a233b29274a00010001c0: #Staff/Referees
+    59ac4484a2e3a9000100004a: #Staff/Referees
       manage: true
   group: 
     parent:
