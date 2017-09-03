@@ -11,7 +11,7 @@ minecraft_flair:
 minecraft_permissions:
   global:
     - nick.see-through-all
-  normal: 
+  normal:
     - skin.change
     - chat.admin
     - chatmoderator.filters.exempt

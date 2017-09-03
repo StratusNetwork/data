@@ -1,7 +1,7 @@
 name: Junior Moderators
 priority: 350
-html_color: "#e7605d"
-badge_color: "#e7605d"
+html_color: "#ef9a9a"
+badge_color: "#ef9a9a"
 badge_link: "/staff"
 minecraft_permissions:
   global:

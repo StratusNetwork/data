@@ -1,7 +1,7 @@
 name: Junior Developers
 priority: 300
-html_color: "#8c29c7"
-badge_color: "#8c29c7"
+html_color: "#ce93d8"
+badge_color: "#ce93d8"
 badge_link: "/staff"
 minecraft_permissions:
   global:
@@ -103,4 +103,3 @@ web_permissions:
       view:
         public: all
         private: all
-
