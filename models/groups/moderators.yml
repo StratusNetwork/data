@@ -97,7 +97,6 @@ minecraft_permissions:
     - setting.nick.set
     - setting.nick.get
     - setting.nick.any
-    - setting.nick.any.set
     - worldedit.analysis.*
     - worldedit.drain
     - worldedit.extinguish
