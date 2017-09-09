@@ -4,8 +4,8 @@ html_color: "#b71c1c"
 badge_color: "#b71c1c"
 badge_link: "/staff"
 minecraft_flair:
-  test:
-    symbol: "[SrMod]"
+  normal:
+    symbol: '❖'
     color: dark_red
 minecraft_permissions:
   global:

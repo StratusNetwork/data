@@ -63,9 +63,9 @@ minecraft_permissions:
     - setting.nick.get
 staff: true
 minecraft_flair:
-  test:
-    symbol: "[JrMod] "
-    color: red
+  normal:
+    color: light_purple
+    symbol: '❖'
 web_permissions:
   forum:
     parent:
