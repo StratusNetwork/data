@@ -31,6 +31,10 @@ web_permissions:
       manage: true
     58e16ef6f6e8a83410000052: #Events/Discussion
       manage: true
+    59b3630ba2e3a90001000001: #Events/Looking_For_Team
+      manage: true
+    59b3632fa2e3a90001000002: #Events/Looking_For_Members
+      manage: true
     59ac4484a2e3a9000100004a: #Staff/Referees
       manage: true
   group: 
