@@ -79,7 +79,7 @@ minecraft_permissions:
   - op
   normal:
   - nick.see-through-all
-  - nick.unlimited
+  - setting.nick.unlimited
   - projectares.freeze.exempt
   - commandbook.broadcast
   - bukkit.command.gamemode

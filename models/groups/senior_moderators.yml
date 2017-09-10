@@ -41,7 +41,7 @@ minecraft_permissions:
   - lobby.fly
   - lobby.restricted.access
   - nick.see-through-all
-  - nick.unlimited
+  - setting.nick.unlimited
   - nocheatplus.admin
   - nocheatplus.checks.chat
   - nocheatplus.checks.moving.boatsanywhere

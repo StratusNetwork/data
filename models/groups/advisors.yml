@@ -15,7 +15,7 @@ minecraft_permissions:
   - setting.nick.any
   - setting.nick.any.get
   - setting.nick.any.set
-  - nick.unlimited
+  - setting.nick.unlimited
   - ocn.developer
   - commandbook.*
 web_permissions:

@@ -43,7 +43,7 @@ minecraft_permissions:
     - mutation.list
     - mutation.set
     - nick.see-through-all
-    - nick.unlimited
+    - setting.nick.unlimited
     - nocheatplus.admin.commands
     - nocheatplus.admin.info
     - nocheatplus.admin.notify

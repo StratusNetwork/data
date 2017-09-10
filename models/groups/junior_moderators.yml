@@ -21,7 +21,7 @@ minecraft_permissions:
     - lobby.disabled-permissions-exempt
     - lobby.fly
     - nick.see-through-all
-    - nick.unlimited
+    - setting.nick.unlimited
     - ocn.punishments
     - ocn.punishments.ban
     - ocn.punishments.kick

@@ -16,7 +16,7 @@ minecraft_permissions:
   - setting.nick.get
   - setting.nick.immediate
   - setting.nick.set
-  - nick.unlimited
+  - setting.nick.unlimited
   - skin.change
   - sudo
   - sudo.others
