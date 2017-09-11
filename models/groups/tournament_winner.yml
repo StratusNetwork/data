@@ -1,7 +1,6 @@
 name: Tournament Winner
 priority: 900
-html_color: "#64dd17"
-badge_color: "#64dd17"
+badge_color: "#607D8B"
 minecraft_permissions:
   normal:
   - flair.donator
