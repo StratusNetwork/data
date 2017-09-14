@@ -96,6 +96,7 @@ web_permissions:
     58cdb02ef6e8a8525b00000d: #Stratus_Network/Stratus_Guides
       topic:
         create: false
+        reply: none
     58e16d72f6e8a83410000047: #Mapmaking/Information
       topic:
         create: false
