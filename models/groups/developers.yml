@@ -25,6 +25,6 @@ minecraft_permissions:
   - commandbook.*
 staff: true
 minecraft_flair:
-  test:
-    symbol: "[Dev] "
+  global:
+    symbol: "❖"
     color: dark_purple
