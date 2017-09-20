@@ -101,6 +101,7 @@ minecraft_permissions:
   - projectares.lookup.type.kick
   - projectares.lookup.type.tourney_ban
   - projectares.lookup.type.warn.own
+  - projectares.msg.override
   - pseudogroupnode.srstaff
   - raindrops.multiplier.250
   - server.cancelrestart

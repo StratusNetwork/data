@@ -15,9 +15,11 @@ minecraft_permissions:
   - coinflip
   - commandbook.broadcast
   - chat.admin
+  - projectares.msg.override
   - whitelist.bypass
   practice:
   - coinflip
   - commandbook.broadcast
   - chat.admin
+  - projectares.msg.override
   - whitelist.bypass

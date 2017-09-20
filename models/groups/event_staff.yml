@@ -51,6 +51,7 @@ minecraft_permissions:
   - pgm.team.size
   - pgm.timelimit
   - pgm.updatemap
+  - projectares.msg.override
   - server.cancelrestart
   - server.cross-datacenter
   - server.queuerestart
@@ -118,6 +119,7 @@ minecraft_permissions:
   - pgm.team.size
   - pgm.timelimit
   - pgm.updatemap
+  - projectares.msg.override
   - server.cancelrestart
   - server.cross-datacenter
   - server.queuerestart

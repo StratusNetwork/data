@@ -33,6 +33,7 @@ minecraft_permissions:
     - projectares.lookup.type.kick
     - projectares.lookup.type.tourney_ban
     - projectares.lookup.type.warn.own
+    - projectares.msg.override
     - ocn.punishments.punish
     - ocn.punishments.warn
     - ocn.punishments.punish.off_record

@@ -40,6 +40,7 @@ minecraft_permissions:
   - pgm.team.alias
   - pgm.team.shuffle
   - pgm.team.size
+  - projectares.msg.override
   - setting.nick
   - setting.nick.get
   - setting.nick.set

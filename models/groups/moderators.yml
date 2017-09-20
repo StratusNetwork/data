@@ -81,6 +81,7 @@ minecraft_permissions:
     - projectares.freeze
     - projectares.freeze.exempt
     - projectares.moderator
+    - projectares.msg.override
     - projectares.reports.receive
     - projectares.reports.view
     - projectares.staff
