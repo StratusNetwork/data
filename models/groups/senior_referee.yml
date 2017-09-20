@@ -73,6 +73,8 @@ web_permissions:
   tournament: 
     admin: true
     manage: true
+  report:
+    manage: true
   punishment:
     create: 
       tourney_ban: true
