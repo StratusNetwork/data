@@ -22,3 +22,20 @@ web_permissions:
   forum:
     parent:
       manage: true
+  punishment:
+    manage: true
+  report:
+    manage: true
+  appeal:
+    manage: true
+  misc:
+    player:
+      view_display_server: true
+      view_suspended: true
+      view_new_players: true
+      view_posts: true
+      view_topics: true
+    alt:
+      index: all
+    name_change:
+      index: all
