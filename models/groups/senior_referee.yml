@@ -37,6 +37,9 @@ web_permissions:
       manage: true
     59ac4484a2e3a9000100004a: #Staff/Referees
       manage: true
+  stream:
+    admin: true
+    manage: true
   group: 
     parent:
       admin: true
