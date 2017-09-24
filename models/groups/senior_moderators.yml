@@ -187,6 +187,8 @@ web_permissions:
       manage: true
     59ac4359a2e3a90001000046: #Staff/Moderators
       manage: true
+    58e16d72f6e8a83410000047: #Mapmaking/Information
+      manage: true
     58e16e6bf6e8a8341000004f: #Mapmaking/Discussion
       manage: true
     58e16ea8f6e8a83410000050: #Mapmaking/Map_Feedback
