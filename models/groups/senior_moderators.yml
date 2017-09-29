@@ -55,6 +55,7 @@ minecraft_permissions:
   - ocn.punishments.punish.auto
   - ocn.punishments.punish.silent
   - ocn.punishments.punish.time
+  - ocn.version
   - overcast.premium
   - pgm.cancel
   - pgm.chat.admin

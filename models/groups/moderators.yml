@@ -58,6 +58,7 @@ minecraft_permissions:
     - ocn.punishments.punish
     - ocn.punishments.warn
     - ocn.punishments.punish.off_record
+    - ocn.version
     - overcast.premium
     - pgm.cancel
     - pgm.chat.all.receive

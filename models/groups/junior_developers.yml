@@ -6,6 +6,7 @@ badge_link: "/staff"
 minecraft_permissions:
   global:
   - ocn.developer
+  - ocn.version
   - bungeecord.command.send
   - bungeecord.command.ip
   - bukkit.command.gamemode
