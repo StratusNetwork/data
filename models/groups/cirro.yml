@@ -19,9 +19,6 @@ minecraft_flair:
   normal:
     symbol: "*"
     color: white
-  test:
-    symbol: "[Cirro] "
-    color: white
 web_permissions:
   forum:
     59ac443ea2e3a90001000047: #Community/Lounge
