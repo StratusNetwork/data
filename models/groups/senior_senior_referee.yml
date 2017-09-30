@@ -39,7 +39,7 @@ web_permissions:
       manage: true
       edit:
         members: true
-    event_staff:
+    senior_event_staff:
       admin: true
       manage: true
       edit:
