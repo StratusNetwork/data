@@ -37,6 +37,7 @@ minecraft_permissions:
     - ocn.punishments.punish
     - ocn.punishments.warn
     - ocn.punishments.punish.off_record
+    - ocn.version
     - overcast.premium
     - pgm.chat.all.receive
     - pgm.defuse
@@ -112,19 +113,19 @@ web_permissions:
         edit_parent: own
         hide: own
   appeal:
+    view: all
     comment: all
-    close: all
+    close: involved
     index: involved
     action_on_closed:
       comment: all
       escalate: all
-      open: all
-      appeal: all
-      unappeal: all
-      expire: all
+      open: involved
+      appeal: involved
+      unappeal: involved
+      expire: involved
     action_on_escalated:
       comment: all
-    view: all
     open: all
     escalate:
       immediately: involved

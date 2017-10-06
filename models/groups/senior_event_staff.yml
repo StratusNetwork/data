@@ -1,7 +1,7 @@
-name: Event Staff
+name: Senior Event Staff
 priority: 375
+badge_text_color: "#0097a7"
 html_color: "#0097a7"
-badge_color: "#0097a7"
 staff: true
 minecraft_permissions:
   tournament:

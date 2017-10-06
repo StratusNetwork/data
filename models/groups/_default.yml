@@ -36,7 +36,6 @@ minecraft_permissions:
   - poll.mutation
   - projectares.stats
   - ocn.friend.list
-  - ocn.friend.request
   - setting.attackspeedometer.view
   - setting.attackspeedometer.set
   - setting.blood.view
