@@ -22,8 +22,8 @@ minecraft_permissions:
   - nocheatplus.checks.inventory
   - nocheatplus.checks.moving
   - nocheatplus.mods.zombe
-  - ocn.teleport
   - ocn.punishments.lookup
+  - ocn.teleport
   - pgm.class
   - pgm.class.list
   - pgm.class.select

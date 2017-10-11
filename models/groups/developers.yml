@@ -5,6 +5,7 @@ badge_color: "#6a1b9a"
 badge_link: "/staff"
 minecraft_permissions:
   global:
+  - commandbook.*
   - ocn.developer
   - op
   - protocolsupport.admin
@@ -22,7 +23,6 @@ minecraft_permissions:
   - sudo.others
   - tokens.give
   - whitelist.bypass
-  - commandbook.*
 staff: true
 minecraft_flair:
   test:

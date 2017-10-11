@@ -111,21 +111,21 @@ minecraft_permissions:
   - commandbook.whereami.compass
   - op
   normal:
-  - nick.see-through-all
-  - setting.nick.unlimited
-  - ocn.version
-  - projectares.freeze.exempt
-  - commandbook.broadcast
   - bukkit.command.gamemode
   - bukkit.command.gamerule
-  - raindrops.multiplier.250
   - chat.admin
+  - commandbook.broadcast
+  - commandbook.gamemode.change
+  - commandbook.give
+  - commandbook.give.other
+  - commandbook.targets.everyone
   - flair.mapdev
   - map.rating.view.live
   - minecraft.command.stop
   - mutation.set
-  - sudo
-  - poll.custom
+  - nick.see-through-all
+  - ocn.version
+  - pgm.blitz
   - pgm.cancel
   - pgm.cycle
   - pgm.destroyable.edit
@@ -141,12 +141,14 @@ minecraft_permissions:
   - pgm.next.set
   - pgm.skip
   - pgm.start
+  - pgm.team.alias
   - pgm.team.force
   - pgm.team.size
-  - pgm.team.alias
   - pgm.timelimit
   - pgm.updatemap
-  - pgm.blitz
+  - poll.custom
+  - projectares.freeze.exempt
+  - raindrops.multiplier.250
   - server.cancelrestart
   - server.queuerestart
   - server.restart
@@ -155,15 +157,11 @@ minecraft_permissions:
   - setting.nick.any.get
   - setting.nick.immediate
   - setting.nick.set
+  - setting.nick.unlimited
   - setting.nick.view
+  - sudo
   - whitelist.bypass
   - whitelist.edit
-  - commandbook.rocket
-  - commandbook.rocket.other
-  - commandbook.give
-  - commandbook.give.other
-  - commandbook.targets.everyone
-  - commandbook.gamemode.change
   - worldedit.*
   - worldedit.analysis.*
   - worldedit.clipboard.*

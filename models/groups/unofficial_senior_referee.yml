@@ -6,36 +6,13 @@ minecraft_flair:
     color: dark_aqua
 minecraft_permissions:
   unofficial:
-  - minecraft.command.kick
-  - minecraft.command.ban
-  - whitelist.bypass
-  - whitelist.edit
-  - pgm.cycle
-  - pgm.skip
-  - pgm.timelimit
-  - pgm.destroyable.edit
-  - pgm.start
-  - commandbook.gamemode.change
-  - server.restart
-  - pgm.cycle
-  - flair.ref
   - channels.global.send
-  - flair.asterisk.dark_aqua
-  - tourney.referee
-  - pgm.join.force
-  - pgm.fullserver
   - chat.admin
-  - pgm.chat.all.receive
-  - whitelist.bypass
-  - projectares.staff
-  - commandbook.time.player
-  - pgm.next.set
-  - commandbook.broadcast
-  - pgm.chat.all.receive
-  - server.restart
+  - chat.admin
   - coinflip
-  - chat.admin
   - commandbook.broadcast
+  - commandbook.broadcast
+  - commandbook.gamemode.change
   - commandbook.gamemode.change
   - commandbook.gamemode.change.other
   - commandbook.speed.flight
@@ -43,33 +20,60 @@ minecraft_permissions:
   - commandbook.teleport
   - commandbook.teleport.other
   - commandbook.time
+  - commandbook.time.player
+  - flair.asterisk.dark_aqua
+  - flair.ref
+  - minecraft.command.ban
+  - minecraft.command.kick
+  - ocn.teleport.others
   - overcast.premium
   - pgm.cancel
   - pgm.chat.admin
   - pgm.chat.all.receive
+  - pgm.chat.all.receive
+  - pgm.chat.all.receive
+  - pgm.cycle
+  - pgm.cycle
   - pgm.cycle
   - pgm.defuse
+  - pgm.destroyable.edit
   - pgm.end
+  - pgm.fullserver
   - pgm.fullserver
   - pgm.join
   - pgm.join.choose
   - pgm.join.force
+  - pgm.join.force
   - pgm.join.full
   - pgm.mapreload
   - pgm.next.set
+  - pgm.next.set
   - pgm.rotation.reload
   - pgm.skip
+  - pgm.skip
+  - pgm.start
   - pgm.start
   - pgm.team.force
   - pgm.team.size
   - pgm.timelimit
+  - pgm.timelimit
   - pgm.updatemap
+  - projectares.staff
   - server.cancelrestart
   - server.cross-datacenter
   - server.queuerestart
   - server.restart
+  - server.restart
+  - server.restart
   - setting.adminchat
+  - tourney.bypass-whitelist
+  - tourney.referee
+  - tourney.referee
+  - tourney.srreferee
   - whitelist.bypass
+  - whitelist.bypass
+  - whitelist.bypass
+  - whitelist.edit
   - whitelist.edit
   - worldedit.analysis.*
   - worldedit.clipboard.*
@@ -83,7 +87,3 @@ minecraft_permissions:
   - worldedit.tool.info
   - worldedit.wand
   - worldedit.wand.toggle
-  - ocn.teleport.others
-  - tourney.srreferee
-  - tourney.referee
-  - tourney.bypass-whitelist

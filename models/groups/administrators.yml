@@ -11,9 +11,8 @@ minecraft_permissions:
   - bukkit.command.gamemode
   - bukkit.command.gamerule
   - chat.admin
-  - commandbook.*
-  - projectares.freeze
   - chatmoderator.filters.exempt
+  - commandbook.*
   - database.disconnect
   - database.edit
   - database.flush
@@ -28,32 +27,33 @@ minecraft_permissions:
   - nocheatplus.checks.chat
   - nocheatplus.checks.moving.boatsanywhere
   - ocn.developer
-  - ocn.teleport.others
   - ocn.login
+  - ocn.teleport.others
   - op
   - pgm.mapdev
   - pgm.next.set
   - pgm.updatemap
   - projectares.appeals.alerts
+  - projectares.freeze
   - projectares.moderator
   - projectares.staff
   - pseudogroupnode.admins
   - raindrops.multiplier.200
   - server.cross-datacenter
   - server.visibility
+  - setting.nick
+  - setting.nick.any.get
+  - setting.nick.any.set
+  - setting.nick.get
+  - setting.nick.immediate
+  - setting.nick.set
+  - setting.nick.unlimited
+  - skin.change
+  - sudo.others
+  - tokens.give
   - whitelist.bypass
   - whitelist.edit
   - worldedit.*
-  - skin.change
-  - setting.nick
-  - setting.nick.set
-  - setting.nick.get
-  - setting.nick.immediate
-  - setting.nick.any.get
-  - setting.nick.any.set
-  - setting.nick.unlimited
-  - sudo.others
-  - tokens.give
 staff: true
 minecraft_flair:
   global:

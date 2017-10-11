@@ -6,18 +6,18 @@ badge_link: "/staff"
 staff: true
 minecraft_permissions:
   global:
+  - commandbook.*
+  - ocn.developer
   - op
-  - sudo.others
   - setting.nick
-  - setting.nick.get
-  - setting.nick.set
-  - setting.nick.immediate
   - setting.nick.any
   - setting.nick.any.get
   - setting.nick.any.set
+  - setting.nick.get
+  - setting.nick.immediate
+  - setting.nick.set
   - setting.nick.unlimited
-  - ocn.developer
-  - commandbook.*
+  - sudo.others
 web_permissions:
   forum:
     parent:

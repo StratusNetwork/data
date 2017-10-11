@@ -12,14 +12,14 @@ minecraft_flair:
 minecraft_permissions:
   global: []
   tournament:
+  - chat.admin
   - coinflip
   - commandbook.broadcast
-  - chat.admin
   - projectares.msg.override
   - whitelist.bypass
   practice:
+  - chat.admin
   - coinflip
   - commandbook.broadcast
-  - chat.admin
   - projectares.msg.override
   - whitelist.bypass

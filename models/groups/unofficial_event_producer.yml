@@ -6,7 +6,7 @@ minecraft_flair:
     color: dark_aqua
 minecraft_permissions:
   unofficial:
+  - chat.admin
   - coinflip
   - commandbook.broadcast
-  - chat.admin
   - whitelist.bypass

@@ -17,7 +17,13 @@ minecraft_permissions:
   - "-commandbook.slay"
   - "-minecraft.command.me"
   - "-minecraft.command.tell"
+  - mutation.list
+  - ocn.friend.list
+  - ocn.login
   - pgm.rotation.list
+  - poll.mutation
+  - poll.next
+  - poll.vote
   - projectares.lookup
   - projectares.lookup.type.ban
   - projectares.lookup.type.forum_ban
@@ -25,48 +31,42 @@ minecraft_permissions:
   - projectares.lookup.type.kick
   - projectares.lookup.type.tourney_ban
   - projectares.lookup.type.warn.own
-  - worldedit.navigation.unstuck
-  - mutation.list
-  - ocn.login
   - projectares.msg
   - projectares.showstaff
-  - setting.nick
-  - poll.vote
-  - poll.next
-  - poll.mutation
   - projectares.stats
-  - ocn.friend.list
-  - setting.attackspeedometer.view
-  - setting.attackspeedometer.set
-  - setting.blood.view
-  - setting.blood.set
-  - setting.damagenumbers.view
-  - setting.damagenumbers.set
-  - setting.deathmessages.view
-  - setting.deathmessages.set
-  - setting.highlightdeathmessages.view
-  - setting.highlightdeathmessages.set
-  - setting.joinmessages.view
-  - setting.joinmessages.set
-  - setting.knockbackparticles.view
-  - setting.knockbackparticles.set
-  - setting.observers.view
-  - setting.observers.set
-  - setting.picker.view
-  - setting.picker.set
-  - setting.privatemessagesounds.view
-  - setting.privatemessagesounds.set
-  - setting.privatemessages.view
-  - setting.privatemessages.set
-  - setting.punishmentmessages.view
-  - setting.punishmentmessages.set
-  - setting.scoreboard.view
-  - setting.scoreboard.set
-  - setting.sounds.view
-  - setting.sounds.set
-  - setting.stats.view
-  - setting.stats.set
   - server.cross-datacenter
+  - setting.attackspeedometer.set
+  - setting.attackspeedometer.view
+  - setting.blood.set
+  - setting.blood.view
+  - setting.damagenumbers.set
+  - setting.damagenumbers.view
+  - setting.deathmessages.set
+  - setting.deathmessages.view
+  - setting.highlightdeathmessages.set
+  - setting.highlightdeathmessages.view
+  - setting.joinmessages.set
+  - setting.joinmessages.view
+  - setting.knockbackparticles.set
+  - setting.knockbackparticles.view
+  - setting.nick
+  - setting.observers.set
+  - setting.observers.view
+  - setting.picker.set
+  - setting.picker.view
+  - setting.privatemessages.set
+  - setting.privatemessages.view
+  - setting.privatemessagesounds.set
+  - setting.privatemessagesounds.view
+  - setting.punishmentmessages.set
+  - setting.punishmentmessages.view
+  - setting.scoreboard.set
+  - setting.scoreboard.view
+  - setting.sounds.set
+  - setting.sounds.view
+  - setting.stats.set
+  - setting.stats.view
+  - worldedit.navigation.unstuck
 web_permissions:
   site:
     login: true

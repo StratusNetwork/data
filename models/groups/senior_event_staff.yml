@@ -5,10 +5,10 @@ html_color: "#0097a7"
 staff: true
 minecraft_permissions:
   tournament:
-  - coinflip
   - bukkit.command.stop
   - chat.admin
   - chatmoderator.filters.exempt
+  - coinflip
   - commandbook.broadcast
   - commandbook.debug.clock
   - commandbook.debug.info
@@ -22,7 +22,6 @@ minecraft_permissions:
   - commandbook.whois
   - commandbook.whois.other
   - database.queueinfo
-  - sudo
   - lobby.disabled-permissions-exempt
   - lobby.fly
   - lobby.restricted.access
@@ -30,6 +29,7 @@ minecraft_permissions:
   - nocheatplus.admin
   - nocheatplus.checks.chat
   - nocheatplus.checks.moving.boatsanywhere
+  - ocn.teleport.others
   - overcast.premium
   - pgm.cancel
   - pgm.chat.admin
@@ -57,6 +57,7 @@ minecraft_permissions:
   - server.queuerestart
   - server.restart
   - setting.adminchat
+  - sudo
   - whitelist.bypass
   - whitelist.edit
   - worldedit.analysis.*
@@ -71,12 +72,11 @@ minecraft_permissions:
   - worldedit.tool.info
   - worldedit.wand
   - worldedit.wand.toggle
-  - ocn.teleport.others
   practice:
-  - coinflip
   - bukkit.command.stop
   - chat.admin
   - chatmoderator.filters.exempt
+  - coinflip
   - commandbook.broadcast
   - commandbook.debug.clock
   - commandbook.debug.info
@@ -90,7 +90,6 @@ minecraft_permissions:
   - commandbook.whois
   - commandbook.whois.other
   - database.queueinfo
-  - sudo
   - lobby.disabled-permissions-exempt
   - lobby.fly
   - lobby.restricted.access
@@ -98,6 +97,7 @@ minecraft_permissions:
   - nocheatplus.admin
   - nocheatplus.checks.chat
   - nocheatplus.checks.moving.boatsanywhere
+  - ocn.teleport.others
   - overcast.premium
   - pgm.cancel
   - pgm.chat.admin
@@ -125,6 +125,7 @@ minecraft_permissions:
   - server.queuerestart
   - server.restart
   - setting.adminchat
+  - sudo
   - whitelist.bypass
   - whitelist.edit
   - worldedit.analysis.*
@@ -139,7 +140,6 @@ minecraft_permissions:
   - worldedit.tool.info
   - worldedit.wand
   - worldedit.wand.toggle
-  - ocn.teleport.others
 web_permissions:
   forum:
     parent:
