@@ -16,15 +16,15 @@ minecraft_permissions:
   tournament:
   - op
   - projectares.staff
-  - tourney.srreferee
-  - tourney.referee
   - tourney.bypass-whitelist
+  - tourney.referee
+  - tourney.srreferee
   practice:
   - op
   - projectares.staff
-  - tourney.srreferee
-  - tourney.referee
   - tourney.bypass-whitelist
+  - tourney.referee
+  - tourney.srreferee
 web_permissions:
   forum:
     58e16ed6f6e8a83410000051: #Events/Information

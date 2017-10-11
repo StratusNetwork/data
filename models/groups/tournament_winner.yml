@@ -4,12 +4,12 @@ badge_color: "#607D8B"
 minecraft_permissions:
   normal:
   - flair.donator
-  - raindrops.multiplier.150
-  - pgm.fullserver
-  - pgm.join.full
-  - pgm.join.choose
-  - overcast.premium
   - lobby.fly
+  - overcast.premium
+  - pgm.fullserver
+  - pgm.join.choose
+  - pgm.join.full
+  - raindrops.multiplier.150
 minecraft_flair:
   normal:
     symbol: "*"

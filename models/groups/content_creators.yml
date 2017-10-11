@@ -16,8 +16,8 @@ minecraft_permissions:
   - setting.nick.get
   - setting.nick.immediate
   - setting.nick.set
-  - setting.nick.view
   - setting.nick.unlimited
+  - setting.nick.view
 minecraft_flair:
   normal:
     symbol: "§l►"

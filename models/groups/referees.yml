@@ -5,36 +5,34 @@ badge_color: "#4dd0e1"
 minecraft_permissions:
   global: []
   tournament:
-  - whitelist.bypass
-  - whitelist.edit
-  - pgm.cycle
-  - pgm.cancel
-  - pgm.skip
-  - pgm.timelimit
-  - pgm.destroyable.edit
-  - pgm.start
-  - commandbook.gamemode.change
-  - server.restart
-  - pgm.cycle
-  - flair.ref
   - channels.global.send
+  - chat.admin
+  - commandbook.broadcast
+  - commandbook.gamemode.change
+  - commandbook.time.player
   - flair.asterisk.dark_aqua
   - flair.asterisk_dark_aqua
-  - tourney.referee
-  - pgm.join.force
-  - pgm.fullserver
-  - chat.admin
+  - flair.ref
+  - flair.ref
+  - pgm.cancel
   - pgm.chat.all.receive
-  - whitelist.bypass
-  - projectares.staff
-  - commandbook.time.player
+  - pgm.cycle
+  - pgm.destroyable.edit
+  - pgm.fullserver
+  - pgm.join.force
+  - pgm.next.set
+  - pgm.skip
+  - pgm.start
+  - pgm.timelimit
   - projectares.reports.receive
   - projectares.reports.view
   - projectares.reports.view.other
-  - pgm.next.set
-  - commandbook.broadcast
-  - pgm.chat.all.receive
-  - flair.ref
+  - projectares.staff
+  - server.restart
+  - tourney.referee
+  - whitelist.bypass
+  - whitelist.bypass
+  - whitelist.edit
 minecraft_flair: 
   tournament: 
     color: aqua

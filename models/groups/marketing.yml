@@ -4,10 +4,10 @@ html_color: "#1b5e20"
 badge_color: "#1b5e20"
 minecraft_permissions:
   global:
+  - lobby.disabled-permissions-exempt
+  - lobby.fly
+  - overcast.premium
   - pgm.fullserver
   - pgm.join.choose
   - pgm.join.full
-  - lobby.fly
-  - lobby.disabled-permissions-exempt
-  - overcast.premium
   - raindrops.multiplier.250

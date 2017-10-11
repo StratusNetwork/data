@@ -12,7 +12,6 @@ minecraft_permissions:
   global:
     - nick.see-through-all
   normal:
-    - skin.change
     - chat.admin
     - chatmoderator.filters.exempt
     - commandbook.broadcast
@@ -28,14 +27,6 @@ minecraft_permissions:
     - commandbook.whereami
     - commandbook.whois
     - commandbook.whois.other
-    - sudo
-    - projectares.lookup
-    - projectares.lookup.type.ban
-    - projectares.lookup.type.forum_ban
-    - projectares.lookup.type.forum_warn.own
-    - projectares.lookup.type.kick
-    - projectares.lookup.type.tourney_ban
-    - projectares.lookup.type.warn.own
     - flair.mod
     - lobby.disabled-permissions-exempt
     - lobby.fly
@@ -43,7 +34,6 @@ minecraft_permissions:
     - mutation.list
     - mutation.set
     - nick.see-through-all
-    - setting.nick.unlimited
     - nocheatplus.admin.commands
     - nocheatplus.admin.info
     - nocheatplus.admin.notify
@@ -56,8 +46,8 @@ minecraft_permissions:
     - ocn.punishments.kick
     - ocn.punishments.lookup.stale
     - ocn.punishments.punish
-    - ocn.punishments.warn
     - ocn.punishments.punish.off_record
+    - ocn.punishments.warn
     - ocn.version
     - overcast.premium
     - pgm.cancel
@@ -81,6 +71,13 @@ minecraft_permissions:
     - projectares.appeals.alerts
     - projectares.freeze
     - projectares.freeze.exempt
+    - projectares.lookup
+    - projectares.lookup.type.ban
+    - projectares.lookup.type.forum_ban
+    - projectares.lookup.type.forum_warn.own
+    - projectares.lookup.type.kick
+    - projectares.lookup.type.tourney_ban
+    - projectares.lookup.type.warn.own
     - projectares.moderator
     - projectares.msg.override
     - projectares.reports.receive
@@ -94,11 +91,14 @@ minecraft_permissions:
     - server.restart
     - setting.adminchat
     - setting.nick
+    - setting.nick.any
     - setting.nick.any.get
+    - setting.nick.get
     - setting.nick.immediate
     - setting.nick.set
-    - setting.nick.get
-    - setting.nick.any
+    - setting.nick.unlimited
+    - skin.change
+    - sudo
     - worldedit.analysis.*
     - worldedit.drain
     - worldedit.extinguish

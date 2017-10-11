@@ -5,11 +5,11 @@ badge_link: "/shop"
 minecraft_permissions:
   normal:
   - flair.donator
-  - raindrops.multiplier.150
+  - lobby.fly
+  - overcast.premium
   - pgm.fullserver
   - pgm.join.full
-  - overcast.premium
-  - lobby.fly
+  - raindrops.multiplier.150
   cloudy:
   - cloudy.ranks.strato
 minecraft_flair:

@@ -14,47 +14,47 @@ minecraft_permissions:
   - bukkit.command.stop
   - chat.admin
   - chatmoderator.filters.exempt
-  - echocheat.alerts
   - commandbook.broadcast
   - commandbook.debug.clock
   - commandbook.debug.info
   - commandbook.gamemode.change
+  - commandbook.give
+  - commandbook.give.other
+  - commandbook.rocket
+  - commandbook.rocket.other
+  - commandbook.slap
+  - commandbook.slap.other
   - commandbook.speed.flight
   - commandbook.speed.walk
+  - commandbook.targets.everyone
   - commandbook.teleport
   - commandbook.teleport.other
   - commandbook.time
   - commandbook.whereami
   - commandbook.whois
   - commandbook.whois.other
-  - commandbook.slap
-  - commandbook.slap.other
-  - commandbook.rocket
-  - commandbook.rocket.other
-  - commandbook.give
-  - commandbook.give.other
-  - commandbook.targets.everyone
-  - poll.veto
   - database.queueinfo
-  - sudo
+  - echocheat.alerts
   - lobby.disabled-permissions-exempt
   - lobby.fly
   - lobby.restricted.access
+  - minecraft.command.stop
+  - mutation.set
   - nick.see-through-all
-  - setting.nick.unlimited
   - nocheatplus.admin
   - nocheatplus.checks.chat
   - nocheatplus.checks.moving.boatsanywhere
   - ocn.punishments
   - ocn.punishments.ban
   - ocn.punishments.kick
-  - ocn.punishments.warn
-  - ocn.punishments.punish
   - ocn.punishments.lookup.stale
-  - ocn.punishments.punish.off_record
+  - ocn.punishments.punish
   - ocn.punishments.punish.auto
+  - ocn.punishments.punish.off_record
   - ocn.punishments.punish.silent
   - ocn.punishments.punish.time
+  - ocn.punishments.warn
+  - ocn.teleport.others
   - ocn.version
   - overcast.premium
   - pgm.cancel
@@ -70,31 +70,24 @@ minecraft_permissions:
   - pgm.join.full
   - pgm.mapreload
   - pgm.next.set
-  - pgm.rotation.reload
   - pgm.rotation.append
   - pgm.rotation.insert
+  - pgm.rotation.list
+  - pgm.rotation.reload
   - pgm.rotation.remove
   - pgm.rotation.removeat
   - pgm.rotation.set
-  - pgm.rotation.list
   - pgm.skip
   - pgm.start
+  - pgm.team.alias
   - pgm.team.force
   - pgm.team.size
-  - pgm.team.alias
   - pgm.timelimit
   - pgm.updatemap
-  - minecraft.command.stop
-  - mutation.set
+  - poll.veto
   - projectares.appeals.alerts
-  - projectares.moderator
-  - projectares.staff
   - projectares.freeze
   - projectares.freeze.exempt
-  - projectares.reports.receive
-  - projectares.reports.view
-  - projectares.report.override
-  - projectares.report.cooldown.exempt
   - projectares.lookup
   - projectares.lookup.type.ban
   - projectares.lookup.type.forum_ban
@@ -102,7 +95,13 @@ minecraft_permissions:
   - projectares.lookup.type.kick
   - projectares.lookup.type.tourney_ban
   - projectares.lookup.type.warn.own
+  - projectares.moderator
   - projectares.msg.override
+  - projectares.report.cooldown.exempt
+  - projectares.report.override
+  - projectares.reports.receive
+  - projectares.reports.view
+  - projectares.staff
   - pseudogroupnode.srstaff
   - raindrops.multiplier.250
   - server.cancelrestart
@@ -111,13 +110,15 @@ minecraft_permissions:
   - server.restart
   - setting.adminchat
   - setting.nick
-  - setting.nick.any.get
-  - setting.nick.set
-  - setting.nick.immediate
-  - setting.nick.get
   - setting.nick.any
+  - setting.nick.any.get
   - setting.nick.any.set
-  - setting.adminchat
+  - setting.nick.get
+  - setting.nick.immediate
+  - setting.nick.set
+  - setting.nick.unlimited
+  - skin.change
+  - sudo
   - whitelist.bypass
   - whitelist.edit
   - worldedit.analysis.*
@@ -132,8 +133,6 @@ minecraft_permissions:
   - worldedit.tool.info
   - worldedit.wand
   - worldedit.wand.toggle
-  - skin.change
-  - ocn.teleport.others
 staff: true
 web_permissions:
   punishment:
