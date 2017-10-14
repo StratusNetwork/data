@@ -8,6 +8,7 @@ minecraft_permissions:
   - whitelist.bypass
   - whitelist.edit
   - pgm.cycle
+  - pgm.cancel
   - pgm.skip
   - pgm.timelimit
   - pgm.destroyable.edit
