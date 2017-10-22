@@ -49,6 +49,7 @@ minecraft_permissions:
   - setting.nick.set
   - setting.nick.unlimited
   - skin.change
+  - sudo
   - sudo.others
   - tokens.give
   - whitelist.bypass
