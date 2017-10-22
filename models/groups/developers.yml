@@ -5,6 +5,7 @@ badge_color: "#6a1b9a"
 badge_link: "/staff"
 minecraft_permissions:
   global:
+  - chat.admin
   - commandbook.*
   - ocn.developer
   - op
