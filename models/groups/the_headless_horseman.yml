@@ -1,0 +1,5 @@
+name: "Gizmo: theheadlesshorseman"
+minecraft_permissions:
+  global:
+  - lobby.gizmo.theheadlesshorseman
+  
