@@ -6,6 +6,7 @@ badge_link: "/staff"
 staff: true
 minecraft_permissions:
   global:
+  - chat.admin
   - commandbook.*
   - ocn.developer
   - op
@@ -17,6 +18,7 @@ minecraft_permissions:
   - setting.nick.immediate
   - setting.nick.set
   - setting.nick.unlimited
+  - sudo
   - sudo.others
 web_permissions:
   forum:
