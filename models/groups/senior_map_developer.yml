@@ -6,3 +6,11 @@ web_permissions:
       manage: true
     59ac44fba2e3a9000100004c: #Stratus_Network/Applications
       manage: true
+  group: 
+    parent:
+      admin: true
+    the_headless_horseman:
+      admin: true
+      manage: true
+      edit:
+        members: true
