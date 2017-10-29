@@ -9,6 +9,11 @@ web_permissions:
   group: 
     parent:
       admin: true
+    nimbus:
+      admin: true
+      manage: true
+      edit:
+        members: true
     the_headless_horseman:
       admin: true
       manage: true

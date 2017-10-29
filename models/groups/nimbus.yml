@@ -1,0 +1,18 @@
+# Halloween event prize -- intended to last 2 weeks
+name: Nimbus
+priority: 1000
+badge_color: "#5a5f90"
+badge_link: "/forums/topics/59e08fb7b393290001000095"
+minecraft_permissions:
+  normal:
+  - flair.donator
+  - lobby.fly
+  - lobby.gizmo.theheadlesshorseman
+  - overcast.premium
+  - pgm.fullserver
+  - pgm.join.choose
+  - raindrops.multiplier.200
+minecraft_flair:
+  normal:
+    symbol: "*"
+    color: dark_blue
