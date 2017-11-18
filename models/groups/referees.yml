@@ -2,6 +2,7 @@ name: Referees
 priority: 525
 html_color: "#4dd0e1"
 badge_color: "#4dd0e1"
+badge_link: /staff
 minecraft_permissions:
   global: []
   tournament:
@@ -33,8 +34,8 @@ minecraft_permissions:
   - whitelist.bypass
   - whitelist.bypass
   - whitelist.edit
-minecraft_flair: 
-  tournament: 
+minecraft_flair:
+  tournament:
     color: aqua
     symbol: '❖'
 web_permissions:
