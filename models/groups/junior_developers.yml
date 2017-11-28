@@ -99,6 +99,8 @@ web_permissions:
         view_parent: all
         edit_parent: own
         hide: own
+    59b41b2b66bbaa0001000005: #Community/Development
+      manage: true
   misc:
     peek:
       view: true
