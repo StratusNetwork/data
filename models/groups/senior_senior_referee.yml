@@ -9,6 +9,11 @@ web_permissions:
       manage: true
       edit:
         members: true
+    official:
+      admin: true
+      manage: true
+      edit:
+        members: true
     tournament_op:
       admin: true
       manage: true
