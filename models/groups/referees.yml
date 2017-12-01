@@ -8,6 +8,7 @@ minecraft_permissions:
   - channels.global.send
   - chat.admin
   - commandbook.broadcast
+  - commandbook.gamemode
   - commandbook.gamemode.change
   - commandbook.time.player
   - pgm.cancel
