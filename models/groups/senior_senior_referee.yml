@@ -9,6 +9,11 @@ web_permissions:
       manage: true
       edit:
         members: true
+    official:
+      admin: true
+      manage: true
+      edit:
+        members: true
     tournament_op:
       admin: true
       manage: true
@@ -52,6 +57,8 @@ web_permissions:
       index: all
   session:
     admin: true
+  appeal:
+    manage: true
   forum:
     59ac4476a2e3a90001000049: #Staff/Senior_Event_Staff
       manage: true

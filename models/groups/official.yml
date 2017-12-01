@@ -1,7 +1,7 @@
-name: Referees
-priority: 525
-html_color: "#4dd0e1"
-badge_color: "#4dd0e1"
+name: Official
+priority: 515
+html_color: "#669999"
+badge_color: "#669999"
 minecraft_permissions:
   global: []
   tournament:
@@ -30,9 +30,9 @@ minecraft_permissions:
   - whitelist.bypass
   - whitelist.bypass
   - whitelist.edit
-minecraft_flair: 
-  tournament: 
-    color: dark_gray
+minecraft_flair:
+  tournament:
+    color: dark_aqua
     symbol: '❖'
 web_permissions:
   forum:

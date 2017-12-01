@@ -5,23 +5,47 @@ badge_color: "#0097a7"
 minecraft_flair:
   tournament:
     symbol: "❖"
-    color: dark_aqua
+    color: aqua
   practice:
     symbol: "❖"
-    color: dark_aqua
+    color: aqua
 minecraft_permissions:
   global:
   - whitelist.bypass
   - whitelist.edit
   tournament:
+  - chat.admin
+  - commandbook.*
+  - ocn.developer
   - op
-  - projectares.staff
+  - setting.nick
+  - setting.nick.any
+  - setting.nick.any.get
+  - setting.nick.any.set
+  - setting.nick.get
+  - setting.nick.immediate
+  - setting.nick.set
+  - setting.nick.unlimited
+  - sudo
+  - sudo.others
   - tourney.bypass-whitelist
   - tourney.referee
   - tourney.srreferee
   practice:
+  - chat.admin
+  - commandbook.*
+  - ocn.developer
   - op
-  - projectares.staff
+  - setting.nick
+  - setting.nick.any
+  - setting.nick.any.get
+  - setting.nick.any.set
+  - setting.nick.get
+  - setting.nick.immediate
+  - setting.nick.set
+  - setting.nick.unlimited
+  - sudo
+  - sudo.others
   - tourney.bypass-whitelist
   - tourney.referee
   - tourney.srreferee
@@ -49,6 +73,11 @@ web_permissions:
       edit:
         members: true
     referees:
+      admin: true
+      manage: true
+      edit:
+        members: true
+    official:
       admin: true
       manage: true
       edit:
