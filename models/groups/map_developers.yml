@@ -87,15 +87,6 @@ minecraft_permissions:
   - commandbook.gamemode.change.other
   - commandbook.gamemode.check
   - commandbook.gamemode.check.other
-  - commandbook.give
-  - commandbook.give.infinite
-  - commandbook.give.other
-  - commandbook.give.stacks
-  - commandbook.give.stacks.unlimited
-  - commandbook.god
-  - commandbook.god.other
-  - commandbook.heal
-  - commandbook.heal.other
   - commandbook.locations.coords
   - commandbook.more
   - commandbook.more.infinite
@@ -112,9 +103,7 @@ minecraft_permissions:
   - op
   normal:
   - bukkit.command.gamemode
-  - bukkit.command.gamerule
   - chat.admin
-  - commandbook.broadcast
   - commandbook.gamemode.change
   - commandbook.give
   - commandbook.give.other
@@ -141,7 +130,6 @@ minecraft_permissions:
   - pgm.next.set
   - pgm.skip
   - pgm.start
-  - pgm.team.alias
   - pgm.team.force
   - pgm.team.size
   - pgm.timelimit
@@ -159,7 +147,6 @@ minecraft_permissions:
   - setting.nick.set
   - setting.nick.unlimited
   - setting.nick.view
-  - sudo
   - whitelist.bypass
   - whitelist.edit
   - worldedit.*
