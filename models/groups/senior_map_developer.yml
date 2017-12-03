@@ -20,5 +20,5 @@ web_permissions:
       edit:
         members: true
 minecraft_permissions:
-  global:
+  normal:
   - tokens.give
