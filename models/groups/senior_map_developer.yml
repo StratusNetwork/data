@@ -19,3 +19,6 @@ web_permissions:
       manage: true
       edit:
         members: true
+minecraft_permissions:
+  global:
+  - tokens.give
