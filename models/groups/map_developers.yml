@@ -87,6 +87,15 @@ minecraft_permissions:
   - commandbook.gamemode.change.other
   - commandbook.gamemode.check
   - commandbook.gamemode.check.other
+  - commandbook.give
+  - commandbook.give.infinite
+  - commandbook.give.other
+  - commandbook.give.stacks
+  - commandbook.give.stacks.unlimited
+  - commandbook.god
+  - commandbook.god.other
+  - commandbook.heal
+  - commandbook.heal.other
   - commandbook.locations.coords
   - commandbook.more
   - commandbook.more.infinite
@@ -102,11 +111,8 @@ minecraft_permissions:
   - commandbook.whereami.compass
   - op
   normal:
-  - bukkit.command.gamemode
   - chat.admin
-  - commandbook.gamemode.change
-  - commandbook.give
-  - commandbook.give.other
+  - commandbook.broadcast
   - commandbook.targets.everyone
   - flair.mapdev
   - map.rating.view.live
@@ -148,18 +154,8 @@ minecraft_permissions:
   - setting.nick.unlimited
   - setting.nick.view
   - whitelist.bypass
-  - whitelist.edit
-  - worldedit.*
-  - worldedit.analysis.*
-  - worldedit.clipboard.*
   - worldedit.drain
   - worldedit.extinguish
-  - worldedit.history.*
-  - worldedit.navigation.*
-  - worldedit.region.*
-  - worldedit.remove
-  - worldedit.selection.*
-  - worldedit.tool.info
   - worldedit.wand
   - worldedit.wand.toggle
 minecraft_flair:
