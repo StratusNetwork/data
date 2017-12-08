@@ -147,6 +147,7 @@ minecraft_permissions:
   - pgm.timelimit
   - pgm.updatemap
   - poll.custom
+  - poll.veto
   - projectares.freeze.exempt
   - raindrops.multiplier.250
   - server.cancelrestart
