@@ -8,7 +8,6 @@ minecraft_permissions:
   global:
   - chat.admin
   - commandbook.*
-  - ocn.developer
   - op
   - setting.nick
   - setting.nick.any
@@ -18,8 +17,6 @@ minecraft_permissions:
   - setting.nick.immediate
   - setting.nick.set
   - setting.nick.unlimited
-  - sudo
-  - sudo.others
 web_permissions:
   forum:
     parent:
