@@ -7,7 +7,6 @@ minecraft_permissions:
   normal:
   - flair.donator
   - lobby.fly
-  - lobby.gizmo.theheadlesshorseman
   - overcast.premium
   - pgm.fullserver
   - pgm.join.choose
