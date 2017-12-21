@@ -111,8 +111,11 @@ minecraft_permissions:
   - commandbook.whereami.compass
   - op
   normal:
+  - bukkit.command.gamerule
   - chat.admin
   - commandbook.broadcast
+  - commandbook.give
+  - commandbook.give.other
   - commandbook.targets.everyone
   - flair.mapdev
   - map.rating.view.live
@@ -136,11 +139,13 @@ minecraft_permissions:
   - pgm.next.set
   - pgm.skip
   - pgm.start
+  - pgm.team.alias
   - pgm.team.force
   - pgm.team.size
   - pgm.timelimit
   - pgm.updatemap
   - poll.custom
+  - poll.veto
   - projectares.freeze.exempt
   - raindrops.multiplier.250
   - server.cancelrestart
@@ -154,8 +159,15 @@ minecraft_permissions:
   - setting.nick.unlimited
   - setting.nick.view
   - whitelist.bypass
+  - whitelist.edit
   - worldedit.drain
   - worldedit.extinguish
+  - worldedit.history.*
+  - worldedit.navigation.*
+  - worldedit.region.*
+  - worldedit.remove
+  - worldedit.selection.*
+  - worldedit.tool.info
   - worldedit.wand
   - worldedit.wand.toggle
 minecraft_flair:
