@@ -66,7 +66,6 @@ minecraft_permissions:
   - setting.sounds.view
   - setting.stats.set
   - setting.stats.view
-  - worldedit.navigation.unstuck
 web_permissions:
   site:
     login: true
