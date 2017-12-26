@@ -169,6 +169,25 @@ web_permissions:
         view_parent: none
         edit_parent: none
         hide: none
+    5a41cca651bddd0001000054: #Staff/Candidates
+      topic:
+        index_parent: none
+        view_parent: none
+        index:
+          status:
+            locked: none
+            hidden: none
+        view:
+          status:
+            locked: none
+            hidden: none
+        reply: none
+        hide: none
+        create: false
+      post:
+        view_parent: none
+        edit_parent: none
+        hide: none
     59ac445ca2e3a90001000048: #Staff/Map Developers
       topic:
         index_parent: none
