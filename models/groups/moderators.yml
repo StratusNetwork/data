@@ -154,6 +154,26 @@ web_permissions:
         view_parent: all
         edit_parent: own
         hide: own
+    5a41cca651bddd0001000054: #Staff/Candidates
+      topic:
+        create: true
+        index_parent: all
+        reply: all
+        hide: own
+        modify_archived: all
+        view_parent: all
+        view:
+          status:
+            locked: all
+            hidden: own
+        index:
+          status:
+            locked: all
+            hidden: own
+      post:
+        view_parent: all
+        edit_parent: own
+        hide: own
   misc:
     player:
       view_display_server: true
