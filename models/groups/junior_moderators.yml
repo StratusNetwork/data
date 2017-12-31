@@ -69,7 +69,7 @@ minecraft_flair:
     color: light_purple
     symbol: '❖'
   test:
-    symbol: "[JrMod]"
+    symbol: "[JrMod] "
     color: light_purple
 web_permissions:
   forum:

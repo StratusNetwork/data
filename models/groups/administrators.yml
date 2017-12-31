@@ -61,5 +61,5 @@ minecraft_flair:
     symbol: "❖"
     color: gold
   test:
-    symbol: "[Admin]"
+    symbol: "[Admin] "
     color: gold

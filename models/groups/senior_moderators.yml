@@ -8,7 +8,7 @@ minecraft_flair:
     symbol: '❖'
     color: dark_red
   test:
-    symbol: "[SrMod]"
+    symbol: "[SrMod] "
     color: dark_red
 minecraft_permissions:
   global:

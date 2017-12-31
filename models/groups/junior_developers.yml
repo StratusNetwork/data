@@ -73,7 +73,7 @@ minecraft_permissions:
 staff: true
 minecraft_flair:
   test:
-    symbol: "[JrDev]"
+    symbol: "[JrDev] "
     color: dark_purple
 web_permissions:
   forum:

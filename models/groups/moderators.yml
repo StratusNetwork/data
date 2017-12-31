@@ -10,7 +10,7 @@ minecraft_flair:
     symbol: '❖'
   test:
     color: red
-    symbol: "[Mod]"
+    symbol: "[Mod] "
 minecraft_permissions:
   global:
     - nick.see-through-all
