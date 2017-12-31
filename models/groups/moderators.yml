@@ -97,8 +97,6 @@ minecraft_permissions:
     - setting.nick.immediate
     - setting.nick.set
     - setting.nick.unlimited
-    - skin.change
-    - sudo
     - worldedit.analysis.*
     - worldedit.drain
     - worldedit.extinguish
