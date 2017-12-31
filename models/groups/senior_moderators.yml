@@ -7,6 +7,9 @@ minecraft_flair:
   normal:
     symbol: '❖'
     color: dark_red
+  test:
+    symbol: "[SrMod]"
+    color: dark_red
 minecraft_permissions:
   global:
     - nick.see-through-all

@@ -68,6 +68,9 @@ minecraft_flair:
   normal:
     color: light_purple
     symbol: '❖'
+  test:
+    symbol: "[JrMod]"
+    color: light_purple
 web_permissions:
   forum:
     parent:

@@ -8,6 +8,9 @@ minecraft_flair:
   normal:
     color: red
     symbol: '❖'
+  test:
+    color: red
+    symbol: "[Mod]"
 minecraft_permissions:
   global:
     - nick.see-through-all

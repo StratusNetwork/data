@@ -57,9 +57,9 @@ minecraft_permissions:
   - worldedit.*
 staff: true
 minecraft_flair:
-  global:
+  normal:
     symbol: "❖"
     color: gold
   test:
-    symbol: "[Admin] "
+    symbol: "[Admin]"
     color: gold
