@@ -1,5 +1,5 @@
 name: Map Developers
-priority: 275
+priority: 360
 html_color: "#283593"
 badge_color: "#283593"
 badge_link: "/staff"
@@ -178,8 +178,5 @@ minecraft_permissions:
   - worldedit.wand.toggle
 minecraft_flair:
   normal:
-    color: blue
-    symbol: "፠"
-  test:
     color: blue
     symbol: "[MapDev] "

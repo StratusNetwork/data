@@ -72,7 +72,7 @@ minecraft_permissions:
   - worldedit.wand
 staff: true
 minecraft_flair:
-  test:
+  normal:
     symbol: "[JrDev] "
     color: dark_purple
 web_permissions:
