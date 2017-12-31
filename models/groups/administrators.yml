@@ -19,7 +19,6 @@ minecraft_permissions:
   - database.info
   - database.reconnect
   - database.reload
-  - flair.administrator
   - gizmo.immunity
   - lobby.disabled-permissions-exempt
   - lobby.fly

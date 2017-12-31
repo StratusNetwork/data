@@ -25,7 +25,3 @@ minecraft_permissions:
   - tokens.give
   - whitelist.bypass
 staff: true
-minecraft_flair:
-  global:
-    symbol: "[Dev] "
-    color: dark_purple

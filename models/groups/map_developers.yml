@@ -169,7 +169,3 @@ minecraft_permissions:
   - worldedit.tool.info
   - worldedit.wand
   - worldedit.wand.toggle
-minecraft_flair:
-  normal:
-    color: blue
-    symbol: "[MapDev] "

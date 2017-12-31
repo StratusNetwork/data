@@ -71,10 +71,6 @@ minecraft_permissions:
   - worldedit.*
   - worldedit.wand
 staff: true
-minecraft_flair:
-  normal:
-    symbol: "[JrDev] "
-    color: dark_purple
 web_permissions:
   forum:
     parent:
