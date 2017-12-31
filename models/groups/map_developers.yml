@@ -112,8 +112,6 @@ minecraft_permissions:
   - bukkit.command.gamerule
   - chat.admin
   - commandbook.broadcast
-  - commandbook.give
-  - commandbook.give.other
   - commandbook.targets.everyone
   - flair.mapdev
   - map.rating.view.live
