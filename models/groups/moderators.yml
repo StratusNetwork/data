@@ -179,6 +179,8 @@ web_permissions:
     name_change:
       index: all
   punishment:
+    sort:
+      punisher: own
     create:
       warn: true
       kick: true
