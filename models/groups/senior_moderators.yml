@@ -54,6 +54,7 @@ minecraft_permissions:
   - ocn.punishments.punish.silent
   - ocn.punishments.punish.time
   - ocn.punishments.warn
+  - ocn.see-all-servers
   - ocn.teleport.others
   - ocn.version
   - overcast.premium
