@@ -1,0 +1,14 @@
+name: Avicus
+priority: 890
+minecraft_permissions:
+  normal:
+  - flair.donator
+  - lobby.fly
+  - overcast.premium
+  - pgm.fullserver
+  - pgm.join.choose
+  - raindrops.multiplier.200
+minecraft_flair:
+  normal:
+    symbol: "★"
+    color: aqua
