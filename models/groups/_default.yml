@@ -35,6 +35,7 @@ minecraft_permissions:
   - projectares.showstaff
   - projectares.stats
   - server.cross-datacenter
+  - server.request.self
   - setting.attackspeedometer.set
   - setting.attackspeedometer.view
   - setting.blood.set
