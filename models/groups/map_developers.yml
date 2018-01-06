@@ -114,6 +114,7 @@ minecraft_permissions:
   - commandbook.broadcast
   - commandbook.targets.everyone
   - flair.mapdev
+  - lobby.fly
   - map.rating.view.live
   - minecraft.command.stop
   - mutation.set
