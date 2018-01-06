@@ -21,7 +21,6 @@ minecraft_permissions:
     - commandbook.speed.flight
     - commandbook.speed.walk
     - commandbook.teleport
-    - commandbook.teleport
     - commandbook.teleport.other
     - commandbook.time
     - commandbook.whereami
@@ -46,7 +45,6 @@ minecraft_permissions:
     - ocn.punishments.kick
     - ocn.punishments.lookup.stale
     - ocn.punishments.punish
-    - ocn.punishments.punish.off_record
     - ocn.punishments.warn
     - ocn.version
     - overcast.premium
