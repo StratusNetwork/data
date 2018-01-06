@@ -23,4 +23,5 @@ web_permissions:
         members: true
 minecraft_permissions:
   normal:
+  - ocn.see-all-servers
   - tokens.give
