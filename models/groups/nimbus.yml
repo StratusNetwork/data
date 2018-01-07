@@ -1,8 +1,7 @@
-# Halloween event prize -- intended to last 2 weeks
+# Event prize rank
 name: Nimbus
 priority: 1000
 badge_color: "#5a5f90"
-badge_link: "/forums/topics/5a1fbf9777db1a0001000186"
 minecraft_permissions:
   normal:
   - flair.donator
