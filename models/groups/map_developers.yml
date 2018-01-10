@@ -3,6 +3,10 @@ priority: 360
 html_color: "#283593"
 badge_color: "#283593"
 badge_link: "/staff"
+minecraft_flair:
+  normal:
+    color: blue
+    symbol: "[MapDev] "
 staff: true
 web_permissions:
   forum:
