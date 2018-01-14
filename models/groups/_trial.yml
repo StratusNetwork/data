@@ -2,4 +2,10 @@ name: _trial
 priority: 1000
 minecraft_permissions:
   global:
-  - nothing.nothing
+  - lobby.disabled-permissions-exempt
+  - lobby.fly
+  - overcast.premium
+  - pgm.fullserver
+  - pgm.join.choose
+  - pgm.join.full
+  - raindrops.multiplier.250
