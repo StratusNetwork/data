@@ -3,7 +3,6 @@ priority: 900
 badge_color: "#607D8B"
 minecraft_permissions:
   normal:
-  - flair.donator
   - lobby.fly
   - overcast.premium
   - pgm.fullserver

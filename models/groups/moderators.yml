@@ -26,7 +26,6 @@ minecraft_permissions:
     - commandbook.whereami
     - commandbook.whois
     - commandbook.whois.other
-    - flair.mod
     - lobby.disabled-permissions-exempt
     - lobby.fly
     - minecraft.command.stop

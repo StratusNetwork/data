@@ -113,7 +113,6 @@ minecraft_permissions:
   - chat.admin
   - commandbook.broadcast
   - commandbook.targets.everyone
-  - flair.mapdev
   - lobby.fly
   - map.rating.view.live
   - minecraft.command.stop

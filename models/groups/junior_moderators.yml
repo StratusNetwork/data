@@ -15,7 +15,6 @@ minecraft_permissions:
     - commandbook.whereami
     - commandbook.whois
     - commandbook.whois.other
-    - flair.juniormod
     - lobby.disabled-permissions-exempt
     - lobby.fly
     - nick.see-through-all

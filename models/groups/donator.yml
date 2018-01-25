@@ -5,7 +5,6 @@ badge_color: "#64dd17"
 badge_link: "/shop"
 minecraft_permissions:
   global:
-  - flair.donator
   - lobby.fly
   - overcast.premium
   - pgm.fullserver

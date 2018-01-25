@@ -7,13 +7,7 @@ minecraft_permissions:
   - commandbook.broadcast
   - commandbook.gamemode.change
   - commandbook.time.player
-  - flair.asterisk.dark_aqua
-  - flair.asterisk_dark_aqua
-  - flair.ref
-  - flair.ref
   - pgm.chat.all.receive
-  - pgm.chat.all.receive
-  - pgm.cycle
   - pgm.cycle
   - pgm.destroyable.edit
   - pgm.fullserver
@@ -25,7 +19,6 @@ minecraft_permissions:
   - projectares.staff
   - server.restart
   - tourney.referee
-  - whitelist.bypass
   - whitelist.bypass
   - whitelist.edit
 minecraft_flair: 
