@@ -192,6 +192,8 @@ web_permissions:
       manage: true
     5a41cca651bddd0001000054: #Staff/Candidates
       manage: true
+    59ac6295a2e3a90001000064: #Staff/Archives
+      manage: true
     58e16d72f6e8a83410000047: #Mapmaking/Information
       manage: true
     58e16e6bf6e8a8341000004f: #Mapmaking/Discussion
