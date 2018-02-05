@@ -133,6 +133,13 @@ minecraft_permissions:
   - pgm.maperrors
   - pgm.modes.push
   - pgm.next.set
+  - pgm.rotation.append
+  - pgm.rotation.insert
+  - pgm.rotation.list
+  - pgm.rotation.reload
+  - pgm.rotation.remove
+  - pgm.rotation.removeat
+  - pgm.rotation.set
   - pgm.skip
   - pgm.start
   - pgm.team.alias
