@@ -2,6 +2,7 @@ name: Referees
 priority: 525
 html_color: "#4dd0e1"
 badge_color: "#4dd0e1"
+staff: true
 minecraft_permissions:
   global: []
   tournament:

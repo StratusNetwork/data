@@ -2,6 +2,7 @@ name: Official
 priority: 515
 html_color: "#669999"
 badge_color: "#669999"
+staff: true
 minecraft_permissions:
   global: []
   tournament:
