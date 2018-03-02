@@ -3,6 +3,7 @@ priority: 900
 html_color: "#08c"
 badge_color: "#64dd17"
 badge_link: "/shop"
+premium: true
 minecraft_permissions:
   global:
   - lobby.fly

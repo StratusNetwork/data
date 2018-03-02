@@ -4,6 +4,7 @@ html_color: "#b71c1c"
 badge_color: "#b71c1c"
 badge_link: "/staff"
 staff: true
+premium: true
 minecraft_permissions:
   global:
   - chat.admin

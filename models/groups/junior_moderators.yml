@@ -62,6 +62,7 @@ minecraft_permissions:
     - worldedit.drain
     - worldedit.extinguish
 staff: true
+premium: true
 minecraft_flair:
   normal:
     symbol: "[Mod] "

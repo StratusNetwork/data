@@ -136,6 +136,7 @@ minecraft_permissions:
   - worldedit.wand
   - worldedit.wand.toggle
 staff: true
+premium: true
 web_permissions:
   punishment:
     manage: true

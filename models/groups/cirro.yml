@@ -2,6 +2,7 @@ name: Cirro
 priority: 925
 badge_color: "#e0e0e0"
 badge_link: "/shop"
+premium: true
 minecraft_permissions:
   normal:
   - lobby.fly

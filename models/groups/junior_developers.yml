@@ -71,6 +71,7 @@ minecraft_permissions:
   - worldedit.*
   - worldedit.wand
 staff: true
+premium: true
 web_permissions:
   forum:
     parent:

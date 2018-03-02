@@ -3,6 +3,7 @@ priority: 375
 badge_text_color: "#0097a7"
 html_color: "#0097a7"
 staff: true
+premium: true
 minecraft_permissions:
   tournament:
   - bukkit.command.stop

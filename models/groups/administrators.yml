@@ -55,6 +55,7 @@ minecraft_permissions:
   - whitelist.edit
   - worldedit.*
 staff: true
+premium: true
 minecraft_flair:
   global:
     symbol: "[Admin] "

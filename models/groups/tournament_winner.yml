@@ -1,6 +1,7 @@
 name: Tournament Winner
 priority: 900
 badge_color: "#607D8B"
+premium: true
 minecraft_permissions:
   normal:
   - lobby.fly

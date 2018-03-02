@@ -2,6 +2,7 @@ name: Event Producer
 priority: 500
 html_color: "#0097a7"
 badge_color: "#0097a7"
+premium: true
 minecraft_flair:
   practice:
     symbol: "*"
