@@ -4,6 +4,13 @@ badge_text_color: "#008888"
 html_color: "#008888"
 staff: true
 premium: true
+minecraft_flair:
+  tournament:
+    symbol: "❖"
+    color: aqua
+  practice:
+    symbol: "❖"
+    color: aqua
 minecraft_permissions:
   tournament:
   - bukkit.command.stop
