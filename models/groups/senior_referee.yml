@@ -1,15 +1,6 @@
 name: Senior Referee
 priority: 250
-html_color: "#0097a7"
-badge_color: "#0097a7"
 premium: true
-minecraft_flair:
-  tournament:
-    symbol: "❖"
-    color: aqua
-  practice:
-    symbol: "❖"
-    color: aqua
 minecraft_permissions:
   global:
   - whitelist.bypass
