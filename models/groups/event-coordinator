@@ -1,0 +1,207 @@
+name: Event Coordinators
+priority: 375
+badge_text_color: "#008888"
+html_color: "#008888"
+staff: true
+premium: true
+minecraft_permissions:
+  tournament:
+  - bukkit.command.stop
+  - chat.admin
+  - chatmoderator.filters.exempt
+  - coinflip
+  - commandbook.broadcast
+  - commandbook.debug.clock
+  - commandbook.debug.info
+  - commandbook.gamemode.change
+  - commandbook.speed.flight
+  - commandbook.speed.walk
+  - commandbook.teleport
+  - commandbook.teleport.other
+  - commandbook.time
+  - commandbook.whereami
+  - commandbook.whois
+  - commandbook.whois.other
+  - database.queueinfo
+  - lobby.disabled-permissions-exempt
+  - lobby.fly
+  - lobby.restricted.access
+  - nick.see-through-all
+  - nocheatplus.admin
+  - nocheatplus.checks.chat
+  - nocheatplus.checks.moving.boatsanywhere
+  - ocn.teleport.others
+  - overcast.premium
+  - pgm.cancel
+  - pgm.chat.admin
+  - pgm.chat.all.receive
+  - pgm.cycle
+  - pgm.defuse
+  - pgm.end
+  - pgm.fullserver
+  - pgm.join
+  - pgm.join.choose
+  - pgm.join.force
+  - pgm.join.full
+  - pgm.mapreload
+  - pgm.next.set
+  - pgm.rotation.reload
+  - pgm.skip
+  - pgm.start
+  - pgm.team.force
+  - pgm.team.size
+  - pgm.timelimit
+  - pgm.updatemap
+  - projectares.msg.override
+  - server.cancelrestart
+  - server.cross-datacenter
+  - server.queuerestart
+  - server.restart
+  - setting.adminchat
+  - sudo
+  - whitelist.bypass
+  - whitelist.edit
+  - worldedit.analysis.*
+  - worldedit.clipboard.*
+  - worldedit.drain
+  - worldedit.extinguish
+  - worldedit.history.*
+  - worldedit.navigation.*
+  - worldedit.region.*
+  - worldedit.remove
+  - worldedit.selection.*
+  - worldedit.tool.info
+  - worldedit.wand
+  - worldedit.wand.toggle
+  practice:
+  - bukkit.command.stop
+  - chat.admin
+  - chatmoderator.filters.exempt
+  - coinflip
+  - commandbook.broadcast
+  - commandbook.debug.clock
+  - commandbook.debug.info
+  - commandbook.gamemode.change
+  - commandbook.speed.flight
+  - commandbook.speed.walk
+  - commandbook.teleport
+  - commandbook.teleport.other
+  - commandbook.time
+  - commandbook.whereami
+  - commandbook.whois
+  - commandbook.whois.other
+  - database.queueinfo
+  - lobby.disabled-permissions-exempt
+  - lobby.fly
+  - lobby.restricted.access
+  - nick.see-through-all
+  - nocheatplus.admin
+  - nocheatplus.checks.chat
+  - nocheatplus.checks.moving.boatsanywhere
+  - ocn.teleport.others
+  - overcast.premium
+  - pgm.cancel
+  - pgm.chat.admin
+  - pgm.chat.all.receive
+  - pgm.cycle
+  - pgm.defuse
+  - pgm.end
+  - pgm.fullserver
+  - pgm.join
+  - pgm.join.choose
+  - pgm.join.force
+  - pgm.join.full
+  - pgm.mapreload
+  - pgm.next.set
+  - pgm.rotation.reload
+  - pgm.skip
+  - pgm.start
+  - pgm.team.force
+  - pgm.team.size
+  - pgm.timelimit
+  - pgm.updatemap
+  - projectares.msg.override
+  - server.cancelrestart
+  - server.cross-datacenter
+  - server.queuerestart
+  - server.restart
+  - setting.adminchat
+  - sudo
+  - whitelist.bypass
+  - whitelist.edit
+  - worldedit.analysis.*
+  - worldedit.clipboard.*
+  - worldedit.drain
+  - worldedit.extinguish
+  - worldedit.history.*
+  - worldedit.navigation.*
+  - worldedit.region.*
+  - worldedit.remove
+  - worldedit.selection.*
+  - worldedit.tool.info
+  - worldedit.wand
+  - worldedit.wand.toggle
+web_permissions:
+  forum:
+    parent:
+      bypass_cooldown: true
+    59ac4344a2e3a90001000045: #Staff/Discussion
+      topic:
+        create: true
+        index_parent: all
+        reply: all
+        hide: own
+        modify_archived: all
+        view_parent: all
+        view:
+          status:
+            locked: all
+            hidden: own
+        index:
+          status:
+            locked: all
+            hidden: own
+      post:
+        view_parent: all
+        edit_parent: own
+        hide: own
+    59ac4476a2e3a90001000049: #Staff/Senior_Event_Staff
+      topic:
+        create: true
+        index_parent: all
+        reply: all
+        hide: own
+        modify_archived: all
+        view_parent: all
+        view:
+          status:
+            locked: all
+            hidden: own
+        index:
+          status:
+            locked: all
+            hidden: own
+      post:
+        view_parent: all
+        edit_parent: own
+        hide: own
+    59ac4484a2e3a9000100004a: #Staff/Referees
+      topic:
+        create: true
+        index_parent: all
+        reply: all
+        hide: own
+        modify_archived: all
+        view_parent: all
+        view:
+          status:
+            locked: all
+            hidden: own
+        index:
+          status:
+            locked: all
+            hidden: own
+      post:
+        view_parent: all
+        edit_parent: own
+        hide: own
