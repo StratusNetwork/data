@@ -26,25 +26,3 @@ minecraft_flair:
   test:
     symbol: "[CC]"
     color: green
-web_permissions:
-  forum:
-    59ac443ea2e3a90001000047: #Community/Lounge
-      topic:
-        create: true
-        index_parent: all
-        reply: all
-        hide: own
-        modify_archived: all
-        view_parent: all
-        view:
-          status:
-            locked: all
-            hidden: own
-        index:
-          status:
-            locked: all
-            hidden: own
-      post:
-        view_parent: all
-        edit_parent: own
-        hide: own
