@@ -31,10 +31,8 @@ minecraft_permissions:
   - ocn.version
   - pgm.cancel
   - pgm.chat.all.receive
-  - pgm.chat.all.receive
   - pgm.cycle
   - pgm.end
-  - pgm.fullserver
   - pgm.fullserver
   - pgm.join.force
   - pgm.map
@@ -55,7 +53,6 @@ minecraft_permissions:
   - server.cancelrestart
   - server.queuerestart
   - server.restart
-  - setting.nick
   - setting.nick
   - setting.nick.*
   - setting.nick.any
