@@ -28,7 +28,6 @@ minecraft_permissions:
   - setting.nick.set
   - setting.nick.unlimited
   - sudo
-  - sudo.others
   - tourney.bypass-whitelist
   - tourney.referee
   - tourney.srreferee
@@ -46,7 +45,6 @@ minecraft_permissions:
   - setting.nick.set
   - setting.nick.unlimited
   - sudo
-  - sudo.others
   - tourney.bypass-whitelist
   - tourney.referee
   - tourney.srreferee
