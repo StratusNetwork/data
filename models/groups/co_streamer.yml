@@ -3,6 +3,7 @@ priority: 575
 minecraft_permissions:
   tournament:
   - commandbook.gamemode
+  - commandbook.gamemode.change
   - "-channels.global.send"
   - pgm.chat.all.receive
   - whitelist.bypass
