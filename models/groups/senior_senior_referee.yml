@@ -49,6 +49,11 @@ web_permissions:
       manage: true
       edit:
         members: true
+    event_coordinator:
+      admin: true
+      manage: true
+      edit:
+        members: true
   tournament: 
     admin: true
     manage: true
