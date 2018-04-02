@@ -49,7 +49,7 @@ web_permissions:
       manage: true
       edit:
         members: true
-    event_coordinator:
+    event-coordinator:
       admin: true
       manage: true
       edit:
