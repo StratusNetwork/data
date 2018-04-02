@@ -1,7 +1,7 @@
 name: Official
 priority: 515
-html_color: "#669999"
-badge_color: "#669999"
+html_color: "#4DB6AC"
+badge_color: "#4DB6AC"
 staff: true
 minecraft_permissions:
   global: []
