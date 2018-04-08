@@ -1,0 +1,61 @@
+name: Builders
+priority: 625
+html_color: "#275f92"
+badge_color: "#275f92"
+badge_link: "/staff"
+minecraft_flair:
+  mapdev:
+    color: blue
+    symbol: "[Builder] "
+staff: true
+web_permissions:
+  map:
+    rating:
+      view:
+        public: all
+        private: all
+    phase:
+      development:
+        view: all
+minecraft_permissions:
+  mapdev:
+  - commandbook.clear
+  - commandbook.clear.other
+  - commandbook.debug.clock
+  - commandbook.debug.info
+  - commandbook.flight.toggle
+  - commandbook.flight.toggle.other
+  - commandbook.gamemode
+  - commandbook.gamemode.change
+  - commandbook.gamemode.change.other
+  - commandbook.gamemode.check
+  - commandbook.gamemode.check.other
+  - commandbook.give
+  - commandbook.give.infinite
+  - commandbook.give.other
+  - commandbook.give.stacks
+  - commandbook.give.stacks.unlimited
+  - commandbook.god
+  - commandbook.god.other
+  - commandbook.heal
+  - commandbook.heal.other
+  - commandbook.locations.coords
+  - commandbook.more
+  - commandbook.more.infinite
+  - commandbook.speed.flight
+  - commandbook.speed.flight.other
+  - commandbook.speed.walk
+  - commandbook.speed.walk.other
+  - commandbook.targets.everyone
+  - commandbook.targets.near
+  - commandbook.teleport
+  - commandbook.teleport.other
+  - commandbook.whereami
+  - commandbook.whereami.compass
+  - op
+  normal:
+  - chat.admin
+  - map.rating.view.live
+  - nick.see-through-all
+  - projectares.freeze.exempt
+  - setting.adminchat
