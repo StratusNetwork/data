@@ -1,7 +1,7 @@
 name: Builders
 priority: 625
-html_color: "#275f92"
-badge_color: "#275f92"
+html_color: "#1E88E5"
+badge_color: "#1E88E5"
 badge_link: "/staff"
 minecraft_flair:
   mapdev:
