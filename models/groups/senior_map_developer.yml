@@ -13,6 +13,16 @@ web_permissions:
   group: 
     parent:
       admin: true
+    builders:
+      admin: true
+      manage: true
+      edit:
+        members: true
+    map_developers:
+      admin: true
+      manage: true
+      edit:
+        members: true
     nimbus:
       admin: true
       manage: true
