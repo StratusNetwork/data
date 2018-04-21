@@ -37,6 +37,8 @@ minecraft_flair:
     symbol: '❖'
 web_permissions:
   forum:
+    parent:
+      bypass_cooldown: true
     59ac4344a2e3a90001000045: #Staff/Discussion
       topic:
         create: true

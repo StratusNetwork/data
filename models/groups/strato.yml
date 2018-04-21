@@ -21,6 +21,8 @@ minecraft_flair:
     color: dark_gray
 web_permissions:
   forum:
+    parent:
+      bypass_cooldown: true
     59ac443ea2e3a90001000047: #Community/Lounge
       topic:
         create: true
