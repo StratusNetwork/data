@@ -1,0 +1,10 @@
+name: Default
+priority: 1
+count: 0
+shuffle: true
+maps:
+- Skyline
+- Cerlise
+- "Foundry: Payload"
+- Hoi
+- Dao
