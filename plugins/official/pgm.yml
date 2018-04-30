@@ -1,0 +1,27 @@
+# 
+# PvP Game Manager Sample Configuration
+parent: base
+autorestart:
+  enabled: false
+start:
+  auto: false
+cycle:
+  match-end:
+    enabled: false
+join:
+  priority-kick: false
+minimum-players: 0
+teams:
+  minimum-players: 0
+scoreboard:
+  show-proximity: true
+  precise-progress: true
+stats:
+  deaths: true
+  objectives: true
+  engagements:
+    enabled: true
+freeze:
+  enabled: false
+player-list:
+  players-see-observers: false

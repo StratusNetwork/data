@@ -1,0 +1,65 @@
+restart:
+  interval: 1m
+  uptime: 24h
+  defer-timeout: 24h
+  kick-limit: 3
+  stop-signal:
+    priority: 10
+    timeout: 30s
+    signals:
+      - INT
+      - TERM
+nicks:
+  enabled: true
+flairs:
+  overhead: false
+  limit: 1
+join-messages:
+  enabled: true
+  cross-network: true
+reports:
+  enabled: true
+  cross-server: true
+  cooldown: 10s
+  families:
+    - pgm
+    - lobby
+channels:
+  admin:
+    enabled: true
+    cross-server: true
+navigator:
+  enabled: true
+  buttons:
+    8,2:
+      icon:
+        id: NETHER_STAR
+      to: ${ESCAPE}default
+    4,1:
+      icon:
+        id: SPECTRAL_ARROW
+      to: '@mixed'
+    2,1:
+      icon:
+        id: ARROW
+      to: '@alpha'
+    6,1:
+      icon:
+        id: MINECART
+      to: '@payload-0'
+    7,1:
+      icon:
+        id: MINECART
+      to: '@payload-1'
+    6,0:
+      icon:
+        id: MINECART
+      to: '@payload-2'
+    3,2:
+      icon:
+        id: DIAMOND_PICKAXE
+      to: '@mapdev'
+    5,2:
+      icon:
+        id: END_CRYSTAL
+      to: '@special'

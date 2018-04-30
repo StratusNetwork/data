@@ -1,0 +1,32 @@
+# 
+# PvP Game Manager Sample Configuration
+parent: base
+rotation:
+  dynamic: true
+poll:
+  enabled: true
+map-ratings:
+  enabled: true
+teams:
+  autobalance: true
+fireworks:
+  post-match:
+    enabled: true
+  goals:
+    enabled: true
+antigrief:
+  diffuse:
+    enabled: true
+  craft-protect:
+    enabled: true
+  vechicle-protect:
+    enabled: true
+  anvil-protect:
+    enabled: true
+wool:
+  auto-refill: false
+stats:
+  deaths: true
+  objectives: true
+mutations:
+  enabled: true

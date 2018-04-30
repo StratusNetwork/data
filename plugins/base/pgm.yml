@@ -1,0 +1,125 @@
+# 
+# PvP Game Manager Sample Configuration
+enabled: true
+announce:
+  enabled: false
+environment:
+  ranked: false
+rotation:
+  dynamic: false
+  default-name: Default
+  initial-wait: 20000
+  providers:
+    files:
+      - /minecraft/rotations/$rotation_file
+poll:
+  enabled: false
+  maps:
+    path: /minecraft/maps/bannedmaps.txt
+map:
+  sources:
+    public:
+      priority: 1
+      depth: 20
+      path: /minecraft/maps
+      url: https://stratus.nyc3.digitaloceanspaces.com/maps/
+  include-path:
+    - /minecraft/maps/include
+  autoreload:
+    enabled: true
+    reload-when-error: false
+  global-includes:
+    - /minecraft/maps/include/global.xml
+map-ratings:
+  enabled: false
+autorestart:
+  enabled: true
+  time: 15
+  match-limit: 30
+  memory-limit: -1
+start:
+  auto: true
+  countdown: 15s
+  huddle: 0s
+cycle:
+  countdown: 15s
+  running-match: false
+  match-empty:
+    enabled: false
+    countdown: 5s
+  match-end:
+    enabled: true
+    countdown: 15s
+join:
+  priority-kick: true
+  mid-match: true
+  commit-players: false
+  capacity:
+    enabled: true
+    overfill: true
+    overfill-ratio: 1.25
+  requirements:
+    minimum-kills: 0
+minimum-players: 1
+teams:
+  minimum-players: 1
+  autobalance: false
+  allow-choose: true
+  allow-switch: true
+  even: false
+broadcast:
+  title: false
+  periodic: false
+  frequency: 600
+fireworks:
+  post-match:
+    enabled: false
+    number: 5
+    delay: 40
+    frequency: 40
+    iterations: 15
+    power: 2
+  goals:
+    enabled: false
+antigrief:
+  diffuse:
+    enabled: false
+  craft-protect:
+    enabled: false
+  vechicle-protect:
+    enabled: false
+  anvil-protect:
+    enabled: false
+arrowremoval:
+  enabled: true
+  delay: 5
+fishing:
+  disable-treasure: false
+scoreboard:
+  show-proximity: false
+  precise-progress: false
+wool:
+  auto-refill: false
+stats:
+  deaths: false
+  objectives: false
+  engagements:
+    enabled: false
+    max-continuous-absence: oo
+    max-cumulative-absence: oo
+    min-participation-percent: 0
+mutations:
+  enabled: false
+license:
+  control-access: false
+  auto-grant: false
+  auto-revoke: false
+freeze:
+  enabled: true
+  remove-tnt:
+    victim-radius: 10
+    sender-radius: 10
+player-list:
+  enabled: true
+  players-see-observers: true
+  datacenter: $domain

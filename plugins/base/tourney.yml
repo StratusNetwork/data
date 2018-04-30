@@ -1,0 +1,3 @@
+tournament-id: $tournament_id
+kdm-enabled: false
+better-sprint-allowed: true
