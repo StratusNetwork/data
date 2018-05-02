@@ -21,7 +21,6 @@ minecraft_permissions:
   - ocn.friend.list
   - ocn.login
   - pgm.rotation.list
-  - pgm.playerstats.matchstats
   - poll.mutation
   - poll.next
   - poll.vote
