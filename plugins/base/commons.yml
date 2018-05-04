@@ -34,7 +34,7 @@ navigator:
     8,2:
       icon:
         id: NETHER_STAR
-      to: ${ESCAPE}default
+      to: ${esc}default
     4,1:
       icon:
         id: SPECTRAL_ARROW

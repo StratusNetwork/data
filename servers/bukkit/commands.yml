@@ -13,15 +13,15 @@
 command-block-overrides: []
 aliases:
   tp:
-  - rtp $$1-
+  - rtp ${esc}${esc}1-
   list:
   - commandbook:list
   kick:
-  - commons:kick $$1 $$2-
+  - commons:kick ${esc}${esc}1 ${esc}${esc}2-
   end:
-  - finish $1-
+  - finish ${esc}1-
   tell:
-  - commons:msg $$1-
+  - commons:msg ${esc}${esc}1-
   ban-ip:
   - []
   pardon-ip:
