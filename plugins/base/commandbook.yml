@@ -1,4 +1,3 @@
-
 # Use users' display names rather than than their raw username in various messages. Display names are set by other plugins.
 use-display-names: true
 

@@ -1,5 +1,3 @@
-# 
-# PvP Game Manager Sample Configuration
 enabled: true
 announce:
   enabled: false

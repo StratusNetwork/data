@@ -1,6 +1,6 @@
 global-chat:
-  ## See http://rmsy.github.io/Channels
-  ## for detailed formatting information.
+  # See http://rmsy.github.io/Channels
+  # for detailed formatting information.
   format: "$channels_format"
   switch:
     success-msg: Changed default channel to global chat.

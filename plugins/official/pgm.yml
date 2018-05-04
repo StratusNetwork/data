@@ -1,5 +1,3 @@
-# 
-# PvP Game Manager Sample Configuration
 parent: base
 autorestart:
   enabled: false
