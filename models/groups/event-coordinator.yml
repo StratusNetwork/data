@@ -1,7 +1,8 @@
 name: Event Coordinators
 priority: 375
-badge_text_color: "#00796B"
 html_color: "#00796B"
+badge_color: "#00796B"
+badge_link: "/staff"
 staff: true
 premium: true
 minecraft_flair:
