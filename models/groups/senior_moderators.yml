@@ -167,6 +167,11 @@ web_permissions:
       manage: true
       edit:
         members: true
+    ipban:
+      admin: true
+      manage: true
+      edit:
+        members: true
   forum:
     parent:
       bypass_cooldown: true
