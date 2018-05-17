@@ -31,35 +31,35 @@ channels:
 navigator:
   enabled: true
   buttons:
-    8,2:
+    "8,2":
       icon:
         id: NETHER_STAR
       to: ${esc}default
-    4,1:
+    "4,1":
       icon:
         id: SPECTRAL_ARROW
       to: '@mixed'
-    2,1:
+    "2,1":
       icon:
         id: ARROW
       to: '@alpha'
-    6,1:
+    "6,1":
       icon:
         id: MINECART
       to: '@payload-0'
-    7,1:
+    "7,1":
       icon:
         id: MINECART
       to: '@payload-1'
-    6,0:
+    "6,0":
       icon:
         id: MINECART
       to: '@payload-2'
-    3,2:
+    "3,2":
       icon:
         id: DIAMOND_PICKAXE
       to: '@mapdev'
-    5,2:
+    "5,2":
       icon:
         id: END_CRYSTAL
       to: '@special'
