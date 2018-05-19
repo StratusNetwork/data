@@ -2,7 +2,6 @@ restart:
   interval: 1m
   uptime: 24h
   defer-timeout: 24h
-  kick-limit: 3
   stop-signal:
     priority: 10
     timeout: 30s
