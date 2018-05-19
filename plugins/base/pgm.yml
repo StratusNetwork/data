@@ -9,7 +9,7 @@ rotation:
   initial-wait: 20000
   providers:
     files:
-      - /minecraft/rotations/$rotation_file
+      - /minecraft/data/rotations/$rotation_file
 poll:
   enabled: false
   maps:
