@@ -1,4 +1,5 @@
 name: "Gizmo: raindropgun"
+priority: 1000
 minecraft_permissions:
   global:
   - lobby.gizmo.raindropgun
