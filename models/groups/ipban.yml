@@ -1,0 +1,6 @@
+name: IP Ban
+priority: 1000
+web_permissions:
+  misc:
+    ipban:
+      edit: true
