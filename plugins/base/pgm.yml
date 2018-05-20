@@ -9,7 +9,7 @@ rotation:
   initial-wait: 20000
   providers:
     files:
-      - /minecraft/data/rotations/$rotation_file
+      - /minecraft/data/rotations/$rotations_path
 poll:
   enabled: false
   maps:
@@ -19,8 +19,8 @@ map:
     public:
       priority: 1
       depth: 20
-      path: /minecraft/maps
-      url: https://stratus.nyc3.digitaloceanspaces.com/maps/
+      path: /minecraft/maps$maps_path
+      url: https://stratus.nyc3.digitaloceanspaces.com/maps$maps_path
   include-path:
     - /minecraft/maps/include
   autoreload:
