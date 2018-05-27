@@ -12,6 +12,8 @@ minecraft_permissions:
   - raindrops.multiplier.150
   cloudy:
   - cloudy.ranks.strato
+  premium:
+  - whitelist.bypass
 minecraft_flair:
   normal:
     symbol: "*"

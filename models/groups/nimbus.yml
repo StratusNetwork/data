@@ -9,6 +9,8 @@ minecraft_permissions:
   - pgm.fullserver
   - pgm.join.choose
   - raindrops.multiplier.200
+  premium:
+  - whitelist.bypass
 minecraft_flair:
   normal:
     symbol: "*"

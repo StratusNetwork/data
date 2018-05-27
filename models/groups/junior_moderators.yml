@@ -61,6 +61,8 @@ minecraft_permissions:
     - setting.nick.unlimited
     - worldedit.drain
     - worldedit.extinguish
+  staging:
+  - whitelist.bypass
 staff: true
 premium: true
 minecraft_flair:

@@ -19,6 +19,8 @@ minecraft_permissions:
   - setting.nick.set
   - setting.nick.unlimited
   - setting.nick.view
+  premium:
+  - whitelist.bypass
 minecraft_flair:
   normal:
     symbol: "§l▲"

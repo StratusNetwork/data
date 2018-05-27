@@ -59,6 +59,8 @@ minecraft_permissions:
   - nick.see-through-all
   - projectares.freeze.exempt
   - setting.adminchat
+  staging:
+  - whitelist.bypass
 web_permissions:
   forum:
     59ac4344a2e3a90001000045: #Staff/Discussion

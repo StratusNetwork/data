@@ -14,6 +14,8 @@ minecraft_permissions:
   cloudy:
   - cloudy.ranks.strato
   - cloudy.ranks.alto
+  premium:
+  - whitelist.bypass
 minecraft_flair:
   normal:
     symbol: "*"

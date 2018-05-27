@@ -7,6 +7,8 @@ minecraft_permissions:
   - "-channels.global.send"
   - pgm.chat.all.receive
   - whitelist.bypass
+  premium:
+  - whitelist.bypass
 minecraft_flair:
   tournament:
     symbol: "❖"

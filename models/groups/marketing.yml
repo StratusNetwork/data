@@ -25,6 +25,8 @@ minecraft_permissions:
   - setting.nick.immediate
   - setting.nick.set
   - setting.nick.unlimited
+  staging:
+  - whitelist.bypass
 web_permissions:
   forum:
     parent:

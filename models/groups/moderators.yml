@@ -106,6 +106,8 @@ minecraft_permissions:
     - worldedit.tool.info
     - worldedit.wand
     - worldedit.wand.toggle
+  staging:
+  - whitelist.bypass
 web_permissions:
   forum:
     parent:
