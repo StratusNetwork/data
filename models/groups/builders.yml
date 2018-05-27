@@ -59,3 +59,25 @@ minecraft_permissions:
   - nick.see-through-all
   - projectares.freeze.exempt
   - setting.adminchat
+web_permissions:
+  forum:
+    59ac4344a2e3a90001000045: #Staff/Discussion
+      topic:
+        create: true
+        index_parent: all
+        reply: all
+        hide: own
+        modify_archived: all
+        view_parent: all
+        view:
+          status:
+            locked: all
+            hidden: own
+        index:
+          status:
+            locked: all
+            hidden: own
+      post:
+        view_parent: all
+        edit_parent: own
+        hide: own
