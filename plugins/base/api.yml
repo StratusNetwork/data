@@ -1,7 +1,7 @@
 server:
   id: $_id
   role: $role
-  box: $box
+  box: $hostname
   datacenter: $datacenter
   publishIp: false
 api:
