@@ -22,7 +22,7 @@ antigrief:
   anvil-protect:
     enabled: true
 wool:
-  auto-refill: false
+  auto-refill: true
 stats:
   deaths: true
   objectives: true
