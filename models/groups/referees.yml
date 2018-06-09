@@ -57,6 +57,8 @@ minecraft_permissions:
   - whitelist.bypass
   - whitelist.bypass
   - whitelist.edit
+  staging:
+  - whitelist.bypass
 minecraft_flair: 
   tournament: 
     color: dark_gray
