@@ -2,21 +2,18 @@ name: Mini
 priority: 2
 count: 24
 maps:
-- Boulders
-- Ushatak 2
-- Enchanted
-- SolitudeMC
-- Limbo II
-- Glina
-- Circus DTC
-- Banana Split
-- Sunrise over Paradise
-- Hallows
-- Ranger Outpost
-- Deepwind Redux
-- Hemlock
 - Placid Spring
+- SolitudeMC
+- Boulders
+- Limbo II
+- Ushatak 2
+- Desert Cataract
+- Banana Split
+- Facility
+- Circus DTC
+- Deepwind Redux
+- Ranger Outpost
+- Hemlock
+- Enchanted
 - Pharaoh's Catacombs
-- "The Fenland: Emerald"
-
-
+- Tatakai
