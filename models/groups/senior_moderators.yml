@@ -18,6 +18,7 @@ minecraft_permissions:
   - commandbook.debug.clock
   - commandbook.debug.info
   - commandbook.gamemode.change
+  - commandbook.gamemode.change.other
   - commandbook.give
   - commandbook.give.other
   - commandbook.rocket
@@ -38,6 +39,7 @@ minecraft_permissions:
   - lobby.disabled-permissions-exempt
   - lobby.fly
   - lobby.restricted.access
+  - minecraft.command.kick
   - minecraft.command.stop
   - mutation.set
   - nick.see-through-all
@@ -86,6 +88,7 @@ minecraft_permissions:
   - pgm.team.size
   - pgm.timelimit
   - pgm.updatemap
+  - poll.custom
   - poll.veto
   - projectares.appeals.alerts
   - projectares.freeze
@@ -176,6 +179,8 @@ web_permissions:
     parent:
       bypass_cooldown: true
     58cdace8f6e8a8525b000002: #Stratus_Network/Announcements
+      manage: true
+    5b2fce55218cef00010005f8: #Stratus_Network/UHC
       manage: true
     58cdb02ef6e8a8525b00000d: #Stratus_Network/Stratus_Guides
       manage: true
