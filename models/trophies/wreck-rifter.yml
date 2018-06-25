@@ -1,3 +1,4 @@
 name: Wreck-it Rift
 description: Help complete a monument during a Rift event
+priority: 41
 css_class: fa fa-crosshairs

@@ -1,3 +1,4 @@
 name: Beta Participant
 description: Participate in the beta system
+priority: 51
 css_class: fa fa-bug
