@@ -1,3 +1,4 @@
 name: Hand in Hand
 description: "Buy a Stratus rank to support the #HandInHand cause."
+priority: 21
 css_class: fa fa-medkit
