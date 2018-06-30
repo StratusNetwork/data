@@ -60,7 +60,7 @@ navigator:
       icon:
         id: DIAMOND_PICKAXE
       to: '@mapdev'
-    "5,2":
+    "4,2":
       icon:
-        id: END_CRYSTAL
-      to: '@special'
+        id: GOLDEN_APPLE
+      to: '@staging'
