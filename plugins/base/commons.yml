@@ -64,7 +64,3 @@ navigator:
       icon:
         id: END_CRYSTAL
       to: '@special'
-      "4,2":
-      icon:
-        id: GOLDEN_APPLE
-      to: '@staging'
