@@ -1,9 +1,6 @@
 name: Advisors
 priority: 499
-html_color: "#b71c1c"
-badge_color: "#b71c1c"
-badge_link: "/staff"
-staff: true
+staff: false
 premium: true
 minecraft_permissions:
   global:
@@ -18,6 +15,7 @@ minecraft_permissions:
   - setting.nick.immediate
   - setting.nick.set
   - setting.nick.unlimited
+  - whitelist.bypass
 web_permissions:
   forum:
     parent:
