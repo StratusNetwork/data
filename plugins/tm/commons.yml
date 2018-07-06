@@ -17,6 +17,10 @@ channels:
 navigator:
   enabled: true
   buttons:
+    "8,2":
+      icon:
+        id: NETHER_STAR
+      to: '@null'
     "4,0":
       icon:
         id: NETHER_STAR
