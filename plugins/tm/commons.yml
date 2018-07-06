@@ -1,0 +1,71 @@
+parent: base
+restart:
+  interval: 5m
+  uptime: 24h
+  defer-timeout: 24h
+  kick-limit: 1
+reports:
+  enabled: true
+  cross-server: true
+  cooldown: 0s
+  families:
+    - tm
+channels:
+  admin:
+    enabled: true
+    cross-server: true
+navigator:
+  enabled: true
+  buttons:
+    "4,0":
+      icon:
+        id: NETHER_STAR
+      to: ${esc}default
+    "1,1":
+      icon:
+        id: EMERALD
+      to: '@official-0'
+    "2,1":
+      icon:
+        id: EMERALD
+      to: '@official-1'
+    "3,1":
+      icon:
+        id: EMERALD
+      to: '@official-2'
+    "1,2":
+      icon:
+        id: EMERALD
+      to: '@official-6'
+    "2,2":
+      icon:
+        id: EMERALD
+      to: '@official-7'
+    "3,2":
+      icon:
+        id: EMERALD
+      to: '@official-8'
+    "5,1":
+      icon:
+        id: EMERALD
+      to: '@official-3'
+    "6,1":
+      icon:
+        id: EMERALD
+      to: '@official-4'
+    "7,1":
+      icon:
+        id: EMERALD
+      to: '@official-5'
+    "5,2":
+      icon:
+        id: EMERALD
+      to: '@official-9'
+    "6,2":
+      icon:
+        id: EMERALD
+      to: '@official-10'
+    "7,2":
+      icon:
+        id: EMERALD
+      to: '@official-11'
