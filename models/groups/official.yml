@@ -5,6 +5,34 @@ badge_color: "#4DB6AC"
 staff: true
 minecraft_permissions:
   global: []
+  practice:
+  - channels.global.send
+  - chat.admin
+  - commandbook.broadcast
+  - commandbook.gamemode
+  - commandbook.gamemode.change
+  - commandbook.time.player
+  - pgm.cancel
+  - pgm.chat.all.receive
+  - pgm.cycle
+  - pgm.destroyable.edit
+  - pgm.end
+  - pgm.fullserver
+  - pgm.join.force
+  - pgm.next.set
+  - pgm.skip
+  - pgm.start
+  - pgm.team.alias
+  - pgm.team.force
+  - pgm.team.size
+  - pgm.timelimit
+  - projectares.staff
+  - server.cancelrestart
+  - server.queuerestart
+  - server.restart
+  - server.visibility
+  - whitelist.bypass
+  - whitelist.edit
   tournament:
   - channels.global.send
   - chat.admin
