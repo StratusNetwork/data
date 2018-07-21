@@ -13,5 +13,5 @@ minecraft_permissions:
   - whitelist.bypass
 minecraft_flair:
   normal:
-    symbol: "*"
+    symbol: "★"
     color: dark_blue
