@@ -2,18 +2,21 @@ name: Mini
 priority: 2
 count: 24
 maps:
-- Placid Spring
-- SolitudeMC
-- Boulders
-- Limbo II
+- Directrix
 - Ushatak 2
-- Desert Cataract
-- Banana Split
+- Swamplands
+- Ouroboros
 - Facility
 - Circus DTC
+- Cargo
+- "Coastline: Emerald"
+- Dandelion II
+- Hallows
+- Desert Cataract
+- Tamblanor RAGE
+- "Ruediger's Garden II"
+- Temple
+- Fracture DTM
 - Deepwind Redux
-- Ranger Outpost
-- Hemlock
-- Enchanted
-- Pharaoh's Catacombs
-- Tatakai
+- SolitudeMC
+- Boulders

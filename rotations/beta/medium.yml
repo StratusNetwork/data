@@ -2,32 +2,19 @@ name: Medium
 priority: 3
 count: 34
 maps:
-- Apex
+- Mutiny
 - Western Port
-- Streamline
-- Wit's End
 - Azure
+- Clearcut
 - Equinox
 - Tetrad
-- Palace CTF
-- Diversity
-- Fractal Descent
 - Desert Sanctuary
-- Empired
-- Nightsail
-- Golden Drought III.V
+- Fractal Descent
+- "Wit's End"
 - BlockRAGE
-- Rooted
-
-
-
-
-
-
-
-
-
-
-
-
-
+- Desert Country
+- Ender Blast
+- Doremi
+- Concourse
+- Antiquis
+- Golden Drought III.V
