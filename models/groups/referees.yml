@@ -1,5 +1,7 @@
 name: Referees
 priority: 525
+staff: true
+badge_link: /staff
 html_color: "#4dd0e1"
 badge_color: "#4dd0e1"
 minecraft_permissions:
