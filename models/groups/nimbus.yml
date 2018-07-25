@@ -1,6 +1,6 @@
 # Event prize rank
 name: Nimbus
-priority: 1000
+priority: 885
 badge_color: "#5a5f90"
 minecraft_permissions:
   normal:
@@ -13,5 +13,5 @@ minecraft_permissions:
   - whitelist.bypass
 minecraft_flair:
   normal:
-    symbol: "★"
+    symbol: "☆"
     color: dark_blue
