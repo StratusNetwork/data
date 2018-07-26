@@ -24,5 +24,6 @@ minecraft_permissions:
   - sudo
   - sudo.others
   - tokens.give
+  - viaversion.admin
   - whitelist.bypass
 staff: true
