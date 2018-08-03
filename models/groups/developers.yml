@@ -27,3 +27,8 @@ minecraft_permissions:
   - viaversion.admin
   - whitelist.bypass
 staff: true
+minecraft_flair:
+  global:
+    symbol: "[Dev] "
+    color: dark_purple
+    priority: 360

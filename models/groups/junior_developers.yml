@@ -68,6 +68,11 @@ minecraft_permissions:
   - worldedit.*
   - worldedit.wand
 staff: true
+minecraft_flair:
+  normal:
+    symbol: "[Dev] "
+    color: light_purple
+    priority: 370
 premium: true
 web_permissions:
   forum:
