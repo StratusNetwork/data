@@ -40,27 +40,15 @@ navigator:
       icon:
         id: SPECTRAL_ARROW
       to: '@mixed'
-    "2,1":
+    "4,2":
       icon:
         id: ARROW
-      to: '@alpha'
-    "6,1":
-      icon:
-        id: MINECART
-      to: '@payload-0'
-    "7,1":
-      icon:
-        id: MINECART
-      to: '@payload-1'
-    "6,0":
-      icon:
-        id: MINECART
-      to: '@payload-2'
-    "3,2":
+      to: '.private'
+    "3,1":
       icon:
         id: DIAMOND_PICKAXE
       to: '@mapdev'
-    "4,2":
+    "5,1":
       icon:
         id: GOLDEN_APPLE
       to: '@staging'
