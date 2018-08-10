@@ -29,6 +29,8 @@ minecraft_permissions:
   - ocn.developer
   - ocn.login
   - ocn.teleport.others
+  - ocn.trophies.list
+  - ocn.trophies.modify
   - op
   - pgm.mapdev
   - pgm.next.set

@@ -10,6 +10,8 @@ minecraft_permissions:
   - commandbook.*
   - ocn.broadcast.global
   - ocn.developer
+  - ocn.trophies.list
+  - ocn.trophies.modify
   - op
   - protocolsupport.admin
   - raindrops.multiplier.250
