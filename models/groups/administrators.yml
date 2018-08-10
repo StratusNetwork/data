@@ -25,6 +25,7 @@ minecraft_permissions:
   - lobby.restricted.access
   - nocheatplus.checks.chat
   - nocheatplus.checks.moving.boatsanywhere
+  - ocn.broadcast.global
   - ocn.developer
   - ocn.login
   - ocn.teleport.others

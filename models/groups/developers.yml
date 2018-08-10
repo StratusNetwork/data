@@ -8,6 +8,7 @@ minecraft_permissions:
   global:
   - chat.admin
   - commandbook.*
+  - ocn.broadcast.global
   - ocn.developer
   - op
   - protocolsupport.admin
