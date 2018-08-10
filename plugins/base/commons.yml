@@ -40,10 +40,6 @@ navigator:
       icon:
         id: SPECTRAL_ARROW
       to: '@mixed'
-    "4,2":
-      icon:
-        id: ARROW
-      to: '.private'
     "3,1":
       icon:
         id: DIAMOND_PICKAXE
