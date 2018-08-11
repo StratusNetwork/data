@@ -20,6 +20,7 @@ minecraft_permissions:
   - "-commandbook.speed.walk"
   - "-worldedit.navigation.jumpto.tool"
   - "-worldedit.navigation.thru.tool"
+  - "-buycraft.admin"
   - chat.global.receive
   - commandbook.motd
   - commandbook.msg

@@ -17,6 +17,7 @@ minecraft_permissions:
   - "-commandbook.slay"
   - "-minecraft.command.me"
   - "-minecraft.command.tell"
+  - "-buycraft.admin"
   - mutation.list
   - ocn.friend.list
   - ocn.login
