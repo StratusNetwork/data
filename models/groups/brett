@@ -1,0 +1,63 @@
+name: Brett_private
+priority: 101
+minecraft_permissions:
+  global:
+  - "-nocheatplus.checks"
+  - "-nocheatplus.mods.rei"
+  - "-projectares.report.exempt"
+  - bukkit.command.gamemode
+  - bukkit.command.gamerule
+  - chat.admin
+  - chatmoderator.filters.exempt
+  - commandbook.*
+  - database.disconnect
+  - database.edit
+  - database.flush
+  - database.info
+  - database.reconnect
+  - database.reload
+  - gizmo.immunity
+  - lobby.disabled-permissions-exempt
+  - lobby.fly
+  - lobby.restricted.access
+  - nocheatplus.checks.chat
+  - nocheatplus.checks.moving.boatsanywhere
+  - ocn.broadcast.global
+  - ocn.developer
+  - ocn.login
+  - ocn.teleport.others
+  - ocn.trophies.list
+  - ocn.trophies.modify
+  - op
+  - pgm.mapdev
+  - pgm.next.set
+  - pgm.updatemap
+  - projectares.appeals.alerts
+  - projectares.freeze
+  - projectares.moderator
+  - projectares.staff
+  - pseudogroupnode.admins
+  - raindrops.multiplier.200
+  - server.cross-datacenter
+  - server.visibility
+  - setting.nick
+  - setting.nick.any.get
+  - setting.nick.any.set
+  - setting.nick.get
+  - setting.nick.immediate
+  - setting.nick.set
+  - setting.nick.unlimited
+  - skin.change
+  - sudo
+  - sudo.others
+  - tokens.give
+  - viaversion.admin
+  - whitelist.bypass
+  - whitelist.edit
+  - worldedit.*
+staff: true
+premium: true
+minecraft_flair:
+  global:
+    symbol: "[Brett] "
+    color: gold
