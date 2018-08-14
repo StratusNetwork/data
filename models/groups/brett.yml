@@ -55,9 +55,8 @@ minecraft_permissions:
   - whitelist.bypass
   - whitelist.edit
   - worldedit.*
-staff: true
 premium: true
 minecraft_flair:
   global:
-    symbol: "[Brett]"
+    symbol: "[Brett] "
     color: gold
