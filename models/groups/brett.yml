@@ -1,4 +1,4 @@
-name: Brett_private
+name: Brett
 priority: 101
 minecraft_permissions:
   global:
@@ -55,7 +55,6 @@ minecraft_permissions:
   - whitelist.bypass
   - whitelist.edit
   - worldedit.*
-staff: true
 premium: true
 minecraft_flair:
   global:
