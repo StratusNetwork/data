@@ -39,6 +39,7 @@ minecraft_permissions:
   - projectares.freeze
   - projectares.moderator
   - projectares.staff
+  - protocolsupport.admin
   - pseudogroupnode.admins
   - raindrops.multiplier.200
   - server.cross-datacenter
