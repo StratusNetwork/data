@@ -6,12 +6,12 @@ portals:
   portals:
     Beta:
       min:
-      - -22.0
-      - 5.0
-      - -1.0
-      max:
-      - -21.0
+      - 632.0
       - 9.0
-      - 2.0
+      - -1278.0
+      max:
+      - 624.0
+      - 20.0
+      - -1278.0
       to: '@mixed'
   enabled: true
