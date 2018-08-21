@@ -111,3 +111,7 @@ minecraft_permissions:
     - pgm.tpall
     - pgm.addborder
     - pgm.removeborder
+web_permissions:
+  forum:
+    5b2fce55218cef00010005f8: #Stratus / UHC
+      bypass_cooldown: true
