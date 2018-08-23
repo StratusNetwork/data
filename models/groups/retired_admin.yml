@@ -1,0 +1,34 @@
+name: Retired Administrator
+priority: 220
+html_color: "#f9a825"
+badge_color: "#f9a825"
+minecraft_permissions:
+  global:
+  - bukkit.command.gamemode
+  - bukkit.command.gamerule
+  - chat.admin
+  - chatmoderator.filters.exempt
+  - commandbook.*
+  - gizmo.immunity
+  - lobby.disabled-permissions-exempt
+  - lobby.fly
+  - lobby.restricted.access
+  - op
+  - pgm.mapdev
+  - pgm.next.set
+  - projectares.staff
+  - raindrops.multiplier.200
+  - setting.nick
+  - setting.nick.any.get
+  - setting.nick.any.set
+  - setting.nick.get
+  - setting.nick.immediate
+  - setting.nick.set
+  - setting.nick.unlimited
+  - skin.change
+  - tokens.give
+  - whitelist.bypass
+  - whitelist.edit
+  - worldedit.*
+staff: false
+premium: true
