@@ -1,7 +1,7 @@
 name: Retired Administrator
 priority: 220
-html_color: "#f9a825"
-badge_color: "#f9a825"
+html_color: "#d18c1d"
+badge_color: "#d18c1d"
 minecraft_permissions:
   global:
   - bukkit.command.gamemode
