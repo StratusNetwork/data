@@ -111,3 +111,12 @@ minecraft_permissions:
     - pgm.tpall
     - pgm.addborder
     - pgm.removeborder
+    - pgm.team.uhcsize
+    - ocn.broadcast
+    - minecraft.command.give
+    - minecraft.command.tp
+    - ocn.punishments.*
+    - commandbook.give
+    - commandbook.give.other
+    - commandbook.heal
+    - commandbook.heal.other
