@@ -1,6 +1,7 @@
 name: UHC Hosts
 priority: 324
 premium: true
+staff: true
 badge_color: "#e53935"
 badge_link: /staff
 html_color: "#e53935"
@@ -111,6 +112,15 @@ minecraft_permissions:
     - pgm.tpall
     - pgm.addborder
     - pgm.removeborder
+    - pgm.team.uhcsize
+    - ocn.broadcast
+    - minecraft.command.give
+    - minecraft.command.tp
+    - ocn.punishments.*
+    - commandbook.give
+    - commandbook.give.other
+    - commandbook.heal
+    - commandbook.heal.other
 web_permissions:
   forum:
     5b2fce55218cef00010005f8: #Stratus / UHC
