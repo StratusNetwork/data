@@ -175,6 +175,11 @@ web_permissions:
       manage: true
       edit:
         members: true
+    newsletter:
+      admin: true
+      manage: true
+      edit:
+        members: true
   forum:
     parent:
       bypass_cooldown: true
