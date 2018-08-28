@@ -244,3 +244,6 @@ web_permissions:
     admin: true
   user:
     admin: true
+    profile:
+      verified:
+        edit: all

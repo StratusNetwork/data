@@ -108,3 +108,7 @@ web_permissions:
       view:
         public: all
         private: all
+  user:
+    profile:
+      verified:
+        edit: own
