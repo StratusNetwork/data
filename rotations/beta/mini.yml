@@ -2,20 +2,21 @@ name: Mini
 priority: 2
 count: 24
 maps:
-- Directrix
-- Ushatak 2
-- Ouroboros
-- Facility
-- Circus DTC
+- "Antiquis: Emerald"
+- Boulders
+- Canopy
+- Green
 - Cargo
+- Facility
+- Nutrient
 - "Coastline: Emerald"
-- Dandelion II
 - Hallows
-- Desert Cataract
 - Tamblanor RAGE
 - "Ruediger's Garden II"
-- Temple
 - Fracture DTM
+- Dandelion II
 - Deepwind Redux
+- Temple
+- "Buzzard's Trail"
 - SolitudeMC
-- Boulders
+- Directrix
