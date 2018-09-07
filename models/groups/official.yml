@@ -33,6 +33,7 @@ minecraft_permissions:
   - server.visibility
   - whitelist.bypass
   - whitelist.edit
+  - op
   tournament:
   - channels.global.send
   - chat.admin
@@ -59,8 +60,12 @@ minecraft_permissions:
   - whitelist.bypass
   - whitelist.bypass
   - whitelist.edit
+  - op
 minecraft_flair:
   tournament:
+    color: dark_aqua
+    symbol: '❖'
+  practice:
     color: dark_aqua
     symbol: '❖'
 web_permissions:
