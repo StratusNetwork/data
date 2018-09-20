@@ -1,0 +1,5 @@
+name: "Gizmo: ghosts"
+priority: 1000
+minecraft_permissions:
+  global:
+  - lobby.gizmo.ghosts
