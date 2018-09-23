@@ -9,6 +9,7 @@ minecraft_flair:
   uhc:
     color: red
     symbol: "[Host] "
+    priority: 90
 minecraft_permissions:
   uhc:
     - nick.see-through-all
