@@ -12,6 +12,7 @@ minecraft_flair:
   practice:
     symbol: "❖"
     color: aqua
+    priority: 90
 minecraft_permissions:
   tournament:
   - bukkit.command.stop
