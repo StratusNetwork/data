@@ -66,8 +66,9 @@ minecraft_flair:
     color: dark_aqua
     symbol: '❖'
   practice:
+    symbol: "❖"
     color: dark_aqua
-    symbol: '❖'
+    priority: 90
 web_permissions:
   forum:
     parent:

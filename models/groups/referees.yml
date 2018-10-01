@@ -65,6 +65,10 @@ minecraft_flair:
   tournament: 
     color: dark_gray
     symbol: '❖'
+  practice:
+    symbol: "❖"
+    color: dark_gray
+    priority: 90
 web_permissions:
   forum:
     59ac4344a2e3a90001000045: #Staff/Discussion
