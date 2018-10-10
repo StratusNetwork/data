@@ -1,9 +1,4 @@
 parent: base
-restart:
-  interval: 5m
-  uptime: 3h
-  defer-timeout: 3h
-  kick-limit: 1
 reports:
   enabled: true
   cross-server: false
