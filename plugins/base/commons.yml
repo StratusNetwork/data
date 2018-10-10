@@ -1,9 +1,8 @@
 inter-datacenter: false
 restart:
   interval: 1m
-  uptime: 36h
-  defer-timeout: 6h
-  empty-timeout: 6h
+  uptime: 6h
+  defer-timeout: 1h
   stop-signal:
     priority: 10
     timeout: 30s
