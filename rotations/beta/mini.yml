@@ -1,22 +1,24 @@
 name: Mini
 priority: 2
-count: 24
+count: 22
 maps:
-- "Antiquis: Emerald"
-- Boulders
-- Canopy
+- Drastic Change
+- Novum
+- The Fenland
+- "Ruediger's Spooky Garden"
+- SuperHALLOW
+- "Circus DTC: Halloween"
+- Empire in Ruins
+- AlepBOO!
+- "Burnette: Halloween"
+- Desert Cataract
 - Green
-- Cargo
-- Facility
-- Nutrient
-- "Coastline: Emerald"
-- Hallows
-- Tamblanor RAGE
-- "Ruediger's Garden II"
-- Fracture DTM
-- Dandelion II
+- "Fracture DTM: Halloween"
 - Deepwind Redux
-- Temple
-- "Buzzard's Trail"
-- SolitudeMC
+- "Pharaoh's Catacombs"
+- Lava Dew
+- Rotten Slopes
+- SolitudeMC Halloween
 - Directrix
+- "Antiquis: Emerald"
+- Abudracula

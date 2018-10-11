@@ -2,21 +2,23 @@ name: Default
 priority: 1
 count: 0
 maps:
-- OutCast
 - Warlock
-- Dorreak Half
-- Assault
-- Persisto
-- Croak
-- Agrostid
-- SuperCube
+- Divided
+- Infernal Shadow
+- Scareros
+- "Ruediger's Oasis"
+- Kaldr
 - Desolated Frontier
-- Ringround
-- "Settler's Covert"
-- Placid Spring
-- BalloonsDTM
-- Seahold
+- "Snowy Wars: Halloween"
 - Justice
-- Rolexius
-- Dwyer Hill
-- Gralien
+- PerSpookySto
+- Ghastly Mound
+- Wrath Tor RAGE
+- Placid Spring
+- Desolate Gully
+- "BalloonsDTM: Halloween"
+- SuperCube
+- Flow
+- OutCast
+- "Settler's Covert"
+- Monday
