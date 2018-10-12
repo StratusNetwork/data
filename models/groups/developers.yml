@@ -34,4 +34,4 @@ minecraft_flair:
   global:
     symbol: "[Dev] "
     color: dark_purple
-    priority: 360
+    priority: 220
