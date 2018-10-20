@@ -11,6 +11,10 @@ minecraft_permissions:
   - "-pgm.join.choose.observing"
   normal:
   - pgm.join
+  private:
+  - pgm.fullserver
+  - pgm.join.choose
+  - pgm.join.full
   global:
   - "-bukkit.command.kill"
   - "-bukkit.command.me"
