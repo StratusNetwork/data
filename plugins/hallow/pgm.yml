@@ -1,0 +1,3 @@
+parent: base
+cycle:
+  countdown: 15m
