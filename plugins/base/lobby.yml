@@ -33,5 +33,15 @@ portals:
       - 2.0
       - 8.0
       - -128.0
-      to: '@mixed'
+      to: '@event'
+    Halloween:
+      min:
+      - 43.0
+      - 6.0
+      - -147.0
+      max:
+      - 44.0
+      - 11.0
+      - -151.0
+      to: '@halloween'
   enabled: true
