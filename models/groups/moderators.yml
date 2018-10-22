@@ -66,6 +66,8 @@ minecraft_permissions:
     - pgm.team.shuffle
     - pgm.team.size
     - pgm.timelimit
+    - poll.custom
+    - poll.veto 
     - projectares.appeals.alerts
     - projectares.freeze
     - projectares.freeze.exempt
