@@ -33,6 +33,10 @@ web_permissions:
       manage: true
       edit:
         members: true
+  user:
+    profile:
+      verified:
+        edit: all
 minecraft_permissions:
   normal:
   - ocn.see-all-servers
