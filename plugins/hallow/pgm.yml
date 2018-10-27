@@ -1,6 +1,6 @@
 parent: base
 cycle:
-  countdown: 15m
+  countdown: 5m
   match-end:
     enabled: true
-    countdown: 15m
+    countdown: 5m
