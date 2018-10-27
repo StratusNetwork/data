@@ -3,6 +3,7 @@ priority: 700
 html_color: "#1b5e20"
 badge_color: "#1b5e20"
 premium: true
+staff: true
 minecraft_permissions:
   global:
   - lobby.disabled-permissions-exempt

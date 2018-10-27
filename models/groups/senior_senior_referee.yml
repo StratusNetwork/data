@@ -1,4 +1,4 @@
-name: Senior Senior Referee
+name: Senior Referee
 priority: 245
 web_permissions:
   group: 
@@ -14,7 +14,7 @@ web_permissions:
       manage: true
       edit:
         members: true
-    tournament_op:
+    tournament_builder:
       admin: true
       manage: true
       edit:
@@ -30,21 +30,6 @@ web_permissions:
       edit:
         members: true
     participating_referee:
-      admin: true
-      manage: true
-      edit:
-        members: true
-    event_producer:
-      admin: true
-      manage: true
-      edit:
-        members: true
-    senior_referee:
-      admin: true
-      manage: true
-      edit:
-        members: true
-    senior_event_staff:
       admin: true
       manage: true
       edit:
@@ -69,3 +54,4 @@ web_permissions:
       manage: true
     59ac6295a2e3a90001000064: #Staff/Archives
       manage: true
+ 

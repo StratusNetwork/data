@@ -62,12 +62,17 @@ minecraft_permissions:
   - pgm.timelimit
   - pgm.updatemap
   - projectares.msg.override
+  - ocn.developer
+  - op
   - server.cancelrestart
   - server.cross-datacenter
   - server.queuerestart
   - server.restart
   - setting.adminchat
   - sudo
+  - tourney.bypass-whitelist
+  - tourney.referee
+  - tourney.srreferee
   - whitelist.bypass
   - whitelist.edit
   - worldedit.analysis.*
@@ -87,6 +92,7 @@ minecraft_permissions:
   - chat.admin
   - chatmoderator.filters.exempt
   - coinflip
+  - op  
   - commandbook.broadcast
   - commandbook.debug.clock
   - commandbook.debug.info
@@ -136,6 +142,9 @@ minecraft_permissions:
   - server.restart
   - setting.adminchat
   - sudo
+  - tourney.bypass-whitelist
+  - tourney.referee
+  - tourney.srreferee
   - whitelist.bypass
   - whitelist.edit
   - worldedit.analysis.*
@@ -162,6 +171,14 @@ web_permissions:
     59ac44b7a2e3a9000100004b: #Mapmaking/Map_Submissions
       manage: true
       bypass_cooldown: true
+    59ac4484a2e3a9000100004a: #Staff/Referees
+      manage: true
+    58e16ef6f6e8a83410000052: #Events/Discussion
+      manage: true
+    59b3630ba2e3a90001000001: #Events/Looking_For_Team
+      manage: true
+    59b3632fa2e3a90001000002: #Events/Looking_For_Members
+      manage: true
     59ac4344a2e3a90001000045: #Staff/Discussion
       topic:
         create: true
@@ -202,23 +219,73 @@ web_permissions:
         view_parent: all
         edit_parent: own
         hide: own
-    59ac4484a2e3a9000100004a: #Staff/Referees
-      topic:
-        create: true
-        index_parent: all
-        reply: all
-        hide: own
-        modify_archived: all
-        view_parent: all
-        view:
-          status:
-            locked: all
-            hidden: own
-        index:
-          status:
-            locked: all
-            hidden: own
-      post:
-        view_parent: all
-        edit_parent: own
-        hide: own
+  stream:
+    admin: true
+    manage: true
+  group: 
+    parent:
+      admin: true
+    tournament_winner:
+      admin: true
+      manage: true
+      edit:
+        members: true
+    referees:
+      admin: true
+      manage: true
+      edit:
+        members: true
+    official:
+      admin: true
+      manage: true
+      edit:
+        members: true
+    co_streamer:
+      admin: true
+      manage: true
+      edit:
+        members: true
+    live_streamer:
+      admin: true
+      manage: true
+      edit:
+        members: true
+    participating_referee:
+      admin: true
+      manage: true
+      edit:
+        members: true
+  tournament: 
+    admin: true
+    manage: true
+  report:
+    manage: true
+  punishment:
+    create: 
+      tourney_ban: true
+    distinguish_status: 
+      automatic: all
+      contested: all
+      inactive: all
+      stale: all
+    index: 
+      status: 
+        automatic: all
+        contested: all
+        inactive: all
+        stale: all
+      type: 
+        ban: all
+        forum_ban: all
+        forum_warn: all
+        kick: all
+        tourney_ban: all
+        warn: all
+    view: 
+      status: 
+        automatic: all
+        contested: all
+        inactive: all
+        stale: all
+      type: 
+        tourney_ban: all
