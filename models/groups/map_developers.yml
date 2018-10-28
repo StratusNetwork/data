@@ -116,6 +116,7 @@ minecraft_permissions:
   - commandbook.teleport.other
   - commandbook.whereami
   - commandbook.whereami.compass
+  - minecraft.command.stop
   - op
   normal:
   - bukkit.command.gamerule
@@ -124,7 +125,6 @@ minecraft_permissions:
   - commandbook.targets.everyone
   - lobby.fly
   - map.rating.view.live
-  - minecraft.command.stop
   - mutation.set
   - nick.see-through-all
   - ocn.version
@@ -165,9 +165,7 @@ minecraft_permissions:
   - setting.nick.view
   - whitelist.bypass
   - whitelist.edit
-  - worldedit.*
   - worldedit.analysis.*
-  - worldedit.clipboard.*
   - worldedit.drain
   - worldedit.extinguish
   - worldedit.history.*
