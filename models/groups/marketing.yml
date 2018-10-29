@@ -52,7 +52,24 @@ web_permissions:
         view_parent: all
         edit_parent: own
         hide: own
+    59ac44fba2e3a9000100004c: #Stratus_Network/Applications
+      manage: true
+  group:
+    parent:
+      admin: true
+    internet_famous:
+      admin: true
+      manage: true
+      edit:
+        members: true
+    content_creators:
+      admin: true
+      manage: true
+      edit:
+        members: true
   misc:
     player:
       view_display_server: true
       view_new_players: true
+  trophy:
+    admin: true
