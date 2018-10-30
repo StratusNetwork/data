@@ -189,8 +189,6 @@ web_permissions:
       manage: true
     58cdb02ef6e8a8525b00000d: #Stratus_Network/Stratus_Guides
       manage: true
-    59ac44fba2e3a9000100004c: #Stratus_Network/Applications
-      manage: true
     58e16cb1f6e8a83410000043: #Community/General_Discussion
       manage: true
     5994bb4c452b3600010001a9: #Community/Introduce_Yourself
@@ -236,6 +234,8 @@ web_permissions:
       index: all
     ipban:
       edit: true
+  trophy:
+    admin: true
   report:
     manage: true
   appeal:
