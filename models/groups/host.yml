@@ -16,6 +16,8 @@ minecraft_permissions:
     - commandbook.debug.clock
     - commandbook.debug.info
     - commandbook.gamemode.change
+    - commandbook.heal
+    - commandbook.heal.other
     - commandbook.speed.flight
     - commandbook.speed.walk
     - commandbook.teleport
@@ -37,6 +39,7 @@ minecraft_permissions:
     - nocheatplus.admin.version
     - nocheatplus.checks.chat
     - nocheatplus.checks.moving.boatsanywhere
+    - ocn.broadcast.global
     - ocn.punishments
     - ocn.punishments.ban
     - ocn.punishments.kick
@@ -62,6 +65,7 @@ minecraft_permissions:
     - pgm.start
     - pgm.team.shuffle
     - pgm.team.size
+    - pgm.team.force
     - pgm.timelimit
     - projectares.appeals.alerts
     - projectares.freeze
