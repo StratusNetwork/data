@@ -2,23 +2,21 @@ name: Default
 priority: 1
 count: 0
 maps:
-- Warlock
-- Divided
-- Infernal Shadow
-- Scareros
-- "Ruediger's Oasis"
-- Kaldr
-- Desolated Frontier
-- "Snowy Wars: Halloween"
-- Justice
-- PerSpookySto
-- Ghastly Mound
-- Wrath Tor RAGE
-- Placid Spring
-- Desolate Gully
-- "BalloonsDTM: Halloween"
-- SuperCube
-- Flow
 - OutCast
+- Warlock
+- Dorreak Half
+- Assault
+- Persisto
+- Croak
+- Agrostid
+- SuperCube
+- Desolated Frontier
+- Ringround
 - "Settler's Covert"
-- Monday
+- Placid Spring
+- BalloonsDTM
+- Seahold
+- Justice
+- Rolexius
+- Dwyer Hill
+- Gralien
