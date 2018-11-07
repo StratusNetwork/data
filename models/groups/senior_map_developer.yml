@@ -33,6 +33,11 @@ web_permissions:
       manage: true
       edit:
         members: true
+    ghosts:
+      admin: true
+      manage: true
+      edit:
+        members: true
   user:
     profile:
       verified:
