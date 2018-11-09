@@ -2,5 +2,11 @@ name: IP Ban
 priority: 1000
 web_permissions:
   misc:
+    alt:
+      index: all
+    name_change:
+      index: all
     ipban:
       edit: true
+  session:
+    admin: true

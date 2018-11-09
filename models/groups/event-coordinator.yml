@@ -230,16 +230,6 @@ web_permissions:
       manage: true
       edit:
         members: true
-    referees:
-      admin: true
-      manage: true
-      edit:
-        members: true
-    official:
-      admin: true
-      manage: true
-      edit:
-        members: true
     co_streamer:
       admin: true
       manage: true
@@ -250,42 +240,6 @@ web_permissions:
       manage: true
       edit:
         members: true
-    participating_referee:
-      admin: true
-      manage: true
-      edit:
-        members: true
   tournament: 
     admin: true
     manage: true
-  report:
-    manage: true
-  punishment:
-    create: 
-      tourney_ban: true
-    distinguish_status: 
-      automatic: all
-      contested: all
-      inactive: all
-      stale: all
-    index: 
-      status: 
-        automatic: all
-        contested: all
-        inactive: all
-        stale: all
-      type: 
-        ban: all
-        forum_ban: all
-        forum_warn: all
-        kick: all
-        tourney_ban: all
-        warn: all
-    view: 
-      status: 
-        automatic: all
-        contested: all
-        inactive: all
-        stale: all
-      type: 
-        tourney_ban: all

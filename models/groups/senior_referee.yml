@@ -1,5 +1,5 @@
 name: Senior Referee
-priority: 250
+priority: 245
 premium: true
 minecraft_permissions:
   global:
@@ -51,6 +51,8 @@ web_permissions:
       manage: true
     59ac4484a2e3a9000100004a: #Staff/Referees
       manage: true
+    59ac6295a2e3a90001000064: #Staff/Archives
+      manage: true
   stream:
     admin: true
     manage: true
@@ -82,18 +84,20 @@ web_permissions:
       manage: true
       edit:
         members: true
-    participating_referee:
+    tournament_builder:
       admin: true
       manage: true
       edit:
         members: true
-    event_producer:
+    participating_referee:
       admin: true
       manage: true
       edit:
         members: true
   tournament: 
     admin: true
+    manage: true
+  appeal:
     manage: true
   report:
     manage: true
