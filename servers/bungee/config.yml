@@ -15,7 +15,7 @@ listeners:
     tab_size: 60
     ping_passthrough: true
     force_default_server: false
-    proxy_protocol: true
+    proxy_protocol: false
 name: Connect with
 online_mode: true
 connection_throttle: -1
