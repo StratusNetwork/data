@@ -1,5 +1,5 @@
 name: Tournament Winner
-priority: 900
+priority: 880
 badge_color: "#607D8B"
 premium: true
 minecraft_permissions:
