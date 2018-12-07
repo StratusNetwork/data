@@ -15,4 +15,4 @@ minecraft_permissions:
 minecraft_flair:
   normal:
     symbol: "*"
-    color: purple
+    color: dark_purple
