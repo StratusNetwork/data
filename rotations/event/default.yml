@@ -2,10 +2,21 @@ name: Default
 priority: 1
 count: 0
 maps:
-- Ancient
-- Ascendance 02
-- Avenue
-- Bamboo Valley IV
-- Forge
-- Siege
-- Smoke
+- "Antiquis: Emerald"
+- Novum
+- Dawnskirr
+- Croak
+- Tahiti
+- The Fenland CTF
+- Boulders
+- Immitis FFA
+- Hemlock
+- Woolirium
+- Green
+- Cargo
+- Fracture DTM
+- Deepwind Redux
+- Molendinis
+- Lost World CTF
+- "Coastline: Duo"
+- "Buzzard's Trail"
