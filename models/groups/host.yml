@@ -123,3 +123,4 @@ minecraft_permissions:
     - commandbook.give.other
     - commandbook.heal
     - commandbook.heal.other
+    - commandbook.targets.everyone
