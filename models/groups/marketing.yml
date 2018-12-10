@@ -52,8 +52,6 @@ web_permissions:
         view_parent: all
         edit_parent: own
         hide: own
-    59ac44fba2e3a9000100004c: #Stratus_Network/Applications
-      manage: true
   group:
     parent:
       admin: true
@@ -63,6 +61,11 @@ web_permissions:
       edit:
         members: true
     content_creators:
+      admin: true
+      manage: true
+      edit:
+        members: true
+    nimbus:
       admin: true
       manage: true
       edit:
