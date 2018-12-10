@@ -1,0 +1,6 @@
+name: Manage Applications
+priority: 1000
+web_permissions:
+  forum:
+    59ac44fba2e3a9000100004c: #Stratus_Network/Applications
+      manage: true
