@@ -1,29 +1,19 @@
-name: UHC Hosts
+name: Event Hosts
 priority: 550
 premium: true
 staff: false
-minecraft_flair:
-  uhc:
-    color: red
-    symbol: "[Host] "
-    priority: 90
 minecraft_permissions:
-  uhc:
+  normal:
     - nick.see-through-all
     - chat.admin
     - chatmoderator.filters.exempt
     - commandbook.broadcast
     - commandbook.debug.clock
     - commandbook.debug.info
-    - commandbook.gamemode.change
-    - commandbook.heal
-    - commandbook.heal.other
     - commandbook.speed.flight
     - commandbook.speed.walk
     - commandbook.teleport
     - commandbook.teleport.other
-    - commandbook.time
-    - commandbook.whereami
     - commandbook.whois
     - commandbook.whois.other
     - lobby.disabled-permissions-exempt
@@ -32,20 +22,7 @@ minecraft_permissions:
     - mutation.list
     - mutation.set
     - nick.see-through-all
-    - nocheatplus.admin.commands
-    - nocheatplus.admin.info
-    - nocheatplus.admin.notify
-    - nocheatplus.admin.plugins
-    - nocheatplus.admin.version
-    - nocheatplus.checks.chat
-    - nocheatplus.checks.moving.boatsanywhere
     - ocn.broadcast.global
-    - ocn.punishments
-    - ocn.punishments.ban
-    - ocn.punishments.kick
-    - ocn.punishments.lookup.stale
-    - ocn.punishments.punish
-    - ocn.punishments.warn
     - ocn.version
     - overcast.premium
     - pgm.cancel
@@ -67,7 +44,6 @@ minecraft_permissions:
     - pgm.team.size
     - pgm.team.force
     - pgm.timelimit
-    - projectares.appeals.alerts
     - projectares.freeze
     - projectares.freeze.exempt
     - projectares.lookup
@@ -77,12 +53,9 @@ minecraft_permissions:
     - projectares.lookup.type.kick
     - projectares.lookup.type.tourney_ban
     - projectares.lookup.type.warn.own
-    - projectares.moderator
     - projectares.msg.override
     - projectares.reports.receive
     - projectares.reports.view
-    - projectares.staff
-    - pseudogroupnode.staff
     - raindrops.multiplier.250
     - server.cancelrestart
     - server.cross-datacenter
@@ -111,16 +84,5 @@ minecraft_permissions:
     - server.visibility
     - whitelist.edit
     - minecraft.command.kick
-    - pgm.tpall
-    - pgm.addborder
-    - pgm.removeborder
-    - pgm.team.uhcsize
     - ocn.broadcast
-    - minecraft.command.give
     - minecraft.command.tp
-    - ocn.punishments.*
-    - commandbook.give
-    - commandbook.give.other
-    - commandbook.heal
-    - commandbook.heal.other
-    - commandbook.targets.everyone
