@@ -21,7 +21,7 @@ minecraft_permissions:
   - server.cancelrestart
   - server.queuerestart
   - server.restart
-  practise:
+  practice:
   - chat.admin
   - pgm.chat.all.receive
   - pgm.fullserver
