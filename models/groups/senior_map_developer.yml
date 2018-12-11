@@ -6,8 +6,6 @@ web_permissions:
       manage: true
     59ac6295a2e3a90001000064: #Staff/Archives
       manage: true
-    59ac44fba2e3a9000100004c: #Stratus_Network/Applications
-      manage: true
     59b41b2b66bbaa0001000005: #Community/Development
       manage: true
   group: 
