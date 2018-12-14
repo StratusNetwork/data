@@ -1,16 +1,17 @@
 name: Mammoth
 priority: 5
-count: 64
+count: 60
 maps:
-- Fourchette
-- Inheritance
-- Battle of Lyndanisse
+- Aequabilis
 - The Nile
-- Bamboo Valley
-- Storm
-- Midnight Train
-- Golden Drought
-- Glacial Impact
-- Blocks DTC
+- Battle of Lyndanisse Snowmen
 - Race for Victory 3
-- The Hill
+- Storm
+- Battle of Krehm
+- Candy Cane Valley
+- Battle of Tenjin 2
+- Mushroom Gorge
+- Bamboo Valley III
+- Wrath Altar
+- Holiday Blocks
+- Snowback
