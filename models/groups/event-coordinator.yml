@@ -87,6 +87,69 @@ minecraft_permissions:
   - worldedit.tool.info
   - worldedit.wand
   - worldedit.wand.toggle
+  normal:
+  - bukkit.command.gamerule
+  - chat.admin
+  - commandbook.broadcast
+  - commandbook.speed.flight
+  - commandbook.speed.walk
+  - commandbook.targets.everyone
+  - lobby.fly
+  - map.rating.view.live
+  - minecraft.command.stop
+  - mutation.set
+  - nick.see-through-all
+  - ocn.premium
+  - ocn.version
+  - pgm.blitz
+  - pgm.cancel
+  - pgm.cycle
+  - pgm.destroyable.edit
+  - pgm.end
+  - pgm.join
+  - pgm.join.choose
+  - pgm.join.force
+  - pgm.join.full
+  - pgm.loadnewmaps
+  - pgm.maperrors
+  - pgm.modes.push
+  - pgm.next.set
+  - pgm.skip
+  - pgm.start
+  - pgm.team.alias
+  - pgm.team.force
+  - pgm.team.size
+  - pgm.timelimit
+  - pgm.updatemap
+  - poll.custom
+  - poll.veto
+  - projectares.freeze.exempt
+  - raindrops.multiplier.250
+  - server.cancelrestart
+  - server.queuerestart
+  - server.restart
+  - setting.adminchat
+  - setting.nick
+  - setting.nick.any.get
+  - setting.nick.immediate
+  - setting.nick.set
+  - setting.nick.unlimited
+  - setting.nick.view
+  - whitelist.bypass
+  - whitelist.edit
+  - worldedit.*
+  - worldedit.analysis.*
+  - worldedit.clipboard.*
+  - worldedit.drain
+  - worldedit.extinguish
+  - worldedit.history.*
+  - worldedit.navigation.*
+  - worldedit.region.*
+  - worldedit.remove
+  - worldedit.selection.*
+  - worldedit.tool.info
+  - worldedit.wand
+  - worldedit.wand.toggle
   practice:
   - bukkit.command.stop
   - chat.admin
