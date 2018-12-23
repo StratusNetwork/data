@@ -43,6 +43,7 @@ minecraft_permissions:
     - ocn.punishments
     - ocn.punishments.ban
     - ocn.punishments.kick
+    - ocn.punishments.lookup
     - ocn.punishments.lookup.stale
     - ocn.punishments.punish
     - ocn.punishments.warn
