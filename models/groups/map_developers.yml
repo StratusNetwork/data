@@ -81,6 +81,10 @@ web_permissions:
   misc:
     player:
       view_new_players: true
+  user:
+    profile:
+      verified:
+        edit: own
 minecraft_permissions:
   mapdev:
   - commandbook.clear
