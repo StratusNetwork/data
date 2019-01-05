@@ -2,21 +2,19 @@ name: Mini
 priority: 2
 count: 22
 maps:
-- "Antiquis: Emerald"
-- Novum
-- Dawnskirr
-- Croak
-- Tahiti
-- The Fenland CTF
-- Boulders
-- Immitis FFA
-- Hemlock
-- Woolirium
-- Green
-- Cargo
-- Fracture DTM
 - Deepwind Redux
+- The Fenland
+- Limbo II
+- Egyptian Madness
+- Fumeen II
+- Lava Dew
+- Facility
+- Cargo
 - Molendinis
-- Lost World CTF
-- "Coastline: Duo"
-- "Buzzard's Trail"
+- Tahiti
+- Enchanted
+- "Antiquis: Emerald"
+- Little China
+- Banana Split
+- "Coastline: Emerald"
+- Directrix
