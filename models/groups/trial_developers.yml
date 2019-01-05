@@ -5,68 +5,29 @@ badge_color: "#ce93d8"
 badge_link: "/staff"
 minecraft_permissions:
   global:
-  - bukkit.broadcast.scradmin
   - bukkit.command.gamemode
-  - bungeecord.command.ip
-  - bungeecord.command.send
-  - chat.admin
   - commandbook.*
-  - commandbook.broadcast
-  - commandbook.debug.clock
-  - commandbook.debug.info
-  - commandbook.gamemode
-  - commandbook.gamemode.change
-  - commandbook.gamemode.change.other
-  - commandbook.locations.coords
-  - commandbook.targets.everyone
   - commandbook.teleport
-  - commandbook.teleport.other
-  - commandbook.time
   - lobby.fly
-  - minecraft.command.give
-  - minecraft.command.stop
-  - mutation.set
-  - nick.see-through-all
   - ocn.developer
   - ocn.version
   - pgm.cancel
-  - pgm.chat.all.receive
   - pgm.cycle
-  - pgm.end
   - pgm.fullserver
   - pgm.join.force
-  - pgm.map
-  - pgm.mapdev
   - pgm.next.set
-  - pgm.next.set
-  - pgm.reload
   - pgm.skip
   - pgm.start
-  - pgm.team.alias
-  - pgm.team.force
-  - pgm.team.shuffle
   - pgm.team.size
   - pgm.timelimit
-  - poll.custom
-  - poll.veto
   - projectares.msg.override
-  - server.cancelrestart
-  - server.queuerestart
-  - server.restart
   - setting.nick
-  - setting.nick.*
   - setting.nick.any
-  - setting.nick.any.get
-  - setting.nick.any.set
   - setting.nick.get
   - setting.nick.immediate
   - setting.nick.set
   - setting.nick.unlimited
-  - skin.change
-  - tokens.give
   - whitelist.bypass
-  - worldedit.*
-  - worldedit.wand
 staff: true
 minecraft_flair:
   normal:
