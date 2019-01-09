@@ -200,25 +200,7 @@ web_permissions:
         edit_parent: own
         hide: own
     59ac4476a2e3a90001000049: #Staff/Senior_Event_Staff
-      topic:
-        create: true
-        index_parent: all
-        reply: all
-        hide: own
-        modify_archived: all
-        view_parent: all
-        view:
-          status:
-            locked: all
-            hidden: own
-        index:
-          status:
-            locked: all
-            hidden: own
-      post:
-        view_parent: all
-        edit_parent: own
-        hide: own
+      manage: true
   stream:
     admin: true
     manage: true
