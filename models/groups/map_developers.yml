@@ -50,25 +50,8 @@ web_permissions:
         edit_parent: own
         hide: own
     59ac445ca2e3a90001000048: #Staff/Map_Developers
-      topic:
-        create: true
-        index_parent: all
-        reply: all
-        hide: own
-        modify_archived: all
-        view_parent: all
-        view:
-          status:
-            locked: all
-            hidden: own
-        index:
-          status:
-            locked: all
-            hidden: own
-      post:
-        view_parent: all
-        edit_parent: own
-        hide: own
+        manage: true
+        bypass_cooldown: true
   map:
     rating:
       view:
