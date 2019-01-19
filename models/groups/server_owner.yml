@@ -1,0 +1,5 @@
+name: Server Owner
+priority: 55
+minecraft_permissions:
+  global:
+  - ocn.requestserver
