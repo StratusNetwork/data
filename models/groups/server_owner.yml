@@ -1,4 +1,4 @@
-name: Server Owner
+name: ServerOwner
 priority: 1055
 minecraft_permissions:
   global:
