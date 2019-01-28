@@ -3,3 +3,4 @@ priority: 1055
 minecraft_permissions:
   global:
   - ocn.requestserver
+  - "-minecraft.command.ban-ip"
