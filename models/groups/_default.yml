@@ -15,6 +15,7 @@ minecraft_permissions:
   - pgm.join
   global:
   - "-commandbook.slay"
+  - "-minecraft.command.ban-ip"
   - "-minecraft.command.me"
   - "-minecraft.command.tell"
   - "-buycraft.admin"
