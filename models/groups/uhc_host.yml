@@ -97,6 +97,7 @@ minecraft_permissions:
     - setting.nick.set
     - setting.nick.unlimited
     - worldedit.analysis.*
+    - worldedit.clipboard.*
     - worldedit.drain
     - worldedit.extinguish
     - worldedit.history.*
@@ -105,6 +106,7 @@ minecraft_permissions:
     - worldedit.remove
     - worldedit.replacenear
     - worldedit.selection.*
+    - worldedit.generation.sphere
     - worldedit.tool.*
     - worldedit.wand
     - worldedit.wand.toggle
