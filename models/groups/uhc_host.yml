@@ -103,8 +103,9 @@ minecraft_permissions:
     - worldedit.navigation.*
     - worldedit.region.*
     - worldedit.remove
+    - worldedit.replacenear
     - worldedit.selection.*
-    - worldedit.tool.info
+    - worldedit.tool.*
     - worldedit.wand
     - worldedit.wand.toggle
     - whitelist.bypass
