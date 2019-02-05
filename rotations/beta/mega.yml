@@ -1,16 +1,19 @@
 name: Mega
 priority: 4
-count: 46
+count: 44
 maps:
-- Relic
-- Two Tier
-- Babylon
-- Blocks DTC
-- Wildwood Crevice
-- Royal Garden CTW
+- Gridlock 2
+- Mystic Point
+- Kytriak
 - "The Arena: Redux"
+- Woodwork Harbor
+- Fox Strife
+- Diablo
+- Monument Valley
+- Battle Ecliptica III
+- "Stampede: Redux"
+- Interitus
+- "Storm: Redux"
+- Ring Run
 - Midnight Train
-- Outback
-- The Hill
-- Royal Garden DTC
-- Fourchette
+- Lights Out
