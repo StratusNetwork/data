@@ -2,17 +2,20 @@ name: Default
 priority: 1
 count: 0
 maps:
-- Warlock
-- OutCast
-- Rotten
-- Wrath Tor RAGE
-- Agrostid
-- Banana Unsplit
-- Gralien
-- BalloonsDTM
-- Kaldr
-- Persisto
-- Snowy Wars
-- Seahold
-- Desolate Gully
-- Justice
+- Decay
+- Finis
+- Wilky Way
+- Snowy Frontier
+- Garden
+- Lagoon
+- Government
+- Hekla
+- Nyah
+- Stonehenge
+- Downforce
+- Command
+- Sheol
+- Covert Fortress
+- Hillside Mini
+- Vertex
+- "Interitus: Mini"
