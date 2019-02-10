@@ -97,14 +97,21 @@ minecraft_permissions:
     - setting.nick.set
     - setting.nick.unlimited
     - worldedit.analysis.*
+    - worldedit.clipboard.*
     - worldedit.drain
     - worldedit.extinguish
     - worldedit.history.*
     - worldedit.navigation.*
     - worldedit.region.*
     - worldedit.remove
+    - worldedit.replacenear
     - worldedit.selection.*
+    - worldedit.generation.sphere
+    - worldedit.brush.cylinder
+    - worldedit.brush.smooth
+    - worldedit.brush.sphere
     - worldedit.tool.info
+    - worldedit.tool.tree
     - worldedit.wand
     - worldedit.wand.toggle
     - whitelist.bypass
