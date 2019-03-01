@@ -9,3 +9,7 @@ channels:
   admin:
     enabled: true
     cross-server: false
+afk:
+  timeout: 15m
+  warning: 14m
+  interval: 20s
