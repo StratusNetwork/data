@@ -16,3 +16,4 @@ minecraft_flair:
   normal:
     symbol: "*"
     color: dark_purple
+    priority: 690
