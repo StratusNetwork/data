@@ -113,3 +113,26 @@ web_permissions:
         view_parent: all
         edit_parent: own
         hide: own
+  group: 
+    parent:
+      admin: true
+    referees:
+      admin: true
+      manage: true
+      edit:
+        members: true
+    co_streamer:
+      admin: true
+      manage: true
+      edit:
+        members: true
+    live_streamer:
+      admin: true
+      manage: true
+      edit:
+        members: true
+    participating_referee:
+      admin: true
+      manage: true
+      edit:
+        members: true

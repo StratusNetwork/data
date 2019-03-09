@@ -111,3 +111,5 @@ web_permissions:
         view_parent: all
         edit_parent: own
         hide: own
+  tournament:
+    participate: false
