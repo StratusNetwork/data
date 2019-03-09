@@ -1,6 +1,20 @@
 name: Tournament Op
-priority: 800
+priority: 1000
 minecraft_permissions:
-  practice:
+  tournament:
+  - chat.admin
+  - commandbook.*
+  - ocn.developer
   - op
-
+  - setting.nick
+  - setting.nick.any
+  - setting.nick.any.get
+  - setting.nick.any.set
+  - setting.nick.get
+  - setting.nick.immediate
+  - setting.nick.set
+  - setting.nick.unlimited
+  - sudo
+  - tourney.bypass-whitelist
+  - tourney.referee
+  - tourney.srreferee
