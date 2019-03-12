@@ -1,0 +1,6 @@
+name: Executives
+priority: 1000
+web_permissions:
+  forum:
+    58cdb02ef6e8a8525b00000d: #Stratus_Network/Stratus_Guides
+      manage: true
