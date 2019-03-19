@@ -5,9 +5,6 @@ badge_color: "#ce93d8"
 badge_link: "/staff"
 minecraft_permissions:
   global:
-  - bukkit.command.gamemode
-  - commandbook.*
-  - commandbook.teleport
   - lobby.fly
   - ocn.developer
   - ocn.version
@@ -15,11 +12,8 @@ minecraft_permissions:
   - pgm.cycle
   - pgm.fullserver
   - pgm.join.force
-  - pgm.next.set
-  - pgm.skip
   - pgm.start
   - pgm.team.size
-  - pgm.timelimit
   - projectares.msg.override
   - setting.nick
   - setting.nick.any
