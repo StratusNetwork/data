@@ -1,0 +1,7 @@
+name: ServerOwnerCustom
+priority: 1055
+minecraft_permissions:
+  global:
+  - ocn.requestserver
+  - ocn.requestserver.custom
+  - "-minecraft.command.ban-ip"
