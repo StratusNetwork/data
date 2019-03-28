@@ -23,8 +23,6 @@ minecraft_permissions:
   - whitelist.bypass
 minecraft_flair:
   normal:
-    symbol: "§l►"
-    color: green
-  test:
-    symbol: "[CC]"
-    color: green
+    symbol: "[CC] "
+    color: dark_green
+
