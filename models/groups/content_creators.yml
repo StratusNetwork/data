@@ -24,5 +24,5 @@ minecraft_permissions:
 minecraft_flair:
   normal:
     symbol: "*"
-    color: dark_green
+    color: green
 
