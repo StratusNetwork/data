@@ -23,7 +23,7 @@ minecraft_permissions:
   - whitelist.bypass
 minecraft_flair:
   normal:
-    symbol: "[IF] "
+    symbol: "*"
     color: dark_green
 web_permissions:
   forum:
