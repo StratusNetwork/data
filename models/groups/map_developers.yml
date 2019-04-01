@@ -130,6 +130,7 @@ minecraft_permissions:
   - pgm.team.alias
   - pgm.team.force
   - pgm.team.size
+  - pgm.team.shuffle
   - pgm.timelimit
   - pgm.updatemap
   - poll.custom
