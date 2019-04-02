@@ -2,21 +2,21 @@ name: Default
 priority: 1
 count: 0
 maps:
-- Decay
-- Finis
-- Dry Outpost
-- Wilky Way
-- Snowy Frontier
 - Garden
-- Lagoon
-- Government
+- Decay
 - Hekla
-- Nyah
-- Downforce
-- Stonehenge
-- Command
-- Sheol
+- Dry Outpost
+- Finis
+- Snowy Frontier
 - Covert Fortress
-- Hillside Mini
-- Vertex
+- Wilky Way
+- Stonehenge
 - "Interitus: Mini"
+- Vertex
+- Government
+- Gelid 2
+- Nyah
+- Sheol
+- Lagoon
+- Toss Up
+- Downforce
