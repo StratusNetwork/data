@@ -1,11 +1,11 @@
 name: Medium
 priority: 3
-count: 32
+count: 26
 maps:
 - Empired
-- Verlate
-- Circus DTC
-- Golden Drought III.V
+- Sunburn
+- "Sunrise Over Paradise: Emerald"
+- Nextgen
 - Ender Blast
 - Tetrad
 - Desert Sanctuary
@@ -13,24 +13,24 @@ maps:
 - Clearcut
 - Highlands
 - Facility
-- Nextgen
-- "Sunrise Over Paradise: Emerald"
-- Glina
-- Equinox
+- Golden Drought III.V
+- Circus DTC
+- Cargo
+- Green
 - "Wit's End"
 - Empired
-- Circus DTC
-- Golden Drought III.V
+- "Sunrise Over Paradise: Emerald"
+- Nextgen
 - Desert Sanctuary
 - Ender Blast
 - Tetrad
 - Antiquis
-- Sunburn
+- Verlate
 - Clearcut
 - Highlands
 - Facility
-- Nextgen
-- "Sunrise Over Paradise: Emerald"
-- Glina
+- Golden Drought III.V
+- Circus DTC
+- Cargo
 - Temple
 - "Wit's End"

@@ -1,25 +1,25 @@
 name: Mega
 priority: 4
-count: 50
+count: 44
 maps:
-- Jungle Beat
+- Fox Strife
 - "Storm: Redux"
-- Interitus
-- Fox Strife
-- Mystic Point
-- BlockRAGE
-- Battle Ecliptica III
-- Fractal Descent
-- Ring Run
-- "Stampede: Redux"
-- Monument Valley
-- Circus CTW
 - Midnight Train
-- The Last Sunset
 - Jungle Beat
+- Mystic Point
+- "Stampede: Redux"
+- Battle Ecliptica III
+- Fractal Descent
+- Ring Run
+- BlockRAGE
+- Monument Valley
+- Circus CTW
 - Interitus
-- The Hill
+- The Last Sunset
 - Fox Strife
+- Midnight Train
+- The Hill
+- Jungle Beat
 - Mystic Point
 - Battle Ecliptica III
 - BlockRAGE
@@ -27,6 +27,6 @@ maps:
 - Ring Run
 - Monument Valley
 - The Last Sunset
-- Circus CTW
-- Midnight Train
 - Fourchette
+- Interitus
+- Circus CTW
