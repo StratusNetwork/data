@@ -2,6 +2,7 @@ name: Mega
 priority: 4
 count: 44
 maps:
+- Ring Run
 - Grub
 - Royal Garden DTC
 - Hodran
@@ -29,4 +30,3 @@ maps:
 - Monument Valley
 - PixelMix OG
 - Fractal Descent
-- Ring Run

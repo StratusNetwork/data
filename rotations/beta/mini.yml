@@ -2,9 +2,10 @@ name: Mini
 priority: 2
 count: 12
 maps:
+- Battle Ecliptica II
 - Nirow
 - "Hot Dam: Mini"
-- Battle Ecliptica II
+- Gralien
 - Urban Sprawl
 - Seven
 - Enchanted
@@ -17,10 +18,10 @@ maps:
 - Limbo II
 - "Rocky's Bane"
 - Donut Wars
-- Gralien
+- Battle Ecliptica II
 - Directrix
 - "Hot Dam: Mini"
-- Battle Ecliptica II
+- Gralien
 - Urban Sprawl
 - Hillcity
 - Enchanted
@@ -33,4 +34,3 @@ maps:
 - Limbo II
 - "Rocky's Bane"
 - Donut Wars
-- Gralien

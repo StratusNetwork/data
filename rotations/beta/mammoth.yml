@@ -2,6 +2,7 @@ name: Mammoth
 priority: 5
 count: 60
 maps:
+- Golden Drought
 - Scrap Mettle
 - Beehive
 - Battle Ecliptica IV.V
@@ -13,4 +14,3 @@ maps:
 - Ozone
 - Race for Victory 3
 - Irongate Harbor
-- Golden Drought

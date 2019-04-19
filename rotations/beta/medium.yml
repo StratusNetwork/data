@@ -2,6 +2,7 @@ name: Medium
 priority: 3
 count: 26
 maps:
+- Empired
 - Desert Sanctuary
 - "Sunrise Over Paradise: Emerald"
 - Outcrop
@@ -9,7 +10,7 @@ maps:
 - Downtown
 - Tetrad
 - Atromix
-- Empired
+- Hallows
 - Canopy
 - Cargo
 - Desert Cataract
@@ -17,7 +18,7 @@ maps:
 - Facility
 - Nutrient
 - "Coastline: Emerald"
-- Hallows
+- Empired
 - The Complex CTF
 - "Sunrise Over Paradise: Emerald"
 - Outcrop
@@ -25,7 +26,7 @@ maps:
 - Green
 - Tetrad
 - Atromix
-- Empired
+- Hallows
 - Canopy
 - Cargo
 - Desert Cataract
@@ -33,4 +34,3 @@ maps:
 - Facility
 - Nutrient
 - "Coastline: Emerald"
-- Hallows
