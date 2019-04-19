@@ -2,21 +2,23 @@ name: Default
 priority: 1
 count: 0
 maps:
-- Garden
-- Decay
-- Hekla
-- Dry Outpost
-- Finis
+- Atom
+- Come Summertime
 - Snowy Frontier
-- Covert Fortress
-- Wilky Way
-- Stonehenge
-- "Interitus: Mini"
-- Vertex
-- Government
-- Gelid 2
+- Garden
+- Under The Sea
+- Dry Outpost
+- Hekla
 - Nyah
-- Sheol
-- Lagoon
-- Toss Up
+- Finis
+- Mesa
 - Downforce
+- Wilky Way
+- Dead Waters
+- Geometric
+- Lagoon
+- Gelid 2
+- The Bug
+- Toss Up
+- Vertex
+- Maple Falls
