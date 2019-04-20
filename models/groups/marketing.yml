@@ -28,6 +28,8 @@ minecraft_permissions:
   - setting.nick.unlimited
   staging:
   - whitelist.bypass
+  anax:
+  - network.stratus.login
 web_permissions:
   forum:
     parent:

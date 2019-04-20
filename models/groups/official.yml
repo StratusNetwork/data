@@ -61,6 +61,8 @@ minecraft_permissions:
   - whitelist.bypass
   - whitelist.edit
   - op
+  anax:
+  - network.stratus.login
 minecraft_flair:
   tournament:
     color: dark_aqua

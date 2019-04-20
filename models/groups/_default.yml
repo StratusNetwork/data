@@ -72,22 +72,6 @@ minecraft_permissions:
   anax:
   - anax.chat.global
   - anax.chat.world
-  - anax.command.maps
-  - anax.tp
-  - commandbook.clear
-  - commandbook.locations.coords
-  - commandbook.msg
-  - commandbook.speed.flight
-  - commandbook.speed.walk
-  - commandbook.teleport
-  - commandbook.time.check
-  - minecraft.command.clear
-  - minecraft.command.list
-  - worldedit.navigation.unstuck
-  - worldedit.navigation.thru.command
-  - worldedit.navigation.jumpto.command
-  - worldedit.navigation.thru.tool
-  - worldedit.navigation.jumpto.tool
   - anax.command.addmember
   - anax.command.confirm
   - anax.command.create
@@ -96,25 +80,43 @@ minecraft_permissions:
   - anax.command.flags
   - anax.command.load
   - anax.command.lock
+  - anax.command.maps
   - anax.command.removemember
   - anax.command.setspawn
   - anax.command.state
   - anax.command.toggle
   - anax.command.unload
   - anax.command.unlock
-  - commandbook.give
-  - commandbook.give.infinite
-  - commandbook.give.stacks
-  - commandbook.give.stacks.unlimited
+  - anax.tp
+  - commandbook.clear
   - commandbook.gamemode
   - commandbook.gamemode.change
   - commandbook.gamemode.check
   - commandbook.gamemode.check.other
-  - permissions.build
+  - commandbook.give
+  - commandbook.give.infinite
+  - commandbook.give.stacks
+  - commandbook.give.stacks.unlimited
+  - commandbook.god
+  - commandbook.locations.coords
+  - commandbook.msg
+  - commandbook.speed.flight
+  - commandbook.speed.walk
+  - commandbook.teleport
+  - commandbook.time.check
+  - minecraft.command.clear
   - minecraft.command.enchant
   - minecraft.command.effect
   - minecraft.command.give
+  - minecraft.command.list
+  - minecraft.command.tell
   - minecraft.command.xp
+  - worldedit.navigation.unstuck
+  - worldedit.navigation.thru.command
+  - worldedit.navigation.jumpto.command
+  - worldedit.navigation.thru.tool
+  - worldedit.navigation.jumpto.tool
+  - permissions.build
 web_permissions:
   site:
     login: true

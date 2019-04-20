@@ -13,6 +13,11 @@ web_permissions:
   group: 
     parent:
       admin: true
+    anax_manager:
+      admin: true
+      manage: true
+      edit:
+        members: true
     builders:
       admin: true
       manage: true
