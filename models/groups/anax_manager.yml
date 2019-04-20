@@ -40,3 +40,4 @@ minecraft_permissions:
   - minecraft.command.scoreboard
   - minecraft.command.stop
   - minecraft.command.whitelist
+  - network.stratus.login
