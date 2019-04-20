@@ -16,6 +16,7 @@ minecraft_permissions:
   - anax.command.import
   - anax.command.import.other
   - anax.tp.all
+  - anax.world.4
   - anax.world.manage.all
   - bukkit.command.timings
   - commandbook.god.other
