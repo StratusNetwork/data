@@ -22,6 +22,9 @@ minecraft_permissions:
   - setting.nick.set
   - setting.nick.unlimited
   - whitelist.bypass
+  anax:
+  - network.stratus.login
+  - anax.world.2
 staff: true
 minecraft_flair:
   normal:

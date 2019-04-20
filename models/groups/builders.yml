@@ -57,6 +57,9 @@ minecraft_permissions:
   - map.rating.view.live
   staging:
   - whitelist.bypass
+  anax:
+    - network.stratus.login
+    - anax.world.4
 web_permissions:
   forum:
     59ac4344a2e3a90001000045: #Staff/Discussion

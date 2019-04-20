@@ -1,0 +1,5 @@
+name: Anax Login
+priority: 1000
+minecraft_permissions:
+  anax:
+    - network.stratus.login

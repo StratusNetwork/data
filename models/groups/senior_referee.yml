@@ -39,6 +39,9 @@ minecraft_permissions:
   - tourney.bypass-whitelist
   - tourney.referee
   - tourney.srreferee
+  anax:
+  - network.stratus.login
+  - anax.world.2
 web_permissions:
   forum:
     58e16ed6f6e8a83410000051: #Events/Information

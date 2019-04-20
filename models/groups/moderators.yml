@@ -111,6 +111,9 @@ minecraft_permissions:
     - worldedit.wand.toggle
   staging:
   - whitelist.bypass
+  anax:
+    - network.stratus.login
+    - anax.world.2
 web_permissions:
   forum:
     parent:

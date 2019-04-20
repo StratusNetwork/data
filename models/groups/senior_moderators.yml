@@ -139,6 +139,9 @@ minecraft_permissions:
   - worldedit.tool.info
   - worldedit.wand
   - worldedit.wand.toggle
+  anax:
+  - network.stratus.login
+  - anax.world.2
 staff: true
 premium: true
 web_permissions:

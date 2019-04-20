@@ -162,3 +162,32 @@ minecraft_permissions:
   - worldedit.tool.info
   - worldedit.wand
   - worldedit.wand.toggle
+  anax:
+  - anax.admin
+  - anax.chat.admin
+  - anax.command.import
+  - anax.command.import.other
+  - anax.tp.all
+  - anax.world.manage.all
+  - bukkit.command.timings
+  - commandbook.speed.flight.other
+  - commandbook.speed.walk.other
+  - commandbook.teleport.other
+  - commandbook.gamemode.change.other
+  - commandbook.clear.other
+  - minecraft.command.ban
+  - minecraft.command.ban-ip
+  - minecraft.command.banlist
+  - minecraft.command.give
+  - minecraft.command.kick
+  - minecraft.command.kill
+  - minecraft.command.pardon
+  - minecraft.command.pardon-ip
+  - minecraft.command.playsound
+  - minecraft.command.save-all
+  - minecraft.command.save-off
+  - minecraft.command.save-on
+  - minecraft.command.say
+  - minecraft.command.scoreboard
+  - minecraft.command.stop
+  - minecraft.command.whitelist

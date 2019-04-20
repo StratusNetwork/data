@@ -14,6 +14,9 @@ minecraft_permissions:
   - cloudy.ranks.strato
   premium:
   - whitelist.bypass
+  anax:
+    - network.stratus.login
+    - anax.world.2
 minecraft_flair:
   normal:
     symbol: "*"
