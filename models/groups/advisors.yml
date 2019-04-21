@@ -16,6 +16,8 @@ minecraft_permissions:
   - setting.nick.set
   - setting.nick.unlimited
   - whitelist.bypass
+  anax:
+  - network.stratus.login
 web_permissions:
   forum:
     parent:

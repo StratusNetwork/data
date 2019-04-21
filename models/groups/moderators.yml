@@ -113,7 +113,7 @@ minecraft_permissions:
   - whitelist.bypass
   anax:
     - network.stratus.login
-    - anax.world.2
+    - anax.world.3
 web_permissions:
   forum:
     parent:

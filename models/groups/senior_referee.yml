@@ -41,7 +41,7 @@ minecraft_permissions:
   - tourney.srreferee
   anax:
   - network.stratus.login
-  - anax.world.2
+  - anax.world.3
 web_permissions:
   forum:
     58e16ed6f6e8a83410000051: #Events/Information

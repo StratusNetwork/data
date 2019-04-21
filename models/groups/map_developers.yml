@@ -52,6 +52,14 @@ web_permissions:
     59ac445ca2e3a90001000048: #Staff/Map_Developers
         manage: true
         bypass_cooldown: true
+  group: 
+    parent:
+      admin: true
+    anax_login:
+      admin: true
+      manage: true
+      edit:
+        members: true
   map:
     rating:
       view:
@@ -168,8 +176,10 @@ minecraft_permissions:
   - anax.command.import
   - anax.command.import.other
   - anax.tp.all
+  - anax.world.5
   - anax.world.manage.all
   - bukkit.command.timings
+  - commandbook.god.other
   - commandbook.speed.flight.other
   - commandbook.speed.walk.other
   - commandbook.teleport.other
@@ -191,3 +201,4 @@ minecraft_permissions:
   - minecraft.command.scoreboard
   - minecraft.command.stop
   - minecraft.command.whitelist
+  - network.stratus.login

@@ -1,2 +1,5 @@
 name: Participating Referee
 priority: 1000
+minecraft_permissions:
+  anax:
+  - network.stratus.login
