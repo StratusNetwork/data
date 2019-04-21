@@ -202,3 +202,4 @@ minecraft_permissions:
   - minecraft.command.stop
   - minecraft.command.whitelist
   - network.stratus.login
+  - op
