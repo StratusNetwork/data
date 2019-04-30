@@ -1,6 +1,6 @@
 name: Advisors
-priority: 499
-staff: false
+priority: 720
+staff: true
 premium: true
 minecraft_permissions:
   global:
