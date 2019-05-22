@@ -5,3 +5,5 @@ minecraft_permissions:
   - ocn.requestserver
   - ocn.requestserver.custom
   - "-minecraft.command.ban-ip"
+  practice
+  - whitelist.bypass
