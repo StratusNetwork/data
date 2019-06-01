@@ -1,0 +1,4 @@
+parent: base
+scoreboard:
+  show-proximity: true
+  precise-progress: true
