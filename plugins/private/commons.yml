@@ -9,9 +9,6 @@ channels:
   admin:
     enabled: true
     cross-server: false
-scoreboard:
-  show-proximity: true
-  precise-progress: true
 afk:
   timeout: 15m
   warning: 14m
