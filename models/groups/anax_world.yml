@@ -1,0 +1,5 @@
+name: Anax World
+priority: 1000
+minecraft_permissions:
+  anax:
+  - anax.world.1
