@@ -11,6 +11,7 @@ web_permissions:
         members: true
 minecraft_permissions:
   anax:
+  - op
   - anax.admin
   - anax.chat.admin
   - anax.command.import
@@ -41,4 +42,3 @@ minecraft_permissions:
   - minecraft.command.stop
   - minecraft.command.whitelist
   - network.stratus.login
-  - op
