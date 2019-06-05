@@ -112,6 +112,7 @@ minecraft_permissions:
   - minecraft.command.selector
   - minecraft.command.tell
   - minecraft.command.xp
+  - network.stratus.login
   - worldedit.navigation.unstuck
   - worldedit.navigation.thru.command
   - worldedit.navigation.jumpto.command

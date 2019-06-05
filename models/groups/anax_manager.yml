@@ -9,6 +9,11 @@ web_permissions:
       manage: true
       edit:
         members: true
+    anax_world:
+      admin: true
+      manage: true
+      edit:
+        members: true
 minecraft_permissions:
   anax:
   - op

@@ -18,6 +18,11 @@ web_permissions:
       manage: true
       edit:
         members: true
+    anax_world:
+      admin: true
+      manage: true
+      edit:
+        members: true
     builders:
       admin: true
       manage: true
