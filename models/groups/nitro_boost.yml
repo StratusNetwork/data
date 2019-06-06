@@ -1,6 +1,7 @@
 # Discord Nitro Booster
 name: "💎"
 priority: 885
+badge_color: "#ffffff"
 minecraft_permissions:
   normal:
   - lobby.fly
