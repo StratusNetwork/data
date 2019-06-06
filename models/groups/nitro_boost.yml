@@ -1,0 +1,12 @@
+# Discord Nitro Booster
+name: "💎"
+priority: 885
+minecraft_permissions:
+  normal:
+  - lobby.fly
+  - overcast.premium
+  - raindrops.multiplier.150
+minecraft_flair:
+  normal:
+    symbol: "☆"
+    color: pink
