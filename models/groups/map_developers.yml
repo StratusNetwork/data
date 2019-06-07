@@ -186,13 +186,13 @@ minecraft_permissions:
   - commandbook.gamemode.change.other
   - commandbook.clear.other
   - minecraft.command.ban
-  - minecraft.command.ban-ip
+  - "-minecraft.command.ban-ip"
   - minecraft.command.banlist
   - minecraft.command.give
   - minecraft.command.kick
   - minecraft.command.kill
   - minecraft.command.pardon
-  - minecraft.command.pardon-ip
+  - "-minecraft.command.pardon-ip"
   - minecraft.command.playsound
   - minecraft.command.save-all
   - minecraft.command.save-off
