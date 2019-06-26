@@ -1,0 +1,4 @@
+name: Plant Directive
+description: Find all the hidden Plants in the WOOL–E lobby
+priority: 41
+css_class: fa fa-seedling
