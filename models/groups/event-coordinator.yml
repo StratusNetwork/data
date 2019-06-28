@@ -9,6 +9,11 @@ minecraft_flair:
   tournament:
     symbol: "❖"
     color: aqua
+    priority: 90
+  private:
+    symbol: "❖"
+    color: aqua
+    priority: 90
   practice:
     symbol: "❖"
     color: aqua
@@ -87,6 +92,8 @@ minecraft_permissions:
   - worldedit.tool.info
   - worldedit.wand
   - worldedit.wand.toggle
+  private:
+  - whitelist.bypass
   practice:
   - bukkit.command.stop
   - chat.admin

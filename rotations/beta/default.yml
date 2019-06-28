@@ -2,23 +2,23 @@ name: Default
 priority: 1
 count: 0
 maps:
-- Atom
-- Snowy Frontier
-- Come Summertime
-- Garden
-- Under The Sea
-- Hekla
-- Dry Outpost
-- Nyah
-- Finis
-- Mesa
-- Downforce
-- Wilky Way
-- Dead Waters
-- Geometric
-- Lagoon
-- Gelid 2
-- The Bug
-- Toss Up
+- Sheol
 - Vertex
+- Geometric
+- Hekla
+- The Bug
+- Gelid 2
+- Come Summertime
+- Alien
+- Garden
+- Covert Fortress
+- Wilky Way
+- Snowy Frontier
+- Lagoon
+- Dead Waters
+- Under The Sea
+- Downforce
+- Finis
 - Maple Falls
+- Toss Up
+- Nyah

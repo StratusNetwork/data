@@ -1,34 +1,34 @@
 name: Medium
 priority: 3
-count: 26
+count: 24
 maps:
-- Tetrad
-- Verlate
-- "Coastline: Emerald"
-- Outcrop
-- "Sunrise Over Paradise: Emerald"
-- Quadrival
-- Ceasefire
-- Streamline
-- Arabia
-- Canopy
-- Golden Drought III.V
-- The Complex CTF
 - Empired
-- Equinox
-- Cargo
-- Tetrad
-- Desert Sanctuary
-- "Coastline: Emerald"
-- Outcrop
+- BlockRAGE
+- Azure
+- Golden Drought III.V
 - "Sunrise Over Paradise: Emerald"
 - Green
-- Nutrient
-- Streamline
-- Arabia
-- Canopy
-- Golden Drought III.V
+- "Wit's End"
+- Fractal Descent
+- Tetrad
+- Palace CTF
+- clearcut_public
+- Highlands
+- Quadrival
+- Ceasefire
 - Desert Cataract
 - Empired
-- Facility
-- Cargo
+- BlockRAGE
+- Azure
+- Golden Drought III.V
+- "Sunrise Over Paradise: Emerald"
+- Uboat Konig
+- "Wit's End"
+- Fractal Descent
+- Tetrad
+- Desert Sanctuary
+- clearcut_public
+- Highlands
+- Downtown
+- Ceasefire
+- Desert Cataract
