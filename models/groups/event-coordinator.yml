@@ -44,7 +44,7 @@ minecraft_permissions:
   - nocheatplus.admin
   - nocheatplus.checks.chat
   - nocheatplus.checks.moving.boatsanywhere
-  - ocn.teleport.others
+  - "-ocn.teleport.others"
   - overcast.premium
   - pgm.cancel
   - pgm.chat.admin
