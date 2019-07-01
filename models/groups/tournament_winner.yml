@@ -15,5 +15,5 @@ minecraft_permissions:
 minecraft_flair:
   normal:
     symbol: "*"
-    color: gold
+    color: dark_red
     priority: 690
