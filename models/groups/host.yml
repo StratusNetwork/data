@@ -4,42 +4,23 @@ premium: true
 staff: false
 minecraft_permissions:
   normal:
-  - pgm.cancel
   - pgm.chat.all.receive
-  - pgm.cycle
-  - pgm.end
   - pgm.fullserver
-  - pgm.join.force
-  - pgm.next.set
-  - pgm.skip
-  - pgm.start
-  - pgm.team.alias
-  - pgm.team.force
-  - pgm.team.size
-  - pgm.timelimit
-  - projectares.staff
-  - server.cancelrestart
-  - server.queuerestart
-  - server.restart
   private:
   - chat.admin
   - pgm.chat.all.receive
   - pgm.fullserver
   - pgm.team.force
   - setting.adminchat
-  - setting.nick
-  - setting.nick.any
-  - setting.nick.any.get
-  - setting.nick.get
-  - setting.nick.immediate
-  - setting.nick.set
-  - setting.nick.unlimited
+  - nick.see-through-all
+  - setting.nick.view
   - channels.global.send
   - chat.admin
   - commandbook.broadcast
   - commandbook.gamemode
   - commandbook.gamemode.change
   - commandbook.time.player
+  - minecraft.command.stop
   - pgm.cancel
   - pgm.chat.all.receive
   - pgm.cycle
@@ -54,6 +35,7 @@ minecraft_permissions:
   - pgm.team.force
   - pgm.team.size
   - pgm.timelimit
+  - projectares.freeze.exempt
   - projectares.staff
   - server.cancelrestart
   - server.queuerestart
