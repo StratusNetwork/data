@@ -4,16 +4,12 @@ html_color: "#ef6c00"
 badge_color: "#ef6c00"
 minecraft_permissions:
   global:
-  - bukkit.command.gamemode
-  - bukkit.command.gamerule
   - chat.admin
   - chatmoderator.filters.exempt
-  - commandbook.*
   - gizmo.immunity
   - lobby.disabled-permissions-exempt
   - lobby.fly
   - lobby.restricted.access
-  - op
   - pgm.mapdev
   - pgm.next.set
   - projectares.staff
@@ -26,9 +22,7 @@ minecraft_permissions:
   - setting.nick.set
   - setting.nick.unlimited
   - skin.change
-  - tokens.give
   - whitelist.bypass
   - whitelist.edit
-  - worldedit.*
 staff: false
 premium: true
