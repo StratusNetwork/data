@@ -2,33 +2,33 @@ name: Medium
 priority: 3
 count: 24
 maps:
-- Empired
+- Clearcut
 - BlockRAGE
 - Azure
-- Golden Drought III.V
-- "Sunrise Over Paradise: Emerald"
-- Green
-- "Wit's End"
-- Fractal Descent
 - Tetrad
+- "Sunrise over Paradise: Emerald"
+- Temple
+- Doremi
+- Fractal Descent
+- Golden Drought III.V
 - Palace CTF
-- clearcut_public
-- Highlands
+- "Wit's End"
+- Ender Blast
 - Quadrival
-- Ceasefire
-- Desert Cataract
 - Empired
+- Clockwork
+- Clearcut
 - BlockRAGE
 - Azure
-- Golden Drought III.V
-- "Sunrise Over Paradise: Emerald"
-- Uboat Konig
-- "Wit's End"
-- Fractal Descent
 - Tetrad
+- "Sunrise over Paradise: Emerald"
+- Green
+- Canyon
+- Fractral Descent
+- Golden Drought III.V
 - Desert Sanctuary
-- clearcut_public
-- Highlands
+- "Wit's End"
+- Ender Blast
 - Downtown
-- Ceasefire
-- Desert Cataract
+- Empired
+- Clockwork
