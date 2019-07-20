@@ -2,7 +2,7 @@ name: Medium
 priority: 3
 count: 24
 maps:
-- Clearcut
+- clearcut_public
 - BlockRAGE
 - Azure
 - Tetrad
@@ -17,7 +17,7 @@ maps:
 - Quadrival
 - Empired
 - Clockwork
-- Clearcut
+- clearcut_public
 - BlockRAGE
 - Azure
 - Tetrad
