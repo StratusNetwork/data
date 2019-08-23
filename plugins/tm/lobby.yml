@@ -1,0 +1,87 @@
+boundaries:
+  use-world-border: false
+exempt: []
+disabled-permissions: []
+portals:
+  portals:
+    Official01:
+      min:
+      - -14.0
+      - 8.0
+      - -25.0
+      max:
+      - -15.0
+      - 12.0
+      - -29.0
+      to: '@official-0'
+    Official02:
+      min:
+      - -12.0
+      - 8.0
+      - -32.0
+      max:
+      - -9.0
+      - 12.0
+      - -33.0
+      to: '@official-1'
+    Official03:
+      min:
+      - -8.0
+      - 8.0
+      - -32.0
+      max:
+      - -9.0
+      - 12.0
+      - -5.0
+      to: '@official-2'
+    Official04:
+      min:
+      - -4.0
+      - 8.0
+      - -32.0
+      max:
+      - -9.0
+      - 12.0
+      - -1.0
+      to: '@official-3'
+    Official05:
+      min:
+      - 6.0
+      - 8.0
+      - -32.0
+      max:
+      - 9.0
+      - 12.0
+      - -33.0
+      to: '@official-4'
+    Official06:
+      min:
+      - 10.0
+      - 8.0
+      - -32.0
+      max:
+      - 13.0
+      - 12.0
+      - -33.0
+      to: '@official-5'
+    Official07:
+      min:
+      - 14.0
+      - 8.0
+      - -32.0
+      max:
+      - 17.0
+      - 12.0
+      - -33.0
+      to: '@official-6'
+    Official08:
+      min:
+      - -20.0
+      - 8.0
+      - -25.0
+      max:
+      - 19.0
+      - 12.0
+      - -29.0
+      to: '@official-0'
+  enabled: true
