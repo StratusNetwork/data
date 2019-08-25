@@ -20,6 +20,6 @@ stats:
   engagements:
     enabled: true
 freeze:
-  enabled: false
+  enabled: true
 player-list:
   players-see-observers: false
