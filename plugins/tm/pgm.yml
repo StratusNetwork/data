@@ -12,7 +12,7 @@ minimum-players: 0
 teams:
   minimum-players: 0
 scoreboard:
-  show-proximity: true
+  show-proximity: false
   precise-progress: true
 stats:
   deaths: true
