@@ -38,7 +38,11 @@ navigator:
     "4,1":
       icon:
         id: SPECTRAL_ARROW
-      to: '@mixed'
+      to: '@mixed-0'
+    "4,2":
+      icon:
+        id: SPECTRAL_ARROW
+      to: '@mixed-1'
     "3,1":
       icon:
         id: DIAMOND_PICKAXE
