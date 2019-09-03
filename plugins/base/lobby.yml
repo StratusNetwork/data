@@ -13,7 +13,7 @@ portals:
       - -22.0
       - 8.0
       - -151.0
-      to: '@mixed'
+      to: '@mixed-0'
     Uhc:
       min:
       - -1.0
