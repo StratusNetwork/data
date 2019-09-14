@@ -94,6 +94,42 @@ minecraft_permissions:
   - worldedit.wand.toggle
   private:
   - whitelist.bypass
+  - chat.admin
+  - pgm.chat.all.receive
+  - pgm.fullserver
+  - pgm.team.force
+  - setting.adminchat
+  - nick.see-through-all
+  - setting.nick.view
+  - channels.global.send
+  - chat.admin
+  - commandbook.broadcast
+  - commandbook.gamemode
+  - commandbook.gamemode.change
+  - commandbook.time.player
+  - minecraft.command.stop
+  - pgm.cancel
+  - pgm.chat.all.receive
+  - pgm.cycle
+  - pgm.destroyable.edit
+  - pgm.end
+  - pgm.fullserver
+  - pgm.join.force
+  - pgm.next.set
+  - pgm.skip
+  - pgm.start
+  - pgm.team.alias
+  - pgm.team.force
+  - pgm.team.size
+  - pgm.timelimit
+  - projectares.freeze.exempt
+  - projectares.staff
+  - server.cancelrestart
+  - server.queuerestart
+  - server.restart
+  - server.visibility
+  - whitelist.bypass
+  - whitelist.edit
   practice:
   - bukkit.command.stop
   - chat.admin
