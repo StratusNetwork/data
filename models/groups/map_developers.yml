@@ -10,7 +10,7 @@ minecraft_flair:
   mapdev:
     color: blue
     symbol: "[MapDev] "
-    priority: 90
+    priority: 15
 staff: true
 premium: true
 web_permissions:
