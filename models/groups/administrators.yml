@@ -4,6 +4,9 @@ html_color: "#f9a825"
 badge_color: "#f9a825"
 badge_link: "/staff"
 minecraft_permissions:
+  pre:
+  - op
+  - pgm.*
   global:
   - "-nocheatplus.checks"
   - "-nocheatplus.mods.rei"

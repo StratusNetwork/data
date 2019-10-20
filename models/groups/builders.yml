@@ -18,6 +18,8 @@ web_permissions:
       development:
         view: all
 minecraft_permissions:
+  pre:
+  - pgm.premium
   mapdev:
   - commandbook.clear
   - commandbook.clear.other

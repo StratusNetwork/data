@@ -73,6 +73,8 @@ web_permissions:
     player:
       view_new_players: true
 minecraft_permissions:
+  pre:
+  - pgm.dev
   mapdev:
   - commandbook.clear
   - commandbook.clear.other

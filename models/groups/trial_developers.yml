@@ -4,6 +4,8 @@ html_color: "#ce93d8"
 badge_color: "#ce93d8"
 badge_link: "/staff"
 minecraft_permissions:
+  pre:
+  - pgm.dev
   global:
   - lobby.fly
   - ocn.developer

@@ -5,6 +5,8 @@ badge_color: "#6a1b9a"
 badge_link: "/staff"
 premium: true
 minecraft_permissions:
+  pre:
+  - pgm.dev
   global:
   - chat.admin
   - commandbook.*

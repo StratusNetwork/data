@@ -10,6 +10,8 @@ minecraft_flair:
     color: red
     symbol: "[Mod] "
 minecraft_permissions:
+  pre:
+  - pgm.mod
   global:
     - nick.see-through-all
   normal:

@@ -4,6 +4,8 @@ html_color: "#ef9a9a"
 badge_color: "#ef9a9a"
 badge_link: "/staff"
 minecraft_permissions:
+  pre:
+  - pgm.mod
   global:
     - nick.see-through-all
   normal:

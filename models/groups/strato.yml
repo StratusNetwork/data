@@ -4,6 +4,8 @@ badge_color: "#616161"
 badge_link: "/shop"
 premium: true
 minecraft_permissions:
+  pre:
+  - pgm.premium
   normal:
   - lobby.fly
   - overcast.premium
