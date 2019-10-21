@@ -12,6 +12,8 @@ minecraft_flair:
 minecraft_permissions:
   pre:
   - pgm.mod
+  - minecraft.command.kick
+  - minecraft.command.ban
   global:
     - nick.see-through-all
   normal:
